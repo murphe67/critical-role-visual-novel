@@ -1,0 +1,24 @@
+-music adventure
+-background lightblue
+-scene Introduction
+-show matt 0
+-speak Matt
+Hello everyone. My name is Matthew Mercer, voice actor and Dungeon Master for Critical Role, where I take a bunch of other voice actors and run them through a fantastical fantasy adventure through the world of Dungeons & Dragons.
+-hide matt
+-setbattle CR_C1_E1/1
+-updatebattle
+-speak Matt
+This is the second sentence, just to check the speed properly.
+-hide matt
+-speak Matt
+This is the third sentence, just to check the speed properly.
+-endbattle
+-slowbackground parchment
+-speak Matt 
+This is the fourth sentence, just to check the speed properly.
+-slowbackground storm
+-speak Matt 
+This is the fifth sentence, just to check the speed properly.
+-speak Matt 
+This is the 6th sentence, just to check the speed properly.
+-end
