@@ -18,6 +18,8 @@ class SceneData {
 
   HashMap<String, String> changedArt;
   float heightScale;
+  
+  BattleMapSaver battleSaver;
 
   SceneData() {
   }

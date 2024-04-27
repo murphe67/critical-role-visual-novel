@@ -10,7 +10,7 @@ class Map {
   void SetBattle(String battle) {
     this.battle = battle;
     println(this.battle);
-    battleImage = 0; //<>// //<>//
+    battleImage = 0; //<>// //<>// //<>//
   }
 
   void UpdateBattle() {
@@ -46,6 +46,6 @@ class Map {
       backgroundGraphics.imageMode(CORNER);
       backgroundGraphics.tint(255);
       backgroundGraphics.image(map, 0, 0);
-    } //<>// //<>//
+    } //<>// //<>// //<>//
   }
 }

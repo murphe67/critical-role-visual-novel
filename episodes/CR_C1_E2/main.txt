@@ -1,0 +1,4276 @@
+-changeart tremaine elf_merchant
+-changeart hieris dwarfman4
+-background kraghammer
+-show grog -6.5
+-show vax -2
+-show vex -1
+-show keyleth -4
+-show scanlan -8
+-show percy -6
+-show carver 6
+-show carver1 7.8
+-show carver2 9
+-scene After the Battle
+-speak Matt
+Hello everyone, and welcome to the second episode of Critical Role, where a bunch of us crazy voice actor, nerdy types sit here and play Dungeons and Dragons.
+Let's get this party started.
+All of you are still riding the adrenaline of the battle.
+Scanlan feeling the tingling in his fingers, the arcane energy is still sparking.
+The rest of the nearby Carvers slowly converge in and begin to walk up to the party.
+And someone starts:
+-speak Carver
+That was great, that was well done!
+Fantastic! Where'd you learn that?
+-speak Matt
+One of them comes up there, 
+-speak Carver
+Ah, I could've done better than that.
+-speak Matt
+And they start just shouting off at each other and patting each other on the back.
+This lasts for a while before, all of a sudden, a hush comes over the crowd.
+-show nostoc 2.5
+-continue
+And you see Lord Nostoc Greyspine himself stepping through.
+He looks at the rest of the group and goes:
+-speak Nostoc
+All right, so you've certainly proven yourselves in battle.
+I would like to continue this conversation that we had back in my office if you don't mind.
+-hide nostoc
+-speak Keyleth
+Oh wait, Nostoc.
+-speak Matt
+He's not even listening, he's just walking off.
+-speak Keyleth
+Yeah, mmm.
+-speak Laura
+Are you still an eagle?
+Can you even talk to him?
+-speak Taliesin
+Shouldn't you just go caw?
+-speak Marisha
+Well I'm not an eagle.
+But I am still poisoned.
+-speak Laura
+Oh, I can help you.
+-speak Marisha
+That'd be great.
+-speak Laura
+Yeah! Hold on, I'm gonna go up, and I'm gonna cast--
+-speak Sam
+Cast? You can cast?
+-speak Laura
+I can. I've got plenty o' spells.
+-speak Liam
+You can kill?
+-speak Sam
+All right, fair enough.
+-speak Laura
+I'm gonna cast Protection from Poison on Keyleth.
+-speak Matt
+Go ahead and make a constitution saving throw with advantage.
+-speak Marisha
+13.
+-speak Matt
+That's enough. 
+As Vex casts the spell, you feel the rest of the poison leave your body. 
+It feels like you kind of get your breath back.
+The rest of the Carvers kind of look about, awkwardly staring back at Nostoc as he walks off.
+Kind of looking at you, waiting for you to follow. 
+-speak Scanlan
+Yeah, I guess we should go follow him.
+-speak Percy
+We have two very important questions.
+-speak Grog
+Can't we look in the hole a little bit more?
+-speak Vex
+We're gonna go in the hole in just a minute, Grog.
+-speak Scanlan
+Then you can smash, you'll be fine.
+-speak Grog
+You promise?
+-speak Vax
+You did that last night.
+We need to take care of business.
+Let's go talk to the man. I'm sure it's going to lead back to the mines.
+-speak Keyleth
+To the hole.
+-speak Vax
+Yes, to the hole. Everything's back to the hole.
+-speak Scanlan
+Percy, do you have something to say before we go?
+-speak Percy
+Well, this is good.
+We have to find out what that was.
+And we have to see if he'll finally give us some of that ale.
+I think are the two most important things.
+-speak Vex
+It was wine, I believe.
+-speak Scanlan
+No, it was bloody, bloody beer.
+-speak Vex
+Blood wine?
+-speak Grog
+Beerwine.
+-speak Matt
+It was delicious is what it was.
+-speak Travis
+It was really good.
+-speak Laura
+Let's go talk to Nostoc.
+-speak Sam
+Let's follow him, let's follow him.
+-hide carver
+-hide carver1
+-hide carver2
+-scene Nostoc
+-speak Matt
+You head back up the ramp from the mine to the upper area.
+-background bricks
+-show nostoc 4
+-continue
+You are brought into the building again, brought back to Nostoc's office.
+He's not sitting, he's kind of pacing behind his desk, waiting for you as you approach.
+As you enter the room, he stops pacing, turns around, puts his hand on the desk.
+-speak Nostoc
+Please, enter and close the doors behind you.
+-speak Scanlan
+Sir Greyspine.
+Lord Greyspine?
+Mr. Greyspine?
+-speak Nostoc
+Lord Greyspine is fine.
+-speak Scanlan
+Lord Greyspine, yes.
+Why have you summoned us here?
+Is it to tell us information about what just came out of your mine, I hope.
+-speak Nostoc
+Well let's be clear.
+We dwarves don't need help from outsiders.
+We can handle our own business just fine.
+-speak Vex
+Of course.
+-speak Nostoc
+You see these small intrusions have been bad for meeting our quotas with the Bronzegrip metal warehouse and export shipments.
+Employees have been forced to collapse a non-negotiable portion of our tunnels to prevent incursions like this.
+Without my approval.
+And this is a pattern I wish to stop at once.
+Thus, I have a proposition for you.
+Now, I will give you free reign to enter our mines.
+I'll make sure no Carvers bother you as you wander the city's lower ring.
+And I will contract you to delve past our tunnels and investigate the source of these creatures.
+Where they come from, where they live, and if there is some sort of a leader who gives them their commands.
+Eliminate them.
+For this, I will reward you with not a trifle sum.
+25,000 gold pieces.
+Plus 250 gold per beast scalp you provide upon returning.
+-speak Vex
+Ooh, I like this.
+-speak Scanlan
+Money is wonderful. We like money.
+But we've been charged to find Lady Kima.
+We need assurances that we will find her or at least some evidence of her in the mines.
+-speak Nostoc
+The brazen halfling bitch went in there without my approval and we haven't seen her since.
+So if she is down there, I hope she's in one piece.
+I can't guarantee it.
+But if there's any place to find her, that's probably it.
+-speak Vax
+We're the group of adventurers for you.
+I don't know if you've heard of the heroes of Emon, who just recently- 
+I'm sure you've heard something.
+Word travels fast.
+-speak Nostoc
+Not beneath this mountain, it doesn't, not of human business.
+-speak Vax
+We've just done a lot of good for the ruler of Emon.
+-speak Nostoc
+Great.
+How does that help us dwarves?
+-speak Vex
+Well, we've discovered, in our past adventures, that every realm seems to be having trouble with the same sort of creatures, coming up from the Underdark perhaps?
+-speak Vax
+All we're saying is, help us help you.
+What exactly have you seen before this day?
+More of the same? Or other creatures?
+-speak Matt
+He sits back for a second.
+-speak Nostoc
+The types of creatures, I do not know.
+I mostly deal with the business and just know that there's some bullshite going on down in the mines.
+You could ask our foreman, Hieris.
+He's dealt with the cleanup each time we've had an incursion like this.
+So if anyone has information on what these creatures are, he'd be the one to talk to.
+-speak Vex
+All right.
+-speak Percy
+I think this seems like the sort of job we'd want to take.
+-speak Grog
+Will we get paid for the monsters and creatures we've already slayed?
+-speak Nostoc
+This deal was not sewn in yet, so no.
+-speak Grog
+Oh.
+-speak Nostoc
+But we thank you for your aid.
+-speak Percy
+It is customary in our culture to seal a deal with a drink.
+As I think you are aware.
+-speak Vex
+Truly, truly.
+-speak Vax
+See, I wasn't just fucking with you last time.
+-speak Travis
+Ha! I forgot you did that.
+-speak Vax
+That's a thing we do.
+-speak Percy
+And since we are about to risk our lives...
+-speak Matt
+Make a persuasion roll.
+-speak Taliesin
+Yes! Happily.
+-speak Travis
+Roll good, it's the first one.
+-speak Liam
+Come on, Percy!
+-speak Taliesin
+14.
+-speak Sam
+It's pretty good. Not great.
+-speak Matt
+You can see this long, distant, angry, dwarven, mistrusting stare.
+Rubs his chin, his well-kept, red beard and goes:
+-speak Nostoc
+But a sip, as it was a gift.
+-speak Vex
+Yes!
+-speak Scanlan
+We'll take it.
+-speak Matt
+He pulls the ale barrel you guys provided, sets it on the side of his desk.
+It still has the spigot from earlier.
+-speak Nostoc
+Take a bit.
+A bit.
+-narrate
+Laura whispers.
+-speak Vex
+Put some in a bottle.
+-speak Vax
+Let me take care of it.
+-speak Liam
+I'll pour everyone a glass.
+I take my empty water flask that I emptied out before, and smile and pour glasses.
+And also squirting a little bit into it as I go.
+-speak Sam
+I start to just play a little ditty on the flute.
+-speak Scanlan
+I thought we could accompany our sip with a little bit of music, not to distract you, just to-
+Just to sort of accompany us.
+-speak Matt
+His nose squints at the sound.
+-speak Nostoc
+Gnomish tunes aren't to my ears and liking.
+-speak Matt
+All right, so go ahead and make a sleight of hand check on this.
+-speak Liam
+Okay. This is what I do.
+-speak Laura
+Roll well. Here we go.
+-speak Liam
+Oh, no.
+-speak Sam
+You have inspiration dice.
+-speak Liam
+Oh good. Now I'm at 19.
+-narrate
+Travis groans in relief.
+-speak Matt
+He's listening to the gnomish music and kind of pushing it away with his hands, like, 
+-speak Nostoc
+Stop, I don't- no.
+I appreciate it, but I don't.
+-speak Scanlan
+All right, there's not accounting for taste.
+-speak Matt
+As you do that, your wineskin goes to full.
+You switch over to one of the cups, you pass around the drinks.
+All of you manage to get your drinks passed around.
+-speak Vex
+Huzzah!
+-speak Nostoc
+To a contract!
+-speak Grog
+Aye! Huzzah!
+-speak Percy
+To a contract.
+-speak Scanlan
+L'chaim!
+-speak Keyleth
+Contracts.
+Love contracts.
+-speak Vax
+Is that Dwarvish?
+-speak Scanlan
+It's Gnomish.
+-speak Percy
+To risking our lives. For money.
+-speak Laura
+How old is Nostoc?
+Just out of curiosity.
+-speak Matt
+It's hard to tell.
+Dwarves live quite a long time.
+He would be equivalent to like a human forties.
+Dwarven time, somewhere in his mid-hundreds.
+-speak Keyleth
+Smells like its been in the barrel for a hundred years.
+-speak Vex
+This is excellent.
+-speak Vax
+Tastes like two buck Chuck.
+-speak Grog
+What do you know of a Ballsac up in the tavern?
+-speak Nostoc
+I'm sorry, what?
+-speak Grog
+Do I have that right?
+-speak Vex
+Ball, ball-
+-speak Keyleth
+Balgus.
+-speak Grog
+Balgus.
+-speak Nostoc
+Ah, Balgus, that's the brand of what you brought me.
+-speak Scanlan
+You know what, I think we asked about him last time.
+-speak Vex
+I think we did.
+-scene Short Rest
+-speak Marisha
+Is this considered a short rest?
+-hide nostoc
+-background kraghammer
+-speak Matt
+If you'd like to do that, that would just be taking a short rest outside, probably not in the office proper.
+-speak Laura
+Understandable.
+When we take a rest, can I look for Hieris?
+-speak Matt
+Definitely.
+So, while you guys are taking a short rest, you're able to use any of your hit dice to heal up naturally.
+-speak Sam
+I will sing a song of rest.
+And it goes a little something like:
+-speak Scanlan
+~Scanlan make you feel good~
+~Scanlan make you feel real good~
+-speak Sam
+You get an extra d6 healing.
+-speak Travis
+I appreciate the slow jam.
+-speak Laura
+I didn't take any damage. I'm at full health.
+-speak Matt
+So you got a slow jam just for the sake of the slow jam.
+-speak Laura
+That's right. And it was great.
+-speak Matt
+All right, roll an investigation check.
+-speak Laura
+Oh, 25.
+-speak Matt
+A brief discussion with a few of the other miners, around the outskirts of the buildings.
+Eventually it leads you over to a small, secondary building.
+That apparently is where Hieris resides and keeps watch over the entire establishment.
+-speak Liam
+I've tagged along.
+-speak Laura
+Knock knock knock.
+-speak Matt
+All right, the rest of you going with her?
+-speak Sam
+Yeah, we'll go with her.
+-speak Matt
+Why not! Why split the party?
+-scene Hieris
+-continue
+So the group makes their way over to the outskirts of the building.
+-show hieris 4
+-continue
+Opens up and a very nice, portly looking dwarf with a big tuft of a chinstrap beard.
+Big reddish, ruddy nose. Leather apron on.
+And he opens the door.
+-speak Hieris
+Aye, hello! Nice to meet you.
+What can I do for ye?
+-speak Vex
+Hi. You must be Hieris?
+-speak Hieris
+I am, I am.
+Foreman of this here fine mine.
+-speak Vex
+Wonderful to meet you.
+I've heard wonderful things about you.
+-speak Hieris
+Oh, have you! From who?
+-speak Vex
+Uh, from Lord Greyspine himself.
+-speak Hieris
+Really?
+Oh. All right.
+Well, how can I be of service?
+-speak Vex
+We were curious.
+I'm sure you witnessed all of those wonderful goblins and trolls and other nonsense coming out of the mine.
+-speak Hieris
+Aye. Nasty lot.
+It always makes my weeks that much more interesting.
+-speak Vex
+Weeks?
+So this has been happening for quite a while?
+-speak Hieris
+Unfortunately, at least five or six.
+-speak Vex
+And what kind of monsters have you been dealing with?
+-speak Hieris
+Terrible kinds.
+-speak Matt
+He starts rubbing his chin for a little and goes:
+-speak Hieris
+We generally deal with the occasional goblin den that we stumble across when opening new tunnels. 
+That's part of the norm. 
+Other nasty underground beasties. 
+However, over this past few weeks, we've seen some real nightmarish things slither out of the shadows. 
+Slimes and oozes that would mutate and change color rapidly before seeming to dissolve on their own.
+Unstable-looking really, in their form.
+Many goblins stitched together, like some kind of ball of screaming green lint. 
+-speak Scanlan
+Like a goblin centipede?
+-speak Hieris
+If you will, aye aye.
+-speak Scanlan
+Sounds like some type of necromancy magic.
+-speak Hieris
+Perhaps, but they're not undead, per se.
+They're still alive. At least from what we can tell.
+-speak Scanlan
+Oh, that's even worse.
+-speak Hieris
+We even had one brief run-in with what looked like a duergar that had sprouted eyes and mouths all across his body.
+That was a sight.
+-speak Scanlan
+What's a duergar?
+-speak Vax
+That's a dark dwarf.
+They're little fuckers, those are.
+-speak Hieris
+Aye, duergar.
+-speak Matt
+And he spits to the side.
+-speak Hieris
+Filthy lost souls. 
+Dwarves of old that turned to a darker god. 
+Thankfully, they live far beneath the mountains, and usually far north enough to not worry about it. 
+But one of them found its way up here, in this strange, awful, maw-covered form. 
+It was terrifying. 
+And the smell! 
+Anyway, we've even seen a few creatures from the surface as well, which is strange. 
+They don't wander down. Something's bringing them. Weirdest thing.
+I just heard we had some weird, many-headed serpent thing that just got killed down there. 
+-speak Vex
+Oh, that was us!
+We just killed that last one that came out, you see.
+-speak Hieris
+That was you!
+-speak Vex
+Yes!
+-speak Grog
+Our hero is right over here.
+-speak Scanlan
+Hi.
+-speak Matt
+And he steps onto his back leg, shifting his weight, and cocks an awkward eyebrow.
+-speak Hieris
+Really?
+-speak Scanlan
+I'm really strong for my age.
+-speak Percy
+We're as surprised as anybody.
+-speak Grog
+Fearsome Scanlan.
+-speak Scanlan
+Actually, Hieris, I have a question for you.
+You know the mines very well, yes?
+-speak Hieris
+Aye, I do.
+-speak Scanlan
+Far from asking you to draw us a map, are there any tunnels or directions that we should avoid or particularly head towards?
+Anything that we should look for in terms of traps or tricks?
+-speak Hieris
+Not within our mines.
+They're usually well-guarded.
+Or, they were.
+-speak Scanlan
+Do you have a map?
+-speak Hieris
+Of the mines? Yeah, I do.
+-speak Scanlan
+Wonderful.
+-speak Matt
+He starts going through his notes here.
+-speak Scanlan
+I'll take that.
+That's where we're going, right?
+-speak Grog
+We're goin' in the hole.
+-speak Matt
+It's kinda haphazardly scrawled across a piece of parchment, but he hands it over to you.
+And he says:
+-speak Hieris
+So that's the front part of the mines.
+Unfortunately, half of our tunnels have been relinquished.Sealed off to try stop some of these beasties coming through.
+So we're gonna have to recarve portions of the mine as we progress forward.
+Kind of starting at square one best we can.
+But that at least is what we're currently working with.
+There is a subterranean level as well.
+We have an elevator inside that brings the various mine carts to and from.
+-speak Vex
+Is there a particular area on that map that most of the baddies seem to be coming from?
+-speak Hieris
+No, we've closed it off each time.
+-speak Vex
+Just kind of everywhere?
+-speak Vax
+And we noticed the, I believed it was the naga we fought, it seemed to have several extra heads stitched on.
+Have you no knowledge of these creatures?
+It seems very odd.
+Is there any connection in dwarven history or past?
+Or this is totally out of the blue?
+-speak Hieris
+No no, not to my knowledge, at least.
+I mean, most beasts we find are in one piece, not several together.
+It's a bit disturbing to be honest.
+I told my nephew about it and he was crying for hours.
+-speak Keyleth
+Oh.
+-speak Grog
+Do any of the beasts go back into them?
+-speak Hieris
+Oh no, we've killed them as they come out each time.
+-speak Keyleth
+Hieris, do you know if there's any other entrances into the mine?
+Any old secret tunnels, something that someone could be using to get in?
+-speak Hieris
+Not to the mine, this is all proprietary.
+This is the business we run, so we don't have any internal or secret entrances.
+That would leave us open to a sort of a thief to come in and steal our mithril.
+-speak Vax
+And what's security like on the mine?
+Is there any chance someone could've slipped in through Kraghammer without you knowing, or is that all locked up?
+-speak Hieris
+Oh, I highly doubt that, not with the way our Carvers are trained.
+-speak Vax
+Understood, understood.
+-speak Vex
+They are quite-
+-speak Hieris
+That's what I'm talking about.
+Fine dwarven study.
+-speak Grog
+Before we go-
+-speak Hieris
+Finest of military classes, aye.
+Proud of 'em.
+-speak Grog
+What do you use for the-
+-speak Hieris
+I had a cousin who was once a Carver.
+They raised him.
+Military weapon training every day.
+Couldn't come out and play with the rest of us.
+I felt bad for him.
+But he grew up to be a right nasty dwarf, aye.
+-speak Vax
+You say had.
+-speak Hieris
+Unfortunately, he was slain in one of the incursions.
+That duergar I was telling you about.
+But, such is the nature of the fighter, I suppose.
+-speak Vex
+A damn shame.
+I'm so sorry.
+-speak Hieris
+I appreciate that.
+To be honest, he was kind of a bastard, but um-- don't miss him too much.
+But I appreciate the thought. That's very kind of you.
+-speak Scanlan
+We won't avenge him then.
+-speak Hieris
+I mean, still avenge him.
+-speak Vax
+Literally or figuratively?
+-speak Hieris
+I'm not sure.
+-speak Grog
+He had parents.
+-speak Hieris
+He had parents.
+We were related somewhat. I'm not gonna say too closely.
+-speak Laura
+Can I ask a question?
+-speak Hieris
+Ah, yes.
+-speak Laura
+Not to you, to the other guy, Matt.
+-speak Matt
+Ah, yes. Yes, Laura?
+-speak Laura
+When we take a rest, do we get our spells back for the day?
+-speak Matt
+Not a short rest.
+It has to be a long rest.
+-speak Laura
+All right, cool.
+-speak Taliesin
+Which is why we're gonna take a proper nap.
+I think we should go buy some potions and take a nap.
+-speak Laura
+All right, this could be really bad.
+I mean, we're about to put the dungeons in Dungeons and Dragons.
+-speak Matt
+There you go.
+-speak Travis
+Let's go get drunk and go to sleep then.
+-speak Taliesin
+And stock up on some potions.
+-speak Percy
+Hieris, you've been so helpful.
+-speak Hieris
+Of course, I'm happy to.
+-speak Keyleth
+One last question.
+-speak Hieris
+It doesn't have to be last.
+You're welcome to stay as long as you like.
+I don't get visitors to often up here in my booth.
+-speak Keyleth
+You should come drink with us at the tavern.
+-speak Hieris
+Oh well, I have to stay here.
+Work, at least for the next six hours.
+But I have some dried fruits. I've got some meats inside.
+I've got two chairs and you-
+-narrate
+Matt gestures at Sam.
+-speak Hieris
+Could fit in my lap,
+-speak Scanlan
+I've killed.
+-speak Hieris
+Right.
+-speak Grog
+Look at the time.
+-speak Vex
+We have to go.
+We'll come see you again, Hieris.
+-speak Hieris
+Of course, anytime. Or when we're not busy.
+But when I'm not busy, you're welcome to come by.
+-speak Keyleth
+Oh, that'd be nice.
+-speak Vax
+Tell you what, when we drag our asses out of that mine, we'll come straight to you and buy you a drink.
+-speak Vex
+And we'll have some of that dried fruit.
+-speak Grog
+We're lying, right?
+-speak Hieris
+Oh, I'll save a batch for you, you half-elf lass.
+-speak Vex
+All right.
+-speak Vax
+Do the wink thing you do.
+-speak Vex
+I did, I already did.
+-speak Vax
+Oh, you did it already.
+She's good at winking.
+-speak Hieris
+I saw, it was a good wink.
+Aye. Made me tingle in my shoulders.
+That might be the diabetes, but-
+But mostly the wink, I think.
+-speak Grog
+Good.
+-speak Keyleth
+Oh, we should get him something other than dried fruit.
+That's not good for diabetes.
+-speak Percy
+At least it means he's regular.
+-hide hieris
+-speak Travis
+Back to the tavern.
+Or did you have something?
+-speak Sam
+No, we're good.
+Back to the tavern.
+-speak Laura
+What time is it?
+Should we buy potions now?
+-speak Travis
+If we're underground-
+-speak Laura
+Oh, is everything open?
+-speak Matt
+As far as you guys know, it's somewhere in the neighborhood of late afternoon.
+-speak Laura
+Are the stores still open?
+-speak Travis
+It's summer.
+-speak Matt
+You can certainly check.
+-speak Sam
+It's like Las Vegas, it's always twilight.
+-speak Travis
+Do we get potions and stuff somewhere?
+-speak Laura
+Yeah, that's what we're looking for.
+-speak Marisha
+Maybe they have magical items.
+I want stuff.
+-speak Travis
+Like plant stuff or potion stuff?
+-speak Marisha
+All stuff.
+-speak Laura
+Let's go look.
+-speak Liam
+I walk back to the Hieris' door, because we're all just standing outside the door.
+-speak Matt
+Correct.
+-speak Liam
+I walk back to Hieris's door and knock on it and poke my head in.
+-show hieris 4
+-speak Vax
+Hieris, I'm sorry.
+-speak Matt
+You catch him with a handful of dried fruit.
+-speak Hieris
+Hmph! Hi!
+-speak Vax
+Just a quick question.
+We have no fucking idea what time it is.
+Because we usually use the sun. Do you know what hour it is?
+Are businesses open at the moment?
+-speak Matt
+He reaches over and grabs this really awesomely intricate piece of clockwork on his desk.
+It's this brass, ticking, cylindrical piece.
+Springs and things making strange whirring sounds.
+-speak Hieris
+Oh, I reckon it's about two hours from sunset.
+-speak Vax
+Are the stores open at the moment?
+-speak Grog
+Better question.
+-speak Hieris
+As far as I know, aye.
+Depending on the store.
+-speak Vax
+How much time do we have left?
+-speak Hieris
+Few hours.
+-speak Vax
+Oh, thank you, sir.
+-speak Hieris
+You sure you don't want to stay?
+-speak Vax
+Let's go shopping.
+-speak Grog
+Thank you, Hieris. Thank you.
+Oh, gotta go, sorry.
+-speak Hieris
+Goodbye.
+-speak Keyleth
+It's the mine that never sleeps.
+-speak Hieris
+Good luck.
+-speak Vax
+Byeee!
+-speak Hieris
+Stay safe!
+-speak Percy
+Stay regular.
+-speak Keyleth
+Eat some veggies!
+Fruit's bad for the diabetes!
+-speak Travis
+Oh, I put my head back in the door, and I throw him a turkey leg and a beef jerky stick.
+I gotta get rid of this stuff.
+It's been in here for years.
+-speak Taliesin
+The fact that you just checked your inventory for that worries me.
+-speak Travis
+We gotta lotta shit in this bag.
+-speak Matt
+The bag of holding, not so much a freezer.
+-speak Travis
+I didn't say it was good.
+I just want it out.
+-speak Marisha
+And then you just throw it at him?
+-speak Matt
+The mildly rotted turkey leg hits the floor.
+The remainder of what was once meat, now a slush sloughing off the bone as it slides towards Hieris.
+-speak Grog
+It's really tender.
+-speak Vax
+You're a goliath, you'll eat anything.
+-speak Grog
+Yeah, those are the best parts.
+-speak Matt
+You see he immediately steps back and his face squints back.
+-speak Keyleth
+That's not polite, Grog.
+-speak Grog
+I gave him a turkey leg.
+-speak Hieris
+It's the thought that counts.
+-hide hieris
+-speak Laura
+All right, shall we all go looking for a magic shop?
+-speak Taliesin
+We have time, we might as well.
+-hide keyleth
+-speak Marisha
+I'm gonna go ahead and turn into a squirrel and hide in Vex's pocket. 
+-speak Matt
+Make an investigation check.
+-speak Laura
+9?
+-speak Matt
+You ask around, but most people don't have any need for arcane shops.
+So a lot of the dwarves you ask just look at you blankly.
+-scene House Thunderbrand
+-continue
+One old, old man tells you about a cousin of his who studied magic at House Thunderbrand many years ago.
+He gives you some vague directions.
+Eventually you come across this out of place, very well-kept green lawn.
+-speak Liam
+How does the grass grow down here?
+-speak Matt
+It stretches for a good 60 feet to this beautiful-looking alabaster and gold building.
+Slightly domed with four towers, one at each corner, with these blue pointed crystals on top of each tower.
+Make a perception check.
+-speak Laura
+23.
+-speak Matt
+As you approach, you notice there are a series of stone sigils carved into the stonework that surrounds the exterior of the lawn.
+-speak Percy
+Well, those look dangerous.
+-speak Laura
+Can we look around and see if there's a bell to ring that's outside of that area?
+-speak Matt
+Go ahead and make a perception check.
+-speak Taliesin
+Can I assist on that?
+-speak Laura
+Yeah, please do, 'cause I rolled a 1.
+1, baby.
+-speak Taliesin
+It's a 10.
+-speak Laura
+I failed it hard, I failed it.
+-speak Taliesin
+If you rolled a 1, there's nothing I can do anyway.
+-speak Liam
+We ain't found shit.
+-speak Matt
+Best you can tell, stonework's pretty solid.
+-speak Laura
+Cool!
+-speak Vex
+Hey, it's a house.
+-speak Matt
+As you look about, it's hard to tell the nature.
+This looks just like a lawn with a well-framed stone exterior.
+But there's no fence.
+There's nothing keeping you from walking into the lawn and towards the building.
+-speak Marisha
+Can I do a nature check to see what light source is making all this grass grow, or if it's like magical growing?
+-speak Matt
+No nature check required.
+There is no light source, other than the red rocks that light up most of Kraghammer.
+This kind of dull red glow that's around the entire city.
+-speak Scanlan
+I wonder what Keyleth is doing.
+She's squeaking an awful lot.
+-narrate
+Marisha imitates squirrel squeaking.
+-speak Laura
+Oh that's right, she's in my pocket.
+Hi!
+-speak Grog
+So we just walk up and-
+-speak Laura
+I pet her little head.
+-speak Percy
+Walking up sounds like a bad idea.
+-speak Liam
+Is there a front door?
+-speak Matt
+There is a large, beachwood-like double door in the front of the compound.
+-speak Laura
+Grog's gonna go.
+-speak Liam
+I'm gonna use my rogue abilities to walk up to the front door, and knock on it.
+-speak Laura
+Sorry Grog.
+-speak Travis
+I have one job.
+-speak Liam
+Can I see a bell?
+-speak Matt
+You step onto the walkway that leads towards the front of the building.
+As you cross into the threshold where those stone sigils are, make a dexterity saving throw.
+-speak Laura
+Oh no.
+Roll well, my brother.
+-speak Liam
+This is really not good for their business.
+-narrate
+Liam and Laura groan together as they see the roll.
+-speak Liam
+12.
+-speak Laura
+Oh no.
+-speak Matt
+As you take a few steps forwards, you hear this strange clicking start.
+And blue arcane energy pulses around your feet.
+You instinctively pull back, but there's a blast of electric energy that explodes outwards.
+Shocking your body and throwing you about 15 feet back, straight onto your shoulders.
+You skid to a halt.
+-speak Liam
+Higigigigi!
+-speak Matt
+14 points of lightning damage.
+-speak Grog
+Should've let me go.
+-speak Matt
+Your muscles eventually relax.
+-speak Grog
+We have a flying carpet.
+-speak Vex
+Hey, we have a flying carpet!
+We have a flying carpet. 
+Pull it out.
+-speak Travis
+What?
+-narrate
+Laura cringes as she realizes she just told Travis to "pull it out".
+-speak Marisha
+Phrasing.
+-speak Vex
+Pull out the flying-
+-speak Grog
+Ohhh, the magic carpet.
+You wanna fly it up to the door?
+-speak Vex
+It can't carry you, you're too heavy.
+-speak Grog
+I said you, not me.
+-speak Vex
+Oh, gimme that flying carpet.
+-speak Grog
+That's what I said.
+-speak Laura
+I hop on the flying carpet.
+-speak Matt
+Okay, so you pull the flying carpet, Mary Poppins-style, out of the bag of holding.
+-speak Laura
+Yes. And see if I can fly up and over to the door.
+-speak Grog
+Do you wanna tie a rope around your waist in case it goes bad?
+-speak Vex
+Oh. Is this a bad idea?
+-speak Grog
+No, do it.
+-speak Scanlan
+What could go wrong?
+-speak Keyleth
+I think you'll just, like, hit a wall.
+-speak Vex
+What if the flying carpet gets ruined?
+-speak Scanlan
+Let's not do that then.
+-speak Grog
+Oh my God, really?
+-speak Vax
+It's not gonna be ruined.
+-speak Marisha
+Wait, wait, wait, I'm in squirrel form.
+-speak Laura
+Oh, and you're with me.
+Let's both fly to the door.
+-speak Liam
+I have nine healing potions-
+-speak Scanlan
+Hey, hold on, hold on.
+-speak Grog
+What what, you turned invisible and walked inside a house last time.
+-speak Scanlan
+Yeah, I can do whatever I want.
+Do you want me to knock on the door, is that what we're trying to do?
+-speak Sam
+I send an unseen servant to knock on the door.
+-speak Travis
+What kind, like a buddy?
+-speak Matt
+Where do you create the unseen servant?
+-speak Sam
+Right on the doorknocker.
+-speak Travis
+Feet touching the ground?
+-speak Travis
+I'm just sitting back here holding the carpet.
+~I can show you the world~
+-speak Matt
+You go ahead and you walk up to where that sigil is, you finish your spell, you cast unseen servant.
+-speak Scanlan
+~Unseen servant, ho~
+-speak Matt
+Which he says every time.
+-speak Sam
+Yes.
+-speak Matt
+Every single time.
+You see this strange shift of air as some sort of humanoid form then materializes on the opposite side of this boundary and stands at your ready and command.
+-speak Scanlan
+We still haven't knocked on the door, correct?
+-speak Vex
+No.
+-speak Matt
+It's about a 60 foot walk.
+-speak Sam
+I command the unseen servant to knock.
+-speak Matt
+It kind of saunters over.
+You guys see this kind of shifting, barely visible form make its way up to the front door.
+In the distance, you hear a dull knocking.
+-show steddos 4
+-speak Matt
+Eventually, the door slightly opens.
+And you see a hunched figure with chalk-white hair, kind of look out from the doorway,
+-speak Dwarf
+Now, what is this?
+-speak Matt
+Looking at the form in front of him.
+-speak Scanlan
+Hello!
+-speak Matt
+Opens the door, comes out.
+He's a very old dwarf, with a very well-crafted brass staff, looks like a black or purple gem at the top.
+Spectacles at the tip of its nose.
+And he begins to shift his way over towards you.
+Walks right to the edge of the sigil.
+Puts his hand up, and the unseen servant vanishes.
+-speak Dwarf
+So, you have my attention.
+-speak Vax
+We're sorry to interrupt.
+I don't know, it's dinnertime, I think.
+We just fought some sort of many-headed beast down at the mines, and Lord Greyspine is sending us in.
+I don't know if you've heard yet, it just happened.
+So before we go, we were sent here.
+We were told you were the dwarf to speak to if we needed-
+-speak Vex
+To know about the magical entities.
+-speak Vax
+I thought it was just to get shit.
+-speak Dwarf
+If you're looking to buy trinkets and magical oddities-
+-speak Vex
+Trinkets!
+-speak Dwarf
+You've come to the wrong place.
+This is a house of study.
+This is where hardworking dwarves of arcane persuasion put their lives towards pursuing the magical forms and fields that-
+-speak Scanlan
+And we have come to seek your knowledge. 
+We're going to investigate the source of the mutated creatures coming out of the mines.
+-speak Dwarf
+I'm sorry.
+-speak Matt
+The dwarf gives you a disapproving brow shift.
+-speak Dwarf
+Look, I mean no disrespect.
+But understand, this is a dwarven house of arcane practitioning and study.
+I don't see any dwarves among you.
+I think our business here is concluded.
+If you're looking to buy stuff, we produce and sell through the Value of Valor house of sale.
+-speak Percy
+Of course, sir, we completely understand if you're not up to such a challenge.
+It makes perfect sense, and we'll be more than happy to go and buy some wares somewhere else if this is too much for you.
+-speak Dwarf
+Bah! Challenge.
+-speak Matt
+The dwarf turns around and begins walking away with his staff.
+-speak Marisha
+I'm going to drop squirrel form to cast Alter Self on myself and become a dwarf.
+-show dwarfwoman2 -4
+-speak Vex
+We have a dwarf with us who wanted to actually say hello to-
+-speak Sam
+You better fucking speak dwarvish.
+-speak Matt
+Smiles for a second as he looks at you and goes: 
+-speak Dwarf
+Ah, how nice to meet you.
+Where are you from?
+-narrate
+Marisha puts on a truely horrible Scottish/Cornwall accent.
+-speak Keyleth
+Oh, hello.
+-narrate
+The table bursts into laughter as they hear her.
+-speak Laura
+Oh, shit.
+-narrate
+Liam speaks some Swedish-accented gibberish.
+-speak Sam
+Ya, from Sweden.
+-speak Travis
+I'm gonna choke on a chip.
+-speak Marisha
+Keyleth is not good at this.
+-speak Liam
+Roll with it player, roll with it.
+-speak Keyleth
+I hail from the mountains up north.
+-speak Vex
+She had an accident on the way over here.
+We were hoping maybe-
+-speak Matt
+Roll a persuasion roll with disadvantage.
+-speak Liam
+Let the dice act better than us tonight, please.
+-narrate
+Travis puts on a high-pitched imititation of Marisha.
+-speak Travis
+Oh, hello!
+-speak Marisha
+I have a zero in persuasion.
+Eight.
+-speak Matt
+That's your first roll.
+Now roll again.
+-speak Marisha
+Oh, I have advantage?
+-speak Matt
+No, you have disadvantage.
+-speak Marisha
+Oh.
+So eight.
+-speak Dwarf
+I've been practicing the arcane arts for over 250 years. 
+-speak Keyleth
+And I've been practicing my Cornwall accent for five minutes.
+Shit.
+-speak Matt
+He raises his hand, and the Alter Self spell dissipates.
+-hide dwarfwoman2
+-show keyleth -4
+-continue
+Revealing Keyleth.
+-speak Scanlan
+Oh Keyleth, you've been lying to us this whole time?
+We thought you were a dwarf.
+-speak Liam
+Vax steps forward, steps in front of Keyleth and says:
+-speak Vax
+Good sir dwarf.
+Clearly we are idiots.
+We are-
+-speak Dwarf
+That's the first true thing you've said since you've called me out of my home.
+-speak Vax
+Stay with me on this.
+We are strangers in a strange land.
+However, we are working with Lord Greyspine to empty your mines and end the evil that is spewing forth from them.
+Now I know that we are a bit stupid, in a number of ways.
+-speak Vex
+But we fight well.
+-speak Vax
+But we fight well, and we have the best of intentions, and when it counts, we're there.
+We just need a little bit of help going into the mines.
+And again, Lord Greyspine himself sent us, so please excuse my-
+Challenged friends.
+We're here to help.
+I promise.
+-speak Travis
+That's a very Disney moment.
+-speak Laura
+I wink twice.
+-speak Matt
+Make a persuasion roll at disadvantage.
+-speak Laura
+Can I assist him 'cause I winked?
+-speak Matt
+No.
+-speak Laura
+Damn it.
+-speak Travis
+It's a powerful wink.
+-speak Matt
+It's a powerful wink, but not this powerful.
+Not the way this conversation's been going.
+-speak Travis
+Yeah, apparently not.
+Oh hello!
+-speak Liam
+Best roll of the night.
+I rolled a 20 and a 17.
+So 19.
+-speak Matt
+19.
+He glares at you two and goes:
+-speak Dwarf
+I've said my piece.
+Good luck to you all.
+-speak Laura
+If you had gotten the 20.
+-speak Liam
+How about a chocolate-covered mallomar?
+-speak Sam
+I'm gonna have one more try at this.
+-speak Matt
+He turns around and starts walking away.
+-speak Scanlan
+There must be so many arcane things down there that we will discover and bring to you upon finding them.
+-speak Vex
+Good call, Scanlan.
+-speak Scanlan
+Things that you could use for your research.
+Historical items.
+-speak Matt
+As he's still walking away, you hear him shout over his shoulder, 
+-speak Dwarf
+And when you bring them, then we'll talk!
+-speak Scanlan
+Okay, that's fair.
+-speak Dwarf
+Till then, good day, and don't bother me when I'm eating.
+-speak Vex
+Thank you, Lord Thunderclap.
+-speak Liam
+This game has consequences.
+-speak Matt
+At which he shouts again at a booming, booming prestidigitation voice:
+-speak Dwarf
+It's THUNDERBRAND!
+-speak Vex
+That's what I meant.
+-hide steddos
+-speak Matt
+You hear the door slam, boom!
+-speak Grog
+That was fun.
+-speak Scanlan
+That was great!
+-speak Vex
+Should we go buy some potions then?
+-speak Percy
+Yes, let's go buy some potions.
+-speak Scanlan
+He gave us a little bit of information.
+The valve of valva, what's it?
+Valor of-
+-speak Grog
+Vulva?
+-speak Scanlan
+The place to go buy potions.
+-speak Vax
+It's not the House of Vulva, Grog.
+-speak Matt
+The Value of Valor.
+-speak Sam
+The Value of Valor!
+-speak Grog
+If you want to visit the House of Vulva, you and I can go later. But not now.
+-speak Vex
+The Value of Valor, let's go find that.
+-speak Keyleth
+I'm sorry.
+I didn't think about the fact that I was gonna have to do an accent.
+I'm not good with that stuff.
+-speak Vex
+It's okay, Keyleth.
+-scene The Value of Valor
+-speak Matt
+So after a bit of discussion, you manage to make your way around town.
+You eventually find your way to the Value of Valor, which is a stone building.
+-speak Laura
+Please be open, please be open, please be open.
+-speak Matt
+Fine purple tapestries in the front, showing various battles from dwarven history.
+There are two enchanted lanterns hanging from the front.
+-speak Taliesin
+Classy.
+-speak Matt
+And an entryway that is currently open, into a warmly-lit interior.
+-speak Travis
+Awesome.
+-speak Liam
+So easy.
+-speak Scanlan
+Hey, before we go in there and just make asses of ourselves, as a group, what do you think we need to get down into these mines?
+-speak Vex
+Potions.
+-speak Percy
+Healing potions.
+-speak Scanlan
+Healing potions.
+Some light sources--
+Climbing anything?
+-speak Vex
+I have climbing gear.
+-speak Scanlan
+I have some climbing gear, but--
+-speak Laura
+That's included in the dungeoneering kit, right?
+-speak Matt
+Yes.
+-speak Scanlan
+Oh, what about something for breathing?
+Like what if we get trapped down there with no air?
+-speak Vex
+She can make plants, and we'll get plenty of oxygen.
+-speak Keyleth
+Oxygen's good, although if we have something to help with poison, that might be good.
+Can we get some antidotes?
+-speak Vax
+Vex. How much gold do we have at the moment?
+-speak Vex
+That is a wonderful question, brother.
+We will more than double our gold if we take this mission.
+-speak Grog
+So we got like 24,000 gold pieces?
+-speak Vex
+Less than that.
+-speak Grog
+23 thousand.
+-speak Vex
+Less than that.
+-speak Grog
+22 thousand?
+-speak Vax
+More than double, that means it could be one thousand.
+'Cause anything is more than double.
+-speak Vex
+I don't like sharing.
+-speak Grog
+Math is stupid.
+-speak Sam
+All right, we go into the House of Vulva.
+-speak Matt
+All right.
+-speak Scanlan
+Open your vulva!
+-speak Matt
+That's not what it's called.
+-speak Travis
+Are you sure you don't wanna think about renaming it now?
+-speak Matt
+It's the Value of Valor guys, come on!
+-speak Taliesin
+You're tearing the party apart.
+-speak Liam
+Tearing me apart, Lisa.
+-speak Matt
+A giant boulder falls out of nowhere and crushes Grog.
+-background bricks
+-continue
+So you make your way inside.
+Suddenly, hit with the smell of heavy incense and jasmine.
+This is the equivalent of a Psychic Eye Bookshop.
+-speak Marisha
+Oh, we were just there.
+-speak Taliesin
+We were just there.
+-speak Matt
+You walk inside.
+There's not a lot of folks inside looking about the establishment.
+But there is one person sitting at the front desk, which is a beautiful long oak table with a red trim that hangs to the ceiling.
+Not a dwarf, actually.
+-show tremaine 4
+-continue
+What you see there appears to be an elven individual, sitting at wait, hair pulled back behind the ears.
+Very, very slight, thin build.
+And smiles as you enter and says, 
+-speak Merchant
+Welcome to my establishment, may I help you?
+-speak Laura
+We both stand a little taller, and try to look more noble.
+-speak Vax
+Hello.
+It's a beautiful shop you have here.
+It's so startling to find an elven establishment here in the middle of Kraghammer.
+How did this come about?
+-speak Merchant
+Well.
+They didn't have one.
+And I found there was perhaps money to be made in starting one.
+I've been here for over a hundred years.
+-speak Grog
+Oh sh- Are you guys that old?
+-speak Vax
+No, we are not.
+-speak Merchant
+Dwarves have a hard time buying from those who are not dwarves.
+But I've made my established connections with business individuals.
+So, what can I help you with?
+-speak Percy
+We're in the market for some healing potions to start with.
+-speak Grog
+Yep, yep.
+-speak Merchant
+Of which intensity are you looking for?
+-speak Grog
+Two level 3, please.
+-speak Merchant
+So looking for a superior healing potion.
+-speak Grog
+Yeah, superior.
+-speak Merchant
+I've only got two of those currently.
+-speak Vex
+They're expensive, Grog.
+-speak Keyleth
+We don't have Pike, though.
+-speak Merchant
+I can sell you the two superior healing potions.
+-speak Keyleth
+I'm still not feeling well.
+-speak Merchant
+Those will run you 1,500 gold pieces each.
+-speak Grog
+Fuck! Really?!
+-speak Percy
+This is why you buy medium healing potions.
+-speak Keyleth
+On second thought, I'll just read some books tonight.
+-speak Grog
+I take damage fast.
+-speak Keyleth
+Refresh myself on my healing spells.
+-speak Vex
+Can I ask your name?
+-speak Matt
+He gives you a keen look and says:
+-speak Tremaine
+Tremaine.
+-speak Vex
+Tremaine.
+-speak Grog
+Oh, here we go.
+-speak Keyleth
+It's what she's good at.
+-speak Grog
+Everybody take five while we haggle.
+-speak Vex
+I'm just saying.
+We're heading into the mines.
+We are going to encounter very many arcane objects potentially.
+In fact, Lord Thunderbrand sent us over here.
+That's his name, right?
+-speak Grog
+You got it.
+-speak Percy
+You did it right.
+-speak Vex
+Sent us over here telling us to find his wares here.
+And we've made a deal with him that if we find arcane objects we could potentially-
+You know, I lost track of what I was saying, but you get the idea.
+-speak Scanlan
+Oh boy.
+-speak Grog
+I'll take one superior for me, thank you.
+-speak Tremaine
+Very well.
+-speak Vex
+We'll very much like to perhaps make a deal with you, that we'll bring you objects of arcane nature for a discount on your wares.
+-speak Matt
+Make a persuasion roll.
+-speak Grog
+Oh shit.
+I just paid for--
+-speak Vex
+Oh, no you didn't.
+Not yet.
+-speak Liam
+Roll, sister.
+-speak Laura
+Oh, come on, no whammies, no whammies.
+Okay, well.
+15, hm?
+-speak Travis
+He's an old elf.
+-speak Matt
+He says:
+-speak Tremaine
+And I appreciate this perhaps offer.
+Once you return from your mines with these magical accoutrements, you are more than welcome to bring them here, and we'll make a deal.
+-speak Vex
+I know, I know, I know.
+How many dragons have you come across, sir?
+Are you interested in dragon parts?
+-speak Grog
+Oh, we have a lot of dragon bits.
+-speak Matt
+He extends his hand to a shelf on the side labeled, dragon parts.
+-speak Vex
+Oh. Lovely.
+-speak Tremaine
+And to answer your question, three.
+-speak Vex
+Oh, really?
+-speak Grog
+What about basilisk eggs?
+-speak Vex
+What kind of dragons, actually?
+-speak Tremaine
+What was your question, sir?
+-speak Grog
+We have also, if you're interested in trade, basilisk eggs and parts of an umber hulk.
+-speak Vax
+And a troll dick.
+-speak Grog
+No, that's gone.
+We flogged someone with it and then it disappeared.
+-speak Vax
+I detract my offer.
+-speak Grog
+It was used very well.
+-speak Matt
+He gives you a very concerned look.
+-speak Grog
+I'm a collector of sorts.
+-speak Tremaine
+I work in trade, meaning gold pieces for my wares.
+If you have interest, purchase.
+If not, I have other business to attend to.
+-speak Scanlan
+Any other healing potions to buy?
+Come on people.
+-speak Vex
+Maybe a moderate.
+-speak Vax
+All right, well friends, we're about to descend into hell itself, so I reckon we should probably pay the price.
+-speak Percy
+Two moderates.
+-speak Matt
+Greater.
+In the new edition.
+-speak Percy
+Greater.
+-speak Keyleth
+How much are the greaters?
+-speak Tremaine
+The greater healing potions run 300 gold apiece.
+-speak Vex
+Oh, let's get a few of those.
+-speak Grog
+I need like three of those.
+-speak Tremaine
+So, three?
+-speak Grog
+Yeah, three.
+-speak Vex
+Two for me.
+-speak Tremaine
+So, five.
+-speak Percy
+Two for me as well.
+-speak Tremaine
+Seven.
+-speak Grog
+Keyleth.
+-speak Keyleth
+I'll take one.
+-speak Tremaine
+Eight.
+-speak Scanlan
+I still have two from before.
+-speak Grog
+Vax?
+-speak Vax
+No, I'm good actually.
+I'm so fast I don't really use them that much.
+You'll get to that point as well.
+-speak Vex
+8 potions then.
+-speak Grog
+8 times 300, work that out.
+-speak Matt
+As he pulls up his arcane calculator.
+-speak Vex
+So 2,100 for all 8 then.
+-speak Taliesin
+It's an abacus, God, abacus!
+-speak Grog
+I believe it's 2,400 gold pieces?
+-speak Vex
+Why would you do that?
+I was trying to make him--
+-speak Tremaine
+It is 2,400.
+-speak Grog
+It's Professor Grog, actually.
+-speak Matt
+2,400 gold pieces for your 8 greater healing potions.
+-speak Laura
+All right, 2,400.
+Do you have any arrows that perhaps have magical properties?
+-speak Matt
+He kind of glances over his shoulder and says:
+-speak Tremaine
+Ah, we haven't had many requests for arrows recently.
+We have bolts for crossbows, as that seems to be the staple for the Carvers of the city.
+I have two sleep arrows, perhaps, if that is of interest to you.
+-speak Laura
+And what would you charge for those, sir?
+-speak Percy
+Ooh, I should build some interesting arrows.
+-speak Keyleth
+You should.
+-speak Tremaine
+That would run you 250 gold per arrow.
+I have two currently.
+-speak Vex
+All right, all right, I'll take 'em.
+-speak Tremaine
+All right, 500 gold.
+With that, that is a total of 2,900 gold pieces.
+-speak Grog
+Scanlan, underwater breathing?
+Ask with your fancy talk.
+-speak Scanlan
+And do you have anything for adventuring underwater or for helping to breathe in tight spaces?
+-speak Tremaine
+Mm, potion of waterbreathing, I do happen to have.
+-speak Scanlan
+A potion of waterbreathing?
+-speak Tremaine
+Yes, I do.
+-speak Scanlan
+How much?
+-speak Tremaine
+I have four of them available, and they run 500 gold apiece.
+-speak Scanlan
+Jesus.
+-speak Grog
+We'll take it.
+We got all this platinum I forgot about.
+-speak Scanlan
+Take one, two, one?
+-speak Vex
+Don't say that!
+-speak Grog
+He can't hear-
+-speak Scanlan
+I've got spells, I don't need a potion.
+You want one, Grog?
+-speak Grog
+Yeah.
+-speak Scanlan
+All right, we'll just take one of those.
+-speak Grog
+Just one?
+Let's go for two.
+-speak Scanlan
+Two.
+-speak Tremaine
+1,000 gold.
+That brings us to 3,900 gold.
+-speak Vex
+Are you paying for those yourself?
+-speak Grog
+Yep.
+-speak Vax
+Have you any elven gear for a son of Syngorn?
+-speak Matt
+He gives you a keen look and goes:
+-speak Tremaine
+We don't get many requests for this, but I think this may fit you.
+-speak Matt
+And he reaches below and pulls up a fine piece of mithril chain, elven in make.
+-speak Vex
+That's what I'm wearing.
+-speak Tremaine
+Mm hm.
+-speak Grog
+Show-off.
+-speak Matt
+He says, 
+-speak Tremaine
+Would you perhaps be interested in this elven chain?
+-speak Vax
+It's beautiful.
+I am a bit of a light-footed one.
+Would it suit me?
+-speak Tremaine
+Hm.
+Chain does make a bit of a racket.
+Might not recommend it, unfortunately.
+-speak Vax
+All right.
+I'll pass.
+-speak Grog
+You couldn't buy it for me?
+-speak Vex
+It won't fit you, it's for elves.
+-speak Vax
+You're gigantic.
+-speak Grog
+Could go on my pinky or something.
+-speak Vax
+Could fit on your left nut.
+-speak Grog
+That's an important nut.
+-speak Matt
+He goes ahead and accepts your gold.
+Go ahead and mark off 3,900 gold for those.
+-speak Laura
+I did already.
+-speak Matt
+Thank you for your patronage.
+I look forward to hopefully having you back when you return with whatever artifacts you manage to find.
+-speak Grog
+Thank you, you're very nice.
+-speak Vex
+Big expensive artifacts.
+-speak Percy
+I say, you're one of the most charming people we've met so far down here.
+-speak Grog
+And it smells pretty in here.
+-speak Tremaine
+Well, dwarven charm can be... different.
+-hide tremaine
+-background kraghammer
+-scene Long Rest
+-speak Grog
+Do we sleep before we get to go kill shit?
+-speak Percy
+We're gonna go sleep.
+-speak Grog
+Well can we go do that?
+-speak Vex
+Let's go sleep and then get up in the morning and go down and kill things.
+-speak Taliesin
+And I'd love to do a crafting roll right before I go to sleep just to put together a little thing.
+-speak Matt
+What would you like to put together?
+-speak Taliesin
+I'd like to try and build a bolo arrow, a trapping arrow.
+-speak Travis
+Yeah! You clever fucker.
+-speak Matt
+Interesting, okay.
+-background bricks 
+-continue
+As you guys head back to the inn where you've rented rooms for the week, which would be at the Iron Hearth Tavern.
+-speak Travis
+Is Ballsack in there?
+When we walk in?
+-speak Matt
+Balgus is not in the tavern, no.
+-speak Travis
+He's not?
+-speak Matt
+He's got a home.
+-speak Travis
+Yeah, but doesn't mean he has to go to it.
+-speak Matt
+True.
+-speak Laura
+I walk Trinket down into the storage area that he can stay in.
+-speak Matt
+Trinket goes down begrudgingly.
+-speak Laura
+I look around for something that can look like a pillow for him.
+-speak Matt
+You find a couple of sacks of grain that can probably work.
+-speak Laura
+I put them down and make them comfy for him.
+-speak Matt
+Okay, you think they're probably not gonna last the night with those bear claws.
+But you don't care, it's not your grain.
+-speak Laura
+That's fine.
+Also, I feed him.
+-speak Matt
+Okay, Trinket is very happy.
+Tears into some meat.
+You guys make it back to the tavern for an evening's rest.
+For Percy-
+-speak Taliesin
+Not a super complicated thing, but, you know, I've gotta-
+-speak Matt
+Go ahead and make a Tinker's Kit roll.
+-speak Taliesin
+What am I rolling with my Tinker's Kit?
+I've never done this before.
+-speak Matt
+For this, I would go ahead and make it an intelligence check.
+-speak Taliesin
+Intelligence?
+-speak Travis
+Rock that shit, Perce.
+-speak Taliesin
+And I'm spending my bonus die as well.
+-speak Laura
+Oh, we have bonus die, don't we?
+From Scanlan.
+-speak Taliesin
+Thank God, because I rolled really badly.
+10.
+-speak Matt
+10?
+You spend and toil away for the next four or so hours trying to find a way to get this trigger to work.
+Twice you nearly sprain a finger.
+You manage seemingly get it to function, then the arrow itself splits and shatters.
+You can see there being something to it, but this night it's not gonna come to you.
+-speak Taliesin
+I'm gonna have to try again later.
+Okay, that's fine.
+It's on the list.
+That was a terrible roll.
+-speak Matt
+It was a terrible roll.
+-speak Marisha
+It's been a bad day for rolls.
+-speak Laura
+Fresh start in the morning.
+-speak Sam
+Well, tomorrow is the day that it counts, because that's when we begin to crack some heads.
+-speak Laura
+When we could die.
+-speak Taliesin
+Out with this system, new dice.
+-speak Marisha
+To be fair, it's been a long day.
+I'm still bleeding everywhere.
+-speak Scanlan
+Should we rest and get on with it?
+-speak Vex
+Let's do it!
+-speak Scanlan
+Or should we visit some whorehouses?
+-speak Grog
+Nah, let's sleep.
+-speak Scanlan
+Let's just sleep tonight.
+-speak Vex
+Just sleep and go.
+-speak Grog
+I they're still tired from the other night.
+-narrate
+Travis mimes punching his own jaw, and then punching outwards.
+-speak Scanlan
+Oh yes, one of them battered me quite--
+-narrate
+Travis looks confused at his own miming.
+-speak Travis
+I don't know what this is.
+-speak Sam
+That's me getting beaten up by a whore dwarf.
+-speak Travis
+Oh, it's you getting the elbow drop.
+She's giving you the Randy Savage from the bedpost.
+Oh yeah!
+We're sleeping now.
+-speak Matt
+All right.
+So you guys go to sleep.
+Wake up the next morning fully healed, spells restored, well rested and ready for the day.
+You think it's day.
+It's hard to tell.
+This underground circumstance is really messing with you guys.
+-scene To the Mines
+-speak Sam
+Well, should we go plunder some mines and kill some goblins?
+-speak Vex
+Let's do it.
+-speak Percy
+Let's go plunder some mines.
+-speak Travis
+So we head down to the mines.
+To the hole.
+~Takin' it to the hole~
+-background kraghammer
+-speak Matt
+You make your way down to the bottom ring of Kraghammer.
+To the mines proper.
+The miners have gone back to work.
+There's just an all around busyness with people cleaning up, still trying to clean out the ichor left over from the battle.
+You make your way to the front of the mines, and immediately three of the Carvers step back and put their weapons to the side.
+Acknowledging the orders they received from Lord Greyspine.
+-speak Travis
+Are they especially bowing to Scanlan the snake slayer?
+-speak Matt
+Ha. No.
+-speak Travis
+No love!
+-speak Matt
+They're busy working.
+And fair play to the gnome, but they're dwarves.
+-speak Sam
+Sure.
+-speak Matt
+You make your way into the mine proper.
+It goes back for a good 10 minutes of walking and of winding.
+You can see the actual track of the minetrack leading around.
+You come upon a couple of dwarves.
+They nod at you as you pass, but then go right back into mining.
+It looks like this portion of the mine has been nearly picked clean.
+The dwarves that are in there are probably just wasting time to get their pay for the day.
+You go further back and eventually it opens up.
+Following the map, you get to a portion of the mine that is very busy.
+You get the feeling that the areas that haven't been closed up are trying to make up the difference in productivity, trying to find new veins.
+You notice that some of the doors you pass have been shattered, knocked off the hinges.
+You imagine whatever creatures were barreling through last night, this is probably where they came through.
+-speak Laura
+All right.
+-speak Taliesin
+That's where we're going.
+Can I investigate the doors, see if I can see anything interesting?
+-speak Laura
+I'm gonna look for tracks.
+-speak Matt
+That'll be an investigation roll for you as well.
+-speak Marisha
+I'm gonna assist her, look for animal tracks.
+-speak Laura
+I rolled a natural one again.
+-speak Marisha
+I rolled a 5.
+-speak Laura
+Keyleth and I get dressed up in Sherlock Holmes cosplay, and we say:
+-speak Vex
+Golly gee, I think I see some animal tracks over here.
+-speak Taliesin
+They are staring at their own footprints on the ground.
+-speak Keyleth
+The trail's going cold!
+-speak Taliesin
+Following around in a circle.
+-speak Matt
+Oh man, this has turned completely back from the first game.
+You guys are failing consistently.
+-speak Laura
+Everything.
+-speak Matt
+Let's turn this around, let's turn this around.
+-speak Vax
+This map says that there's an elevator a short ways ahead.
+But then there's a railway that goes further in, into the caves, so I'm not sure.
+-speak Vex
+We should probably go down.
+-speak Keyleth
+Yeah, I feel like going down.
+-speak Sam
+How many of us can the elevator hold?
+-speak Matt
+Elevator can pretty much hold all of you guys.
+-speak Sam
+Okay, let's go.
+-speak Vax
+It's a safe assumption that Lady Kima did not just walk to the back of the upper floors, she probably went down.
+-speak Scanlan
+Yeah, let's go down, come on!
+-speak Vax
+Get shit done, let's go.
+-speak Matt
+As you guys are walking over to where the elevator is, you pass by two large piles of rubble.
+Part of the ceiling has collapsed.
+Tunnels going much deeper into the mountain that were detonated or collapsed to try prevent any incursions.
+There are some dwarven corpses being carried out, as well as goblin corpses.
+-speak Scanlan
+Any goblin corpse is a good goblin, I say.
+-speak Scanlan
+I'll just quickly spit on their bodies as they go by.
+-speak Matt
+You guys go ahead and approach the elevator.
+It's a large wooden platform with a series of chains.
+-show dwarfman3 6
+-show dwarfman2 8.5
+-continue
+There are two dwarves in the back, beside a giant iron wheel.
+As you approach, they look you up and down, surprised anyone is going down.
+-speak Dwarf
+Well, step on the platform.
+-speak Vex
+Let's do it.
+-speak Matt
+The two dwarves grab and begin to rotate the giant wheel.
+The platform shudders for a second.
+As it begins to lower, you can feel the actual platform shake a little bit as the whole weight is placed on the chains.
+-speak Percy
+Guys.
+We're on an elevator.
+-speak Keyleth
+This is scary.
+-speak Laura
+I pet Trinket, calm him down.
+-speak Keyleth
+I've never been on one of these before.
+-speak Matt
+Trinket is a little nervous.
+-speak Keyleth
+It's really tight.
+-speak Percy
+I'm on an elevator with a bear.
+-speak Keyleth
+It's really dark, tight.
+-speak Laura
+Are we down yet?
+-speak Marisha
+Keyleth's getting a little claustrophobic.
+She's never been in this tight of a space.
+-speak Grog
+Are you claustrophobic?
+-background black
+-hide dwarfman2
+-hide dwarfman3
+-speak Matt
+You guys hit the bottom floor.
+There's some minecart tracks leading from this elevator that curve to the left and lead deeper in.
+To the right of you is a spiral staircase upwards, you can see a dwarf corpse being carried up it.
+-speak Laura
+Can I look for goblin tracks down here and follow those?
+-speak Matt
+You can attempt another investigation check.
+-speak Sam
+Why don't we just ask the dwarves where they were getting the bodies?
+-speak Travis
+You're gonna roll crap.
+-speak Laura
+Don't curse me.
+-speak Marisha
+Please don't do that.
+-speak Laura
+17.
+-speak Matt
+So as you guys are going to ask somebody about this, your ranger gets down and begins inspecting the floor.
+-speak Laura
+Yeah, I see things!
+-scene Following Tracks
+-speak Matt
+There was a struggle here.
+You can see slash marks on the ground.
+You can see impacts in the dirt where bodies fell.
+You can see drag marks, not in the direction they came from, but further down into the tunnel.
+-speak Laura
+Oh, no.
+-speak Matt
+As you follow the tracks, you notice that a good 200 feet away from the elevator, there is a new tunnel opening.
+A 20 by 15 foot tunnel, freshly blasted from the other side.
+You can see rubble and rocks strewn across the floor.
+-speak Scanlan
+Let's go down there.
+Where it's dangerous.
+-speak Travis
+I cup my hands over my face and go:
+-speak Grog
+Grog, Grog, Grog.
+-speak Matt
+And it does echo.
+Grog, Grog, Grog, Grog.
+-speak Vex
+Why would you do that?
+-speak Grog
+Why not?
+-speak Matt
+Grog-Grog. Grog.
+Following the tracks, you can see the drag marks do go into the newly carved tunnel.
+You also notice footprints.
+-speak Laura
+Big, small?
+-speak Matt
+Most of them are also dwarven in shape.
+-speak Laura
+Okay.
+-speak Marisha
+Most of them.
+-speak Liam
+Duergar.
+It's the duergar.
+-speak Matt
+However, there are two bodies that are being dragged with no footprints whatsoever.
+-speak Travis
+What?
+-speak Laura
+Wings.
+-speak Sam
+They're being used like skateboards.
+-speak Marisha
+Legolas style.
+-speak Sam
+Wow, if only we had asked some dwarves what's been going on down here.
+-speak Laura
+Is there any residue, blood?
+Green, red, black?
+-speak Matt
+From the dragging marks, there is no blood.
+There's no signs of them dragging dead bodies off, at least.
+-speak Laura
+Does it look like they struggled?
+-speak Matt
+No, there's no struggle either.
+-speak Vax
+Let's stop dicking around and go into that mine.
+-speak Vex
+Might as well.
+-speak Travis
+We go further.
+-speak Matt
+You push further in.
+So, this tunnel, pitch black.
+There's no light source.
+-speak Marisha
+I'll light a torch with Druidcraft.
+-speak Matt
+You guys push forward.
+And push forward, following the tracks.
+And push forward.
+And the tunnel winds and winds and descends.
+And winds and descends.
+About two hours-
+-speak Everyone
+What?!
+-speak Matt
+Two hours following this tunnel with little variation.
+-speak Laura
+Should've grabbed some dried fruit.
+-speak Travis
+We got a ton.
+-speak Matt
+Steadily declining and winding as it progresses.
+Three hours go by.
+This tunnel goes extremely deep.
+Whatever managed to dig its way up came from pretty far down.
+-speak Laura
+At no point does it look like the bodies ever moved?
+-speak Matt
+Nope, no change.
+No sign of struggle.
+-speak Marisha
+But there are drag marks the whole way?
+-speak Matt
+Yeah.
+-speak Liam
+And two hours ago, I started stealthing and taking the lead.
+When we're in the dark.
+-speak Matt
+All right, go ahead and roll a stealth check.
+-speak Laura
+I thought I was tracking.
+-speak Liam
+Uh, 29.
+-speak Laura
+Yay, first good roll of the night.
+-speak Matt
+All right, there we go.
+Your luck is changing now.
+-speak Laura
+Changing it around.
+-speak Travis
+Let me touch you.
+-speak Matt
+You feel pretty stealthy.
+You guys are like, wait, where the hell did Vax go?
+-speak Marisha
+Are there any drafts?
+Do I feel any air flows or anything like that?
+-speak Matt
+No. It is still, stagnant air.
+-speak Matt
+About four hours-
+-speak Sam
+Four!?
+-speak Keyleth
+And so, that is how I spent my 12th birthday.
+-speak Scanlan
+Great story, Keyleth.
+And, yeah.
+-speak Keyleth
+Let's see, what else.
+-speak Grog
+Hey Scanlan, you kill me, I kill you.
+-scene The Cavern
+-speak Matt
+As the four hour mark of travel, the tunnel finally opens up.
+A large, beautiful open space presents itself, a good 100-foot-up ceiling.
+From what you can see, a roaring river is now pouring out of the nearby rock, cascading over a cliffside into a waterfall down into this deeper, giant cavernous space.
+And that's where we're going to take a break.
+See you back here in 15 minutes.
+-narrate
+The cast leaves for break, and then rejoins.
+-speak Matt
+Welcome back.
+As you've stepped into this large, cavernous space, you can hear the rush of water from a short waterfall.
+It's just out of sight in the darkness.
+-speak Laura
+Vax and I just stealthed.
+I rolled 17.
+-speak Liam
+18 for me.
+-speak Matt
+As you guys step into this space, you can see several large rocks jutting out, blocking your view deeper into the cavern.
+Giant stalagmites and stalactites throughout, built over centuries of mineral deposition.
+You also see a faint light source, coming from further in, out of view.
+-speak Laura
+Should we go check it out?
+-speak Liam
+Do we perceive anything in here with us?
+Before going that far in.
+-speak Matt
+Make a perception check.
+-speak Liam
+18.
+-scene A Sound in the Cavern
+-speak Matt
+You hear a very, very faint sound in the distance.
+-narrate
+Matt makes a rapid clicking sound.
+-speak Sam
+A skittering.
+-speak Vax
+I might hear spiders.
+-speak Keyleth
+Oh.
+-speak Laura
+Ugh.
+-speak Grog
+Or crab.
+-speak Vax
+Or something.
+-speak Keyleth
+Making it old school.
+-speak Scanlan
+Maybe it's a very faint maraca dance of some sort.
+-speak Laura
+What direction is it coming from?
+-speak Travis
+That would be better.
+-speak Matt
+It's hard to tell at this point, it seems to be just kind of loosely atmospheric.
+-speak Travis
+Is the light coming from over the water?
+-speak Matt
+No, its between you and the river.
+-speak Travis
+Okay.
+-speak Vax
+I think we're dealing with spiders.
+-speak Vex
+I think you guys should hang back, and we should stealth over and see how many it looks like we're dealing with.
+-speak Liam
+The twins will creep forward.
+-speak Matt
+Okay.
+You both creep forward.
+-speak Laura
+Trinket stays with the group.
+-speak Vex
+Trinket, stay with Grog.
+-hide keyleth
+-show cavebear -4
+-speak Marisha
+I'm gonna go ahead and turn into a cave bear.
+-speak Taliesin
+A cave bear.
+-speak Marisha
+Yeah, subterranean bears, they have darkvision.
+-speak Matt
+As you glance about in cave bear form, you look up and all you can make out is shifting movement across the ceiling.
+-narrate
+Everyone groans.
+-continue
+But it's large.
+It's not a small creature.
+You glance off to your left and you look up and you see a second one.
+-speak Laura
+Oh no.
+-speak Travis
+Oh fuck.
+-speak Matt
+And both dislodge.
+-speak Laura
+Oh no!
+-speak Matt
+All of you hear two loud, cacophonous, thunderous slam sounds.
+-show umberhulk_preview 3
+-continue
+Right beside you.
+-narrate
+Matt screeches monsterously.
+-speak Liam
+I quickly whisper to my sister:
+-speak Vax
+To the boundaries.
+-narrate
+Marisha roars in response.
+-speak Liam
+Vex and Vax dance backwards against the walls.
+-hide vax 
+-hide vex
+-hide cavebear
+-hide scanlan
+-hide grog
+-hide percy
+-hide umberhulk_preview
+-setbattle CR_C1_E2/1 12 20
+-addtoken trinket trinket2 trinket2 4 6 
+-addtoken scanlan scanlan scanlan 3 4
+-addtoken percy percy percy 5 5
+-addtoken keyleth cavebear cavebear 7 3
+-addtoken vex vex vex 6 2
+-addtoken grog grog grog 8 4
+-addtoken umberhulk1 umberhulk umberhulk 9.5 4.8
+-addtoken umberhulk2 umberhulk umberhulk 6.5 4.8
+-addtoken vax vax vax 10 6
+-addgraphicon turn1 turn behind noshadow umberhulk1 umberhulk1
+-addgraphicon turn2 turn behind noshadow umberhulk2 umberhulk2
+-updatebattle
+-scene Suprise Round
+-speak Matt
+There is a surprise round.
+-speak Laura
+Oh, no.
+-speak Travis
+Oh God.
+-speak Matt
+You guys are stealthed off to the side there.
+-speak Liam
+That's beautiful.
+Look at that fun map.
+-speak Matt
+There's Trinket.
+-speak Liam
+Thank you, Matt, for doing all the work on these maps and shit.
+-speak Matt
+That's what I do.
+So there's the water there, rushing off into the waterfall that goes further down.
+-speak Sam
+What are they?
+-speak Travis
+Those look like umber hulks.
+-speak Matt
+They are.
+-narrate
+A couple of the cast yell in fear.
+-speak Matt
+You've had one brief run-in with a single umber hulk in the past.
+-speak Laura
+Now we have two.
+Fudge!
+-speak Travis
+I have their claws still.
+-speak Laura
+Wait, do you guys remember-
+Do they respond to vibration?
+-speak Travis
+Shit! I forget.
+They responded to something.
+-speak Liam
+Limericks, limericks, they respond to limericks.
+-speak Matt
+This one goes for you, Percy.
+-addgraphicon claws claws infront shadow percy umberhulk1
+-updatebattle
+-speak Taliesin
+Damn it.
+-speak Matt
+Attacking you with each of its claws and its mandibles.
+The first strike comes at you with a 13 to hit with its first claw.
+What's your AC?
+-speak Taliesin
+17.
+-speak Matt
+You just manage to dodge out of the way as these giant-bladed claws sweep next to your face.
+The second strike comes to you at a 21.
+-speak Travis
+Oh shit.
+-speak Taliesin
+That hits.
+-speak Matt
+All right, so the claw finds purchase across your torso.
+The armor catches most of it.
+You still feel the taste of iron in the back of your throat.
+You suffer nine points of slashing damage.
+-speak Taliesin
+Okay.
+-removegraphic claws
+-addgraphicon bite bite infront shadow percy umberhulk1
+-updatebattle
+-speak Matt
+And just as you pull back, the mandibles crunch down on you.
+And that is going to be a 27 to hit.
+-speak Laura
+Oh, no!
+-speak Matt
+You take 14 points of slashing damage, as the mandibles slice down, clamping onto your shoulder.
+You manage to pull free, but in doing so, you wrench the pointed portions of the mandible across your shoulder, pulling open the flesh in this horrible jagged pattern.
+-speak Taliesin
+Ow.
+-removegraphic bite
+-addgraphicon bite bite infront shadow grog umberhulk1
+-updatebattle
+-speak Matt
+That brings us to the other one, who is attacking Grog.
+-speak Marisha
+Grog!
+-speak Matt
+You're right there in front of it.
+The biggest and most viable visual it can find.
+-speak Scanlan
+~No motherfucker, miss~ 
+-speak Sam
+I start singing using my Cutting Words reaction.
+To try to distract him.
+-speak Matt
+All right, so go ahead and roll your d8 to reduce his attack roll.
+-speak Travis
+No motherfucker, miss!
+-speak Sam
+Three.
+-speak Matt
+That brings it to a 17 to hit.
+-speak Travis
+My AC is 18.
+-speak Sam
+I saved your life!
+-speak Matt
+So, as you begin singing out-
+-speak Sam
+~No motherfucker~
+-speak Matt
+It pulls back its mandibles to strike at Grog, it looks off to you for a second.
+At which point Grog has put his axe up to its face and is holding it at bay.
+-removegraphic bite
+-addgraphicon claws claws infront shadow grog umberhulk1
+-updatebattle
+-continue
+It strikes at you with its two claws, Grog.
+That is going to be a 27.
+-speak Travis
+That hits.
+-speak Matt
+And a 14.
+-speak Travis
+Misses.
+-speak Matt
+Okay, then from the one claw that gets you, you take six points of slashing damage.
+-scene Round One
+-continue
+All right everyone, roll initiative.
+-speak Laura
+I'm so scared to roll.
+-speak Marisha
+I know, it's been so bad.
+-speak Taliesin
+Ah, not horrible.
+-speak Laura
+Oh, good.
+-speak Travis
+Ball sack.
+-speak Marisha
+Uh, it's okay.
+-removeallgraphics
+-addgraphicon turn turn behind noshadow vex vex
+-updatebattle
+-speak Matt
+Top of the round. Vex.
+-speak Laura
+Hyah!
+I am going to shoot.
+-speak Matt
+Before you do that-
+-speak Sam
+Oh, shit.
+-speak Matt
+As you're going to reach back, you look over into its strange, glistening, black, dead, insect-like eyes.
+And you feel this strange wave of mental confusion hit your head.
+-speak Travis
+I knew it.
+-speak Matt
+Go ahead and make a charisma saving throw.
+-speak Marisha
+Is this what confused you and had you running out the door?
+-speak Travis
+I fell out a fucking 120 foot hole.
+-speak Laura
+13.
+-addgraphicon confusion confusion infront shadow vex umberhulk1
+-updatebattle
+-speak Matt
+The wave of confusion takes hold over your brain.
+-narrate
+Laura groans.
+-continue
+We're gonna go ahead and find out what happens.
+-speak Travis
+Maybe he'll ask you to make some cookies.
+-speak Matt
+You reach for your bow, and you space out for a second.
+Your hands fall to your side. And you stand there.
+-speak Travis
+Aw, fuck.
+-speak Matt
+Trinket is looking for some sort of cue from you of what to do.
+-speak Laura
+Does he look confused too?
+-speak Matt
+No, but he's not sure what to do without your direction.
+-removegraphic turn
+-addgraphicon turn turn behind noshadow scanlan scanlan
+-updatebattle
+-continue
+That brings us to Scanlan.
+-speak Laura
+But I was stealthed!
+-speak Matt
+He couldn't see you, but you could see him.
+-movetoken scanlan -1 1
+-updatebattle
+-speak Sam
+I'm gonna take a step back behind Trinket.
+-speak Laura
+Good call.
+-speak Matt
+Are you averting your gaze from the guys, or are you looking at 'em directly?
+-speak Sam
+No, averting my gaze.
+And I sing my counter-charm song.
+-speak Scanlan
+~Magic magic, go away, come again another day~ 
+-speak Sam
+So all of us have advantage on saving throws for the charming spells.
+If they are charming us. I don't know if they are.
+-speak Matt
+This is confusion. I don't think-
+-speak Sam
+Frightened or charmed, it's not the same thing?
+-speak Matt
+Mm. This is technically a confusion effect.
+So yeah.
+-speak Sam
+It didn't work.
+-speak Matt
+Doesn't seem to be having an effect unfortunately.
+-speak Sam
+Okay.
+-addgraphicon healing healing infront shadow percy scanlan
+-updatebattle
+-continue
+And then as my bonus action, I'll just throw a healing word to Percy.
+9 points of healing.
+-removegraphic turn
+-removegraphic healing
+-addgraphicon turn turn behind noshadow percy percy
+-updatebattle
+-speak Matt
+Percy, you're up.
+-speak Taliesin
+Okay, so there's no getting away.
+I remember I'm not supposed to look at these things. I know where this thing is.
+I can pull my gun and just take a shot, right?
+-addgraphicon target target infront shadow umberhulk2 percy
+-updatebattle
+-speak Matt
+So averting your gaze, you take a shot.
+You are at disadvantage on the attack roll.
+-speak Taliesin
+I'm gonna spend a grit point for a deadshot, so I'm gonna get a plus one to hit.
+26 to hit with disadvantage.
+-speak Travis
+Get after it, nasty!
+-speak Matt
+That hits.
+Go ahead and roll damage.
+-speak Taliesin
+And then I get extra damage because I did deadshot.
+14 points of ice damage.
+And then I have a second shot.
+My gun jams.
+-speak Laura
+We're all gonna die.
+-speak Matt
+You fire the first shot averting your gaze.
+You spin the barrel, go back to fire again, and it jams.
+You pull the trigger for a second, and you feel the black powder fizzle.
+-speak Travis
+Damn it!
+-speak Marisha
+Oh, no.
+-speak Matt
+The actual metal get extremely cold, and you almost drop it.
+-speak Taliesin
+And I can't move. That's the end of my turn.
+-removegraphic turn
+-removegraphic target
+-addgraphicon turn turn behind noshadow keyleth keyleth
+-updatebattle
+-speak Matt
+That brings us to Keyleth.
+-speak Matt
+Just as a note, your inspiration dice that you give can be used on saving throws as well.
+-speak Sam
+Okay. I haven't given any.
+-speak Matt
+No.
+-speak Marisha
+I'm a bear right now.
+-addgraphicon claws claws infront shadow umberhulk2 keyleth
+-updatebattle
+-continue
+I'm gonna do a full round of attacks.
+I'm doing multi-attack.
+-speak Matt
+Okay, are you averting your gaze or not?
+-speak Marisha
+I'm a cave bear, I'm blind. I'm like a blind fish.
+I have darkvision and, like, cataracts.
+-speak Matt
+Darkvision means you can see in the dark.
+It doesn't mean that you don't see.
+-speak Marisha
+I'm eating at his leg. I'm not looking at his eyes.
+I'm not, like, waxing poetically at how sexy he is.
+-speak Matt
+No.
+-speak Marisha
+Not whispering sweet nothings in his ear.
+-speak Matt
+That's true.
+-speak Liam
+Go for the kill!
+-speak Matt
+Since you don't avert you gaze, make a charisma saving throw.
+-speak Marisha
+16.
+-speak Matt
+You can feel the oppression of the umber hulk's gaze, but you shrug it off.
+Your bear mind not affected by its measly tricks and traits.
+-speak Marisha
+Urgh, I'm a bear!
+-speak Matt
+Roll for your three attacks.
+-speak Marisha
+First one probably misses. 14.
+-speak Matt
+Misses.
+-speak Marisha
+19 will hit, 18 will hit.
+25 damage total.
+-speak Matt
+You reach for it, lashing out.
+The second one gets a distinct carve into the back of the umber hulk's hide.
+You can see a portion of its chitinous back armor gets pulled off in a chunk.
+It snarls, reeling back from the impact and readies itself for a second round of attacks.
+-speak Marisha
+Me and Trinket. Going at this. Bear style.
+-removegraphic turn
+-removegraphic claws
+-addgraphicon turn1 turn behind noshadow umberhulk1 umberhulk1
+-addgraphicon turn2 turn behind noshadow umberhulk2 umberhulk2
+-updatebattle
+-speak Matt
+It's their turn.
+This one turns to focus on the cave bear that just thrashed against its hide.
+While this one turns towards Grog.
+-addgraphicon bite bite infront shadow keyleth umberhulk2
+-updatebattle
+-continue
+So making its multi-strike against you, Keyleth.
+That is a 26 to hit.
+-speak Marisha
+Hits.
+-speak Matt
+That's mandibles.
+17 to hit with its claw.
+-speak Marisha
+Hits.
+-removegraphic bite
+-addgraphicon claws claws infront shadow keyleth umberhulk2
+-updatebattle
+-speak Matt
+And 18 to hit with its claw.
+-speak Marisha
+Hits.
+-speak Matt
+All right, so you take six points of slashing damage from the first claw.
+Eight points of slashing damage from the second claw.
+And then the mandibles deal fifteen points of slashing damage, as the umber hulk just unleashes an array of strikes against you.
+-speak Liam
+Hit it in the face.
+-removegraphic claws
+-addgraphicon claws claws infront shadow grog umberhulk1
+-updatebattle
+-speak Matt
+That brings us to the other one who's attacking you, Grog.
+-speak Marisha
+Back at him, yeah.
+-speak Matt
+That is a 12 to hit. Pretty sure misses.
+Another 12 to hit, 'cause it likes to roll fours, apparently.
+-speak Travis
+Give me another four.
+-removegraphic claws
+-addgraphicon bite bite infront shadow grog umberhulk1
+-updatebattle
+-speak Matt
+For the mandibles, it's a 20.
+-speak Travis
+20 hits.
+-speak Matt
+You're taking damage, fool.
+That is 18 points of slashing damage against you.
+-speak Travis
+I have a half damage to all bludgeoning, piercing, and slashing damage?
+-speak Matt
+You haven't raged yet.
+-speak Travis
+So I'm not raging?!
+-speak Matt
+You haven't raged yet!
+It isn't your turn yet.
+-speak Travis
+But I'm so angry.
+-speak Matt
+I know.
+You're about to be so angry.
+The mandibles crush down on your body, and you can feel them pierce into your chest.
+Your exposed musculature is then torn in a jagged form as you feel the blood begin to pour down the front of your torso.
+-speak Laura
+That's brutal.
+-speak Travis
+My turn's coming.
+-speak Matt
+That ends their turn.
+-removegraphic turn1
+-removegraphic turn2
+-removegraphic bite
+-addgraphicon turn turn behind noshadow vax vax
+-updatebattle
+-continue
+Vax.
+-speak Liam
+So I can see what's up.
+-addgraphicon dagger dagger infront shadow umberhulk1 vax
+-updatebattle
+-continue
+I saw what it did to my sister, so I'm gonna jump on its back.
+I'm gonna swivel my daggers around and just stab it in the face.
+-speak Laura
+But keep your gaze averted.
+-speak Liam
+Yeah, I'm seeing the back of his fucking spine or head.
+I'm gonna stab him in the face twice.
+-speak Matt
+Go for it.
+-speak Liam
+20 will hit. The other one's an 18.
+36 damage from the first dagger.
+-speak Marisha
+Whoo!
+-speak Liam
+In his face.
+3 damage on the second.
+With my flametongue dagger.
+-speak Matt
+Okay, so, as you leap on its back, grab purchase on one of its chitinous plates.
+Bring your first dagger forward and jam it into the side of its head.
+As it pulls back, you hear a snarl.
+It reaches for you with one of its claws to try and knock you off.
+You pull your other dagger, and pierce it into the other side of its head.
+-speak Travis
+Yeah!
+-speak Matt
+This time it successfully knocks you off.
+You manage to just barely land on your feet, behind it.
+-removegraphic turn
+-removegraphic dagger   
+-addgraphicon turn turn behind noshadow grog grog
+-updatebattle
+-continue
+That brings us to Grog.
+-speak Travis
+Rage.
+-speak Marisha
+Rage!
+-speak Travis
+Now I'm angry.
+And not only rage, I would like to go into a frenzied rage.
+-addgraphicon axe axe infront shadow umberhulk1 grog
+-updatebattle
+-continue
+For three full attacks.
+While I'm raging so hard, that I pop all the capillaries in my eyeballs, so I can't really see that well.
+And I just swing a lot.
+-speak Matt
+All right, I'm gonna check one thing real fast.
+-speak Travis
+Oh, shit!
+Don't check, look, I'm rolling.
+30.
+-speak Liam
+There once was a bard from Nantucket.
+Who got his flute caught, in a bucket.
+-speak Matt
+I will say, situationally.
+Because of your rage, you have advantage on the saving throw against the confusion effect.
+So make a charisma saving throw.
+-speak Travis
+11.
+-speak Matt
+Let's see what happens.
+-speak Laura
+No!
+-speak Matt
+As you rage-
+-speak Marisha
+No, dammit.
+-speak Matt
+You feel the influence of the umber hulk's gaze pierce your mind.
+And the fury fills you, and you reach out and slash with your axe.
+-removegraphic axe
+-updatebattle
+-continue
+However, it does not reach for the umber hulk.
+Go ahead and roll an attack, Grog.
+-speak Laura
+Oh no, who's he hitting?
+-speak Travis
+A one!
+-narrate
+The group cheers.
+-speak Sam
+Finally!
+-speak Marisha
+Yes!
+-addgraphicon axe axe infront shadow keyleth grog
+-updatebattle
+-speak Matt
+There's a loud clanging sound, as a giant, angry, swooping bladed greataxe misses Keyleth's bear head by inches.
+-narrate
+Marisha roars in outrage.
+-speak Matt
+Before slamming into the stones beside her.
+You can just see now this kind of loose, crazed look in his eye.
+Foam begins to gather at the side of his mouth.
+-speak Liam
+We have a problem.
+-speak Laura
+Yeah, this could be bad.
+-removegraphic axe
+-addgraphicon turn turn behind noshadow vex vex
+-updatebattle
+-scene Round Two
+-speak Matt
+All right, Vex, you're up.
+-speak Laura
+Oh, do I have to roll a saving throw or am I fine?
+-speak Liam
+Be a badass, be a badass.
+-speak Matt
+Are you looking at it, or are you averting your gaze?
+-speak Laura
+No, I'm averting my gaze even though I'm confused apparently.
+-removegraphic confusion
+-updatebattle
+-speak Matt
+Well, the confusion only lasts one turn.
+-speak Laura
+Okay, good.
+I avert my gaze but I listen very carefully to the sound of where it's coming from.
+-addgraphicon target target infront shadow umberhulk2 vex
+-updatebattle
+-continue
+And I shoot in that direction.
+-speak Matt
+So go ahead and make your attacks against this fellow.
+-speak Travis
+That's some Hawkeye stuff.
+-speak Marisha
+Big money, no whammies.
+-speak Laura
+Hunter's mark first.
+23 to hit on the first.
+26 on the second.
+-speak Matt
+You go ahead and pull two arrows, letting them loose, kind of letting a little bit of faith take your arrows to the wind.
+Both finding purchase on your foe.
+-speak Laura
+Can I use the blazing bowstring on that one?
+-speak Matt
+You can, yes.
+-speak Laura
+Sweet. 29 damage total.
+-speak Marisha
+Woo!
+-speak Matt
+Nice!
+Your arrows sink into him.
+Fire cascades up the side, its plates beginning to burn and char.
+It reels back, now fixated on you.
+-speak Laura 
+I can't do anything with Trinket this turn, but he's protecting Scanlan.
+-speak Matt
+Yeah, big old bear protecting your gnome.
+-speak Vex
+Protect the gnome!
+-speak Liam
+Gnome coverage.
+-speak Marisha
+Gnomewatch 2015.
+-removeallgraphics
+-addgraphicon turn turn behind noshadow scanlan scanlan
+-updatebattle
+-speak Matt
+Scanlan, you're up.
+-movetoken scanlan 1 0
+-updatebattle
+-addgraphicon magic magic front shadow umberhulk2 scanlan
+-updatebattle
+-speak Sam
+I will just step forward a little, and I will cast polymorph on our big friend that we're surrounding.
+And I'll turn him into a snail.
+-speak Marisha
+A snail? Aww!
+-speak Travis
+Can you do that?!
+-speak Sam
+Yes.
+-speak Matt
+What's the DC, the difficulty class on your spells?
+-speak Sam
+Through the horn of clarity or whatever.
+So it's 19.
+-speak Matt
+So, as the two umber hulks are there, the one that's in the center of the group, rears back, beginning to unleash its series of attacks.
+-removegraphic magic
+-removetoken umberhulk2
+-addtoken snail snail snail 6.5 4.8
+-addgraphicon magic magic behind noshadow snail scanlan
+-updatebattle
+-continue
+And then, whoosh, shrinks into this tiny snail form on the ground.
+-speak Travis
+What?!
+-speak Laura
+Awesome!
+-speak Liam
+Don't touch the snail!
+-speak Laura
+Why?
+-speak Liam
+'Cause he'll poof out into the fucking big guy again.
+-speak Sam
+Don't hurt the snail.
+-speak Liam
+Leave it, leave it.
+-speak Sam
+Don't pick up the snail. Just be nice to the snail.
+-speak Liam
+Leave it alone. Hit the other one.
+-speak Matt
+There's a tiny, tiny little snail on the ground now that looks very confused.
+-speak Laura
+That's confusing.
+-speak Matt
+Very confused, which is ironic for an umber hulk, to feel confused.
+-speak Sam
+As a bonus action, I give dice to- who's coming up next?
+-speak Matt
+Next'll be Percy.
+-speak Sam
+Percy, you get dice.
+A d8 for inspiration.
+-speak Taliesin
+Excellent.
+-removeallgraphics
+-addgraphicon turn turn behind noshadow percy percy 
+-updatebattle
+-speak Matt
+Percy, you're up.
+-speak Scanlan
+~Diddle diddle diddle diddle doo!!~
+-speak Taliesin
+I'm gonna take one of my two attacks to clear my gun.
+-addgraphicon target target infront shadow umberhulk1 percy
+-updatebattle
+-continue
+And then set up for a fire shot.
+Am I at a disadvantage?
+-speak Matt
+Yes, unless you want to make the charisma save.
+-speak Sam
+You got the dice, you got the dice.
+-speak Taliesin
+17 with disadvantage and the d8.
+-speak Matt
+17 will just barely hit.
+-speak Marisha
+Nice!
+-speak Taliesin
+17 fire damage!
+-speak Matt
+17 fire damage, nice.
+The shot hits, and you hear a cracking sound as one of its plates actually shatters off of its body, exposing kind of a fleshy undercarriage.
+-speak Marisha
+Nice. Undercarriage.
+-speak Matt
+This umber hulk is starting to look a little rough.
+-removeallgraphics
+-addgraphicon turn turn behind noshadow keyleth keyleth
+-updatebattle
+-continue
+Keyleth, you're up.
+-movetoken keyleth 2 0
+-addgraphicon claws claws infront shadow umberhulk1 keyleth
+-updatebattle
+-speak Marisha
+Okay, after seeing Grog get confused, I turn, and I go straight for the umber hulk's throat.
+And I'm trying to drag him into the creek.
+-speak Laura
+Ooh.
+-speak Matt
+Okay, so go ahead and roll for a grapple.
+-speak Travis
+Come on, cave bear.
+-speak Marisha
+How do I grapple as a bear?
+-speak Taliesin
+How does one grapple as a bear?
+-speak Liam
+Bear hug, man, bear hug.
+-speak Laura
+Yeah, just take him.
+-speak Taliesin
+Have you noticed there's a rhinoceros in here?
+-speak Marisha
+I can be a rhinoceros.
+-speak Travis
+Why have you not been a rhinoceros yet?
+-speak Marisha
+It just hasn't been useful yet.
+-speak Sam
+She usually picks a bird of some sort.
+-speak Marisha
+I'm waiting for the right time.
+-speak Taliesin
+We're just waiting for you to scream: It's morphin' time!
+Bear!
+-speak Marisha
+Oh my god, can you make me smoke bombs that smoke, and I say: "it's morphin' time"?
+-speak Matt
+So you can make a grapple attempt in place of one of your attacks.
+-speak Marisha
+That's what I want to do.
+Natural 20 on the athletics check.
+-removegraphic claws
+-addgraphicon grapple grapple infront noshadow umberhulk1 keyleth  
+-updatebattle
+-speak Matt
+You reach forward and latch onto it with your claws and your teeth, onto the umber hulk.
+-speak Marisha
+I'm taking him underwater.
+-movetoken keyleth 3 -2
+-movetoken umberhulk1 3 -2
+-updatebattle
+-speak Matt
+Okay. You pull.
+-speak Laura
+Oh god, you're doing it, Keyleth.
+-speak Liam
+It's a waterfall, oh.
+-speak Matt
+You both plunge underneath the water's surface.
+-speak Laura
+Yeah, let him go, 'cause it's a waterfall.
+-speak Marisha
+No, I'm holding on to him.
+-speak Laura
+But Keyleth, there's a waterfall.
+It's fine.
+-addgraphicon turn turn behind noshadow umberhulk1 umberhulk1
+-updatebattle
+-speak Matt
+It's now its turn.
+It's going to try and break your grapple.
+Make an athletics check.
+-speak Marisha
+Dirty 20.
+-speak Matt
+You maintain your grip on the umber hulk.
+It's thrashing in the water trying to get its way to the surface.
+-addgraphicon claws claws infront shadow keyleth umberhulk1
+-updatebattle
+-continue
+So it's gonna make its attacks against you.
+That is a 14.
+-speak Marisha
+Hits.
+-speak Matt
+Next 2 strikes will also hit.
+Total of 26 points of slashing damage.
+-removegraphic claws
+-removetoken keyleth
+-addtoken keyleth keyleth keyleth 12 1
+-refreshtoken umberhulk1
+-updatebattle
+-speak Marisha
+I am no longer a bear.
+-removegraphic grapple
+-updatebattle
+-speak Matt
+So you lose your grip as your form reverts.
+You are now back to Keyleth's form in the water.
+In near darkness, with an umber hulk right on you.
+-speak Marisha
+Hey brah. Sup?
+Fancy meeting you here.
+-addgraphicon turn turn behind noshadow vax vax
+-updatebattle
+-speak Matt
+Vax, you're up.
+-movetoken vax -2 -1
+-updatebattle
+-speak Liam
+Okay, so first thing I do is lean down and pick up the snail off the ground and say:
+-speak Vax
+Hey, um, go fuck yourself.
+-movetoken snail 4 -3
+-movetoken snail 4 4
+-updatebattle
+-speak Liam
+And then I throw him into the waterfall.
+-speak Sam
+Oh Jesus!
+-speak Matt
+Make a dex check.
+-speak Liam
+22.
+-speak Matt
+You throw, it arcs over.
+Lands in the water with a splash.
+-movetoken snail 4.2 5
+-updatebattle
+-continue 
+Goes under into the waterfall.
+-speak Vax
+Toodle-oo shitface.
+-speak Liam
+Now, that seems like a bonus action to me, right?
+-speak Matt
+I'd say that's an attack.
+-speak Travis
+You threw him forever.
+-movetoken vax 3 -1
+-addgraphicon dagger dagger infront shadow umberhulk1 vax
+-updatebattle
+-speak Liam
+Then I'll just run up and stab the shithead fucking with Keyleth.
+-speak Matt
+You have disadvantage 'cause it's currently in the water thrashing about, and it's hard to see.
+-speak Liam
+Well, that's not very good. 15.
+-speak Matt
+15 misses unfortunately.
+So as you slash down with your dagger into the water.
+But it's just too hard to judge, and you don't make contact.
+-speak Liam
+I still feel pretty good about that round.
+-speak Travis
+Yeah, it was pretty good.
+-removeallgraphics
+-addgraphicon turn turn behind noshadow grog grog
+-updatebattle
+-speak Matt
+Grog, you're up.
+-speak Travis
+Am I?
+-movetoken grog 3 -1
+-refreshtoken grog
+-refreshtoken vax
+-updatebattle
+-continue
+With my frenzied rage renewed, I run towards the water, haunted by nightmares of Sebastian in the Little Mermaid.
+-addgraphicon axe axe infront shadow umberhulk1 grog
+-updatebattle
+-continue
+And I leap into the water and start slashing and slashing.
+-speak Matt
+Go ahead and make your three attacks, Grog.
+-speak Travis
+~Le poisson, le poisson, hee hee hee, fuck you bitch~
+26 will hit. 26 again will hit. And a 25.
+-speak Matt
+Go ahead and roll damage.
+As you come charging forward, yelling, foam cascading off the side of your mouth.
+Your eyes just glaze over with white.
+You bring the axe down into the water, keeping mindful that Keyleth might be in there somewhere.
+But the umber hulk is a large, easy target.
+-speak Travis
+It's all about sushi right?
+-speak Marisha
+Oh, I'm fine.
+-speak Travis
+34 damage total.
+-speak Matt
+As your axe comes down, slams once into the water.
+You see one of the claws reach the surface.
+Its head's still under the water.
+You slam the axe down.
+You see the arm actually snaps and begins to drift down the river.
+As it looks up at you, its eyes open.
+-removegraphic axe
+-addgraphicon skull skull infront shadow umberhulk1 grog
+-updatebattle
+-continue
+Before the gaze can meet yours, the axe comes down and plunges itself directly into the forehead of the umber hulk with a shunk sound.
+As it does, its body goes limp and begins to float down the water.
+-narrate
+The group cheers.
+-removeallgraphics
+-removetoken umberhulk1
+-updatebattle
+-speak Vex
+Well, that was easy.
+-speak Scanlan
+Was it?
+-movetoken vex 2 0
+-movetoken keyleth -3 1
+-updatebattle
+-speak Laura
+I walk up and try to help Keyleth out of the water.
+-speak Matt
+Okay. You help Keyleth out of the water.
+-removetoken snail
+-addtoken umberhulk umberhulk umberhulk 18.5 10.8
+-addgraphicon magic magic infront shadow umberhulk umberhulk 
+-updatebattle
+-scene Round Three
+-continue
+At this point, the snail form, which doesn't have a whole lot of hit points, has taken enough damage to alleviate itself from the polymorph.
+-removegraphic magic
+-movetoken umberhulk -3 -1
+-addgraphicon turn turn behind noshadow umberhulk umberhulk
+-updatebattle
+-continue
+As the spell fades, as the snail form is destroyed, the other umber hulk begins clawing its way up the side of the mountain, burrows through the actual stonework--
+-speak Laura
+Ah, balls.
+-movetoken umberhulk -4 -4
+-updatebattle
+-speak Matt
+And bursts out of the ground right behind you, Vax.
+-speak Vax
+Oh, fuck a duck.
+-speak Travis
+Come on, drop this thing.
+-speak Laura
+This is why you shouldn't have thrown the snail.
+-speak Matt
+But that's its turn.
+-removeallgraphics
+-updatebattle
+-speak Liam
+I thought it would get washed all the way out.
+Down the toilet, all the way out.
+-speak Matt
+All right, that brings us to the top of the round.
+-speak Marisha
+It was at least badass.
+-addgraphicon turn turn behind noshadow vex vex
+-updatebattle
+-speak Matt
+That leads to Vex.
+-speak Laura
+Me?
+-speak Matt
+You!
+-speak Liam
+Kill it before it kills me.
+-addgraphicon target target infront shadow umberhulk vex
+-updatebattle
+-speak Laura
+I am gonna keep my gaze averted, but I'm gonna attack it.
+With some arrows.
+-speak Matt
+Go for it.
+So two arrows, notched. Disadvantage on each attack.
+-speak Laura
+Oh, okay.
+-speak Liam
+Don't let it eat my head, please.
+-speak Laura
+20 on the first, 19 on the second.
+-speak Matt
+Both hit.
+-speak Laura
+24 damage total.
+-speak Matt
+The arrows end up piercing part of the armor.
+Each sink in a good, solid six, seven inches or so.
+It angrily snarls at the impact.
+That brings us to Scanlan.
+-removeallgraphics
+-addgraphicon turn turn behind noshadow scanlan scanlan
+-movetoken scanlan 5 0
+-updatebattle
+-speak Sam
+Scanlan's gonna move right in.
+-speak Liam
+Save the day, Scanny.
+-speak Sam
+Toss another dice to Percy, he seems to need them.
+-speak Taliesin
+Thank you.
+-addgraphicon lightning lightning infront shadow umberhulk scanlan
+-updatebattle
+-speak Sam
+And I'm gonna cast lightning bolt at the thing.
+Who's wet from being in the water, yes?
+So electricity is gonna be pretty bad on him.
+-speak Matt
+All right.
+So, because you're kind of averting your gaze to look away, it gets advantage on its saving throw.
+Natural 20.
+-speak Sam
+28 damage, halved to 14.
+-speak Matt
+14 points of damage to the umber hulk as the bolt of lightning cascades through its body.
+It lights up for a second as you see the crawling fingers of electricity kind of shoot through its plates.
+-speak Sam
+I like crawling fingers.
+-speak Matt
+The water on its form evaporates from the sheer force of the electricity.
+You see the umber hulk still standing.
+Angry, in pain, and standing, although it's still looking a little worse for wear.
+You don't wanna do that to an umberhulk.
+-removeallgraphics
+-addgraphicon turn turn behind noshadow percy percy
+-updatebattle
+-speak Matt
+Percy, you're up.
+-addgraphicon target target infront shadow umberhulk percy
+-updatebattle
+-speak Taliesin
+Taking my shot, I'm averting my eyes, so.
+-speak Sam
+Use those dice, use those dice.
+-speak Taliesin
+24 to hit, with disadvantage.
+6 points of damage.
+I'm taking my second shot.
+-speak Matt
+All right.
+-speak Liam
+Shoot it in the mouth.
+-speak Taliesin
+Critical hit. Natural 19 and a natural 20.
+-speak Travis
+Sick, nasty.
+-speak Liam
+Critical on a disadvantage!
+-speak Matt
+Well done.
+-speak Taliesin
+Bad damage roll, unfortunately. 
+11 damage.
+-speak Matt
+So, as you rear back your shot hits the plate, shatters it on the other side of its chest.
+You can now see this weird purplish goo beginning to spill from its wounds.
+You see it's holding itself up, and it's having a hard time keeping physical form there.
+-removeallgraphics
+-addgraphicon turn turn behind noshadow keyleth keyleth
+-updatebattle
+-continue
+Keyleth, you're up.
+-speak Marisha
+Oh. Um, cool.
+I'm still a person.
+-addgraphicon lightning lightning infront shadow umberhulk keyleth
+-updatebattle
+-continue
+I'm gonna go ahead and do a call lighting spell.
+Bam, call lightning right on its head.
+'Cause he's wet.
+-speak Matt
+Call lighting it is.
+The ceiling of this area begins to fill with this strange cloudy, thunderous booms, as a raincloud is created and summoned above you.
+Keyleth throws her hand up, and a single bolt streaks through the air.
+Slamming into the same lightning bolt wound left previously.
+Where the edges of its chitinous armor are still glowing from the heat.
+It makes the saving throw.
+-speak Marisha
+11 damage, halves to 6.
+-speak Travis
+Finish him.
+-speak Matt
+Cause you're having to avert your gaze, so it has advantage.
+-removeallgraphics  
+-addgraphicon turn turn behind noshadow umberhulk umberhulk
+-updatebattle
+-speak Matt
+It's now its turn.  
+-speak Laura
+Ugh, it's still alive.
+-movetoken umberhulk -2 -1
+-updatebattle
+-speak Matt
+It turns and runs past, to the one who shot it with the angry lightning bolt.
+The tiny gnome that now is a delicious morsel in the mandibles of an umberhulk.
+It comes running forward like a giant armored gorilla.
+-speak Laura
+Oh, no.
+-addgraphicon claws claws infront shadow scanlan umberhulk
+-updatebattle
+-speak Matt
+Reaching back with both of its claws, swiping at you Scanlan, that is a 23 to hit, 24 to hit, and 25 on the mandibles.
+-speak Laura
+Oh, no!
+-speak Liam
+But you're so little.
+-speak Sam
+Ooh!
+-speak Matt
+38 points of slashing damage.
+-speak Sam
+This is the sound I make.
+-narrate
+Sam lets out a breathy, high pitched "Ah!".
+-speak Matt
+As it just strikes you, you're almost pinned to the ground, blood oozing from your face as gashes, slash wounds across your entire body.
+It's looming over you, ready to try and finish you off next round.
+-speak Laura
+Ugh!
+-removeallgraphics  
+-addgraphicon turn turn behind noshadow vax vax
+-updatebattle
+-speak Matt
+That brings us to Vax.
+-speak Liam
+Okay.
+So, he's now got his back turned to me.
+-addgraphicon dagger dagger infront shadow umberhulk vax
+-updatebattle
+-continue
+I'm just gonna stick both knives into his guts and say, 
+-speak Vax
+No one touches the gnome!
+-speak Liam
+Right in his guts.
+That's shit, so the first one misses. Second is a 27.
+-speak Matt
+27 hits definitely.
+-speak Liam
+24 damage.
+-removegraphic dagger
+-addgraphicon skull skull infront shadow umberhulk vax
+-updatebattle
+-scene How Do You Want To Do This?
+-speak Matt
+How do you want to do this?
+-narrate
+The group yells triumphantly.
+-speak Liam
+I stick it in the back of his spider nads.
+And rip it out his bum and out the back of him.
+-speak Laura
+Gross!
+-speak Liam
+And just spill it all out the bottom.
+-speak Sam
+I'm right next to him, it might spill on me.
+-speak Matt
+As it's looming over Scanlan who's on his back, it's tearing into him and starting to gut him best it can.
+He's screaming from beneath.
+You rush underneath, tumble, bringing your dagger up and slam it right under the bottom of its abdomen.
+It looks down towards you and right before its gaze can meet yours, you yank back with all your might.
+Drawing the blade up the back of its body.
+With its torso left open from the armor plates being shot off, it spills a number of its warm innards right onto Scanlan's body and form.
+-speak Scanlan
+Ugh, no!
+It went in my mouth!
+-speak Matt
+And then it collapses on top of him.
+-speak Sam
+Ah!
+-speak Matt
+You take six points of crushing damage as the umber hulk collapses on top of you.
+-endbattle 
+-background black
+-show grog -6.5
+-show vax -2
+-show vex -1
+-show keyleth -4
+-show scanlan -8
+-show percy -6
+-updatebattle Post-Battle
+-speak Travis
+I run over and shove the umber hulk off of Scanlan.
+-speak Matt
+Okay.
+-speak Scanlan
+Ugh! Ah!
+-speak Vex
+Oh my gosh.
+-speak Scanlan
+What just happened?
+-speak Marisha
+I go over to Scanlan, and I just, I just lay my hands on him, and I cast Cure Wounds at level two.
+-speak Liam
+Nobody touches my man-wife.
+-speak Sam
+What's that spell do?
+-speak Marisha
+So you heal, 16, 20 points.
+-speak Scanlan
+Thank you.
+-speak Matt
+So, as you heal him, touch him with the spell, you wipe the umber hulk ichor off of your hand.
+-speak Vex
+Maybe you should jump in that water, Scanlan.
+-speak Grog
+You should get in the water and clean yourself off.
+-speak Percy
+We have running water.
+Use running water.
+-speak Scanlan
+I think I wanna keep it on.
+-speak Grog
+As a badge of honor?
+-speak Scanlan
+It's a badge of honor.
+-speak Vax
+Like the walking dead, you're gonna sneak by the rest of 'em?
+-speak Scanlan
+I think I'm gonna keep the blood on me, if you don't mind.
+Warning to others.
+-speak Matt
+So, you still hear the rushing of the water down below, and you can see this dull glow in the distance.
+-speak Laura
+Ugh.
+-speak Travis
+Let's go towards the light.
+-speak Sam
+Can we take a short rest and heal up?
+-speak Travis
+No, I run.
+-speak Laura
+Short rest, short rest.
+-speak Travis
+No, running.
+-speak Liam
+Running?!
+-speak Sam
+Why don't you let some people heal?
+-speak Matt
+Grog goes running.
+Anyone else?
+-speak Travis
+I'm frenzy raging.
+-speak Scanlan
+Oh God, Grog! Grog, no!
+-speak Grog
+It's a bright, shiny thing.
+I'm going there!
+-speak Laura
+He is frenzying.
+-speak Liam
+I'm unscathed, so I run after Grog, just to give him backup if he needs.
+-speak Marisha
+I'll follow after Vax.
+-speak Matt
+Grog, you come around the corner to see what looks like a small campsite.
+-speak Grog
+Aww.
+-speak Matt
+There's some bedding, and what was once a campfire and is now a pile of embers.
+Does not appear-
+-speak Travis
+I start hacking away at the bedding.
+Just chopping the shit out of it.
+-speak Sam
+Jesus!
+-speak Matt
+Grog starts hacking away at the bedding.
+-speak Liam
+I'm just watching and shrugging.
+-speak Laura
+No, look and search around and see what's in the bedding.
+-scene Ambush
+-speak Matt
+Three crossbow bolts come flying out of nowhere-
+-speak Sam
+Oh, no!
+-speak Liam
+Fuck!
+-speak Matt
+Two hitting Grog.
+-speak Laura
+Why weren't you stealthing?
+-speak Liam
+I am now.
+-speak Travis
+Somebody likes their bedding apparently.
+-speak Liam
+I rolled a 29 for stealth as soon as the first arrow flew.
+-speak Marisha
+That was a Coleman, alright? That was a very expensive sleeping bag!
+-speak Taliesin
+Never attack the bedding before you know the thread count.
+-speak Travis
+It was 3,000 count Egyptian!
+-speak Taliesin
+God.
+-scene Round One
+-speak Matt
+Grog, you take seven points of piercing damage, which is halved to four because you're raging.
+-speak Travis
+Right.
+-hide grog
+-hide keyleth
+-hide vex
+-hide vax
+-hide scanlan
+-hide percy
+-setbattle CR_C1_E2/2 11 18
+-addtoken grog grog grog 15 6
+-addtoken vax vax vax 10 5
+-addtoken keyleth keyleth keyleth 1 5
+-addtoken vex vex vex 1 6
+-addtoken scanlan scanlan scanlan 3 7
+-addtoken percy percy percy 3 8
+-addtoken trinket trinket trinket 4 9
+-addtoken duergar1 duergar duergar 9 1
+-addtoken duergar2 duergar duergar 15 3
+-addtoken duergar3 duergar duergar 15 1
+-updatebattle
+-speak Matt
+As you can see what looks like three small-
+-speak Liam
+Duergar.
+-speak Laura
+No, they're dwarves.
+-speak Liam
+Yeah, that's duergar. Dark dwarves.
+-speak Laura
+Oh!
+-speak Liam
+I consider myself a nerd.
+-addtoken devourer devourer devourer 14 2
+-updatebattle
+-speak Matt
+And some strange beast you've not seen before seems to be accompanying one of them.
+-speak Laura
+Is that a brain?
+-speak Matt
+It looks like an oversized, swollen brain with a set of arms and legs like a panther.
+-speak Laura
+What?
+-speak Travis
+It's the brain bug from Starship Troopers.
+-speak Marisha
+That can't be good.
+-speak Matt
+Going off the same intiative order.
+-addgraphicon turn turn behind noshadow vax vax
+-updatebattle
+-continue
+Vax.
+-speak Liam
+I rolled a 29 stealth.
+-speak Matt
+Yes, I know.
+So you haven't been seen, and you have the first action.
+-movetoken vax -2 -2
+-updatebattle
+-speak Liam
+I'm going to hang in this corner, and hold my action to attack.
+And the trigger is when this asshole duergar moves forward, I'm gonna stick him in the back of the neck.
+-speak Matt
+All right.
+That brings us to Vex.
+-removeallgraphics
+-addgraphicon turn turn behind noshadow vex vex
+-updatebattle
+-speak Laura
+All right, I can hear them screaming so I'm gonna run over.
+Call Trinket as I'm doing it.
+-speak Travis
+Who's screaming?
+-speak Laura
+You, you screamed.
+-speak Travis
+No, I'm not screaming.
+-movetoken vex 6 -2
+-movetoken trinket 5 1
+-updatebattle
+-speak Matt
+Do you want to use your full round to move?
+Cause that's as far as you can move currently.
+-speak Laura
+Can I see anything from that point?
+-speak Matt
+All you see is Grog over there.
+-speak Liam
+They're covered and he's around the bend, so I'd run in further.
+-movetoken vex 2 0
+-updatebattle
+-speak Laura
+All right, I'll run in further.
+Can I run in and stealth or is that it?
+-speak Matt
+Uh, you can attempt to.
+-speak Laura
+I'm gonna try to stealth as I'm going in.
+-speak Matt
+You're at disadvantage on the stealth roll, but go for it.
+-speak Laura
+22 to stealth.
+-movetoken vex 1 1
+-updatebattle
+-speak Matt
+All right, so we'll say you're pulled off to the side there.
+The stealth twins over there being all stealthy-like.
+No one can see what's going on with them.
+It's like they're related.
+-speak Travis
+What's all this stealthing?
+Where's all the killing?
+-speak Matt
+That's your turn.
+-speak Laura
+I can't attack anything.
+-addgraphicon turn turn behind noshadow scanlan scanlan
+-updatebattle
+-speak Matt
+Scanlan.
+-movetoken scanlan 1 -2
+-movetoken scanlan 2 0 
+-updatebattle
+-speak Sam
+Okay, I'm gonna move right there into the room as far as I can.
+-addgraphic stinking_cloud stinking_cloud behind noshadow scanlan 13 1
+-updatebattle
+-continue
+And cast Stinking Cloud right there.
+It's gonna smell like just ass over there.
+-speak Matt
+A giant, green, ass cloud begins to fill this space here.
+As it does, they all begin to hack and cough.
+You can hear this now between the rest of you, echoing throughout.
+-speak Travis
+I'm slightly aroused.
+I'm drawn to the smell.
+-speak Matt
+Constitution saving throws for everything in the cloud.
+All them are failing!
+You hear a cacophonous amount of hacking, coughing, as all of them drop their attack stances and begin just retching, nearly vomiting, in the middle of this green cloud of gas.
+-speak Travis
+Outstanding.
+-addgraphicon healing healing infront shadow scanlan scanlan
+-updatebattle
+-speak Sam
+I'll also take a greater healing potion?
+For 4d4 plus 4.
+-removegraphic healing
+-addgraphicon turn turn behind noshadow percy percy
+-updatebattle
+-speak Matt
+All right, that brings us to Percy.
+-movetoken percy 5 2
+-movetoken percy 4 -1
+-updatebattle
+-speak Taliesin
+I'm gonna start heading down this direction, and I'm going to dash actually, so I can start getting a good look of what's up.
+-addgraphicon turn turn behind noshadow keyleth keyleth
+-updatebattle
+-speak Matt
+That brings us to Keyleth.
+-movetoken keyleth 8 -1 
+-updatebattle
+-speak Marisha
+Okay, I dash as well.
+-removegraphic turn
+-updatebattle
+-speak Matt
+It is their turn, and most of you finally get a look at them now.
+They are dwarven, but their skin is ashy and grey.
+Their eyes are white and pupil-less.
+-addgraphicon x1 x infront shadow duergar1 scanlan
+-addgraphicon x2 x infront shadow duergar2 scanlan
+-addgraphicon x3 x infront shadow duergar3 scanlan
+-updatebattle
+-continue
+And they are all on the verge of vomiting right now.
+They're just keeled over.
+One of them tries to bring a crossbow up, and has to put it back down again.
+They are unable to act this turn.
+-speak Marisha
+That's awesome.
+-addgraphicon turn turn behind noshadow devourer devourer
+-updatebattle
+-speak Matt
+The weird brain creature, however-
+-speak Travis
+What, has no nostrils?
+-speak Taliesin
+There's nowhere for him to retch from.
+-movetoken devourer 2 1
+-movetoken devourer 0 2
+-updatebattle
+-speak Matt
+It moves out of the cloud, looks over at you Grog.
+-speak Sam
+Oh, no.
+-speak Matt
+And just bears down for a second.
+-addgraphicon magic magic behind noshadow grog devourer
+-updatebattle
+-continue
+And you feel this intrusion in your mind.
+-speak Travis
+On my professor-torial mind.
+-speak Matt
+Go ahead and make an intelligence saving throw.
+-speak Sam
+Oh, those aren't good for you.
+-speak Marisha
+Oh, no.
+-speak Taliesin
+Well this? This ends poorly.
+-speak Travis
+Oh good, my modifier's negative two, so yippee-kye-ay-eh.
+Six.
+-speak Marisha
+That's a good number.
+-speak Matt
+You suffer nine points of psychic damage as there's a sudden blast of excruciating pain in the center of your brain.
+It actually shakes you a moment from your rage, which then fills your mind once again.
+-speak Taliesin
+Someone needs a Juggernaut helmet.
+-speak Marisha
+He needs a Magneto helmet.
+-speak Matt
+Also, your intelligence is reduced by 8.
+-addgraphicon unconscious unconscious infront shadow grog grog
+-removegraphic magic
+-updatebattle
+-continue
+You immediately fall unconscious.
+-narrate
+Laura gasps.
+-speak Marisha
+What?!
+-speak Matt
+Your intelligence is brought to zero.
+-speak Travis
+Ah! But I was at six!
+-speak Liam
+You gotta kill that thing.
+-speak Laura
+Oh no!
+-speak Travis
+I turn into a turnip?
+-speak Matt
+You just watched Grog just groan and fall to the ground.
+Almost into the campfire.
+-speak Laura
+Oh, no.
+-speak Travis
+It's like when I tried to read 50 Shades of Grey.
+-addgraphicon turn turn behind noshadow vex vex
+-updatebattle
+-scene Round Two
+-speak Matt
+Vex, you're up.
+-movetoken vex 1 1  
+-updatebattle
+-speak Laura
+If I walk down a little, can I see the brain fucker?
+-speak Matt
+Yes, you can from there.
+-speak Marisha
+The brain fucker.
+-speak Matt
+The brain fucker's official name.
+-addgraphicon target target infront shadow devourer vex
+-updatebattle 
+-speak Laura
+Bonus action hunter's mark, and then I'm going to shoot him.
+-speak Taliesin
+Brain lover, brain lover.
+-speak Marisha
+He's a lover, not a fighter.
+-speak Taliesin
+Lobey.
+-speak Laura
+23 will hit.
+-speak Marisha
+Let's call him Lobey!
+-speak Taliesin
+Take him everywhere.
+Our little Lobey.
+-speak Laura
+21 damage.
+-speak Matt
+You release your arrow, and it pierces straight into one of the lobes of this weird brain-like creature.
+-removegraphic target
+-addgraphicon skull skull infront shadow devourer vex
+-updatebattle
+-continue
+It stiffens, and trembles, but then falls over dead.
+-speak Sam
+Oh, the brain's done.
+-speak Taliesin
+You killed Lobey!
+-speak Sam
+Lisa Loeb?
+-speak Marisha
+Lisa Lobey!
+-speak Matt
+Lisa Loeb and the nine intelligence damage.
+-removegraphic skull
+-removetoken devourer
+-addgraphicon target target infront shadow duergar1 vex
+-updatebattle
+-speak Laura
+Then, I'll pivot and shoot that duergar.
+Natural 20!
+For 25 damage.
+-speak Marisha
+Damn girl.
+-removegraphic target
+-addgraphicon skull skull infront shadow duergar1 vex
+-updatebattle
+-speak Matt
+The hacking, coughing duergar dwarf has just inhaled another big old whiff of horrible stinking gas, and you send an arrow through its throat and out the back of its head.
+Falls flat on its back.
+-removegraphic x1
+-removegraphic skull
+-removetoken duergar1
+-updatebattle
+-speak Laura
+Yeah!
+-speak Matt
+One of the other duergar's just coughing out, saying something in Undercommon.
+-narrate
+Matt imitiates the sounds of Undercommon, a harsh guttural language.
+-speak Matt
+Anyone here speak Undercommon?
+-speak Laura
+I do!
+-speak Matt
+You hear him say:
+-speak Duergar
+Quick, there's our exit!
+Back, back to the master.
+-speak Vex
+Back to the master!
+-speak Travis
+Who's the master?
+-speak Laura
+You're unconscious.
+-speak Matt
+All right.
+-addgraphicon turn turn behind noshadow scanlan scanlan
+-updatebattle
+-continue
+That brings us to Scanlan.
+-speak Sam
+Ah, shit.
+I didn't understand them, right?
+So I don't know that they're going to run.
+-speak Matt
+No.
+-speak Travis
+Let 'em run back to the master and we'll track 'em.
+-speak Sam
+I didn't learn that they're running, so.
+-speak Laura
+Can I call out that I heard them?
+-speak Matt
+No, this is happening just as you heard them.
+-speak Sam
+Okay, well.
+I don't have a good line of sight on them, so I don't even know that they're there really, right?
+I just hear coughing in the distance.
+-speak Matt
+Yep.
+-movetoken scanlan 2 -1
+-updatebattle
+-speak Sam
+Then I'll just move further into the cavern there.
+-addgraphicon magic magic infront shadow grog scanlan
+-updatebattle
+-continue
+And I don't know that this works, but I'll try to cast Dispel Magic on Grog.
+-speak Matt
+Okay.
+-speak Sam
+I don't know if it's magic.
+I have no idea.
+-speak Matt
+So you go ahead and you focus, you cast Dispel Magic in Grog's vicinity.
+-speak Scanlan
+~Wake up, Grog~
+-speak Matt
+You see the shift of arcane, waving energy.
+-speak Travis
+~If I only had a brain~
+-speak Matt
+It does not seem to have an effect.
+-removegraphic magic
+-speak Sam
+It doesn't do it!
+Damn it!
+Then as my bonus action, can I still give him an inspiration dice to do on like saves?
+-speak Matt
+You think at this point, Grog isn't unconscious.
+Grog is catatonic.
+Grog has no intelligence.
+There is nothing home.
+You see him, on the ground, drooling, eyes glazed over.
+There is nothing there.
+-speak Laura
+What are we gonna do?
+-speak Taliesin
+You can't inspire a cantaloupe.
+The cantaloupe, it's not gonna feel better about itself.
+I've tried insulting a cantaloupe, you just don't get anywhere.
+-speak Sam
+Okay, then I give my dice to Vax.
+-addgraphicon turn turn behind noshadow percy percy
+-updatebattle
+-speak Matt
+Percy.
+-movetoken percy 3 -4
+-addgraphicon target target infront shadow duergar2 percy
+-updatebattle
+-speak Taliesin
+All right, I want to crawl forward to the other side of Grog over there, so I can see this little jerk.
+-speak Matt
+It's a tough call, he has cover.
+You can still see him.
+-speak Taliesin
+I ignore cover.
+It's one of my magical things that I do.
+-speak Liam
+Three-quarters cover according to the new rules.
+-speak Marisha
+Yeah, he's got a gun.
+-speak Taliesin
+Yeah, I ignore half or three-quarters cover.
+I'm going to take a penalty to my attack bonus to attempt to do some damage. 
+And I'm also not trying to kill, but injure instead, if possible.
+I wanna leave one for questioning.
+Aha! I crit!
+That's 25 points of damage.
+-speak Laura
+Yeah!
+-speak Matt
+You run around the corner, pull the gun out, and aim at this ghastly looking, evil, female-looking grey-skinned dwarf.
+She sees you, and goes for her weapon.
+As you do, you let loose and fire straight into her shoulder, blasting through most of it, exposing bone.
+-removegraphic target
+-removegraphic x2
+-addgraphicon unconscious2 unconscious infront shadow duergar2 duergar2
+-updatebattle
+-continue   
+It's not a deathblow, but you see she has been incapacitated.
+-speak Taliesin
+That's my turn.
+-addgraphicon turn turn behind noshadow keyleth keyleth
+-updatebattle
+-speak Matt
+Keyleth, you're up.
+-speak Marisha
+We got one?
+-speak Taliesin
+We got one.
+-speak Marisha
+Well, then.
+-movetoken keyleth -1 -3
+-updatebattle
+-continue
+Can I edge around the cloud to get into that little cranny?
+-speak Matt
+Yeah, that's doable.
+-addgraphicon lightning lightning infront shadow duergar3 keyleth
+-updatebattle
+-speak Marisha
+And then I'm going to Call Lightning on the last duergar.
+That's 22 points of damage.
+-speak Matt
+So the bolt streaks from this cloud at the top of the cavern, slamming into this duergar.
+As it sparks into the ground, you see bits of stone get thrown up from the sheer force of the bolt, doing a sincere amount of damage to him.
+Not enough to finish him, but he looks very, very fucked up.
+You can see part of his face is charred now, and he's reeling from the blast.
+Probably blew out its eardrums from the cacophonous blast of the thunder.
+-speak Marisha
+That's my turn.
+-removegraphic lightning
+-addgraphicon turn turn behind noshadow duergar3 duergar3
+-updatebattle
+-speak Matt
+It's now his turn.
+He failed his save with a two.
+Still hacking and coughing in the stinking cloud.
+Uh, go bards.
+-addgraphicon turn turn behind noshadow vax vax
+-updatebattle
+-continue
+Vax, you're up.
+-speak Liam
+Fuck it.
+-speak Sam
+Just go in there, man.
+-movetoken vax 2 0
+-updatebattle
+-speak Liam
+I'm gonna hold my breath, and I'm gonna go one, two, three, four, five, and grab this guy around the neck and hold my daggers to his neck.
+And just hunker down and try to hold him hostage.
+-speak Matt
+Okay. Go ahead and make a constitution check.
+With advantage, because you're holding your breath.
+-speak Liam
+Okay. 14.
+-speak Travis
+Just breathe it in.
+-speak Sam
+Use the dice!
+-speak Liam
+15.
+It came up a one.
+-addgraphicon xVax x infront shadow vax scanlan
+-updatebattle
+-speak Matt
+So, as you rush in the cloud, pull your daggers out, and because this isn't a natural cloud, the arcane force puts it in your nostrils and you can't help yourself.
+Your turn immediately ends as you begin feeling your lunch retching up into your stomach.
+-speak Travis
+Puke on him.
+-removegraphic turn
+-updatebattle
+-speak Matt
+Okay. That brings us to Grog.
+You are a-
+-speak Travis
+Oh, I got it.
+-narrate
+Travis blows a raspberry.
+-speak Matt
+You are brain-dead.
+-speak Laura
+So sorry, Grog.
+-speak Sam
+Can we heal him, what is it?
+What do we need to do?
+-speak Marisha
+We'll figure that out when we kill this guy, I guess.
+-speak Laura
+Restoration?
+-speak Liam
+Can you dispel that shit?
+-speak Sam
+I tried.
+-speak Marisha
+He can't dispel it, it's not magic.
+But I might be able to cure him afterwards.
+-addgraphicon turn turn behind noshadow vex vex
+-updatebattle
+-scene Round Three
+-speak Matt
+Vex. You're up.
+-movetoken vex 5 0
+-addgraphicon target target infront shadow duergar3 vex
+-updatebattle
+-speak Laura
+I stay out of the stink, but I'm going to shoot at that last duergar.
+23 to hit for 8 damage.
+-speak Matt
+That's enough.
+As the arrow slams into the chest.
+-removegraphic target
+-removegraphic x3
+-addgraphicon skull skull infront shadow duergar3 vex
+-movetoken duergar3 1 -1
+-updatebattle
+-continue
+He catches himself, steps back, and plummets off the side of the cliff onto the lower floor about 20 feet down.
+Smack, onto the ground.
+-endbattle
+-background black
+-show duergar 4
+-show grog -6.5
+-show vax -2
+-show vex -1
+-show keyleth -4
+-show scanlan -8
+-show percy -6
+-scene Post Battle
+-speak Laura
+And I ask Scanlan to dispel the stank cloud.
+-speak Taliesin
+Dispel the stank.
+-speak Laura
+And I yell-- Can I yell out, in Undercommon:
+-speak Vex
+Surrender!
+-speak Matt
+You yell out,
+-narrate
+Matt imitates Undercommon again, and Laura repeats the sounds he makes afterwards.
+-speak Matt
+Make an intimidation check.
+-speak Travis
+That was a very good Klingon translation.
+-speak Laura
+8?
+-speak Liam
+What is with the dice tonight?
+-speak Matt
+She rolled a one.
+She looks around and its circumstances being extremely dire.
+She drops her weapons, falls to her knees.
+At your mercy.
+That's where we'll end the game tonight.
+-speak Sam
+Oh!
+-speak Taliesin
+Hey!
+-speak Travis
+What?!
+-speak Sam
+Grog is brain dead.
+-speak Travis
+I'm Vanilla Sky right now.
+-speak Laura
+Oh no.
+-speak Liam
+Just five more hours, Matt.
+Just five more hours.
+-speak Sam
+We have to wait a week.
+-speak Matt
+Well guys, that's episode two of Critical Role.
+I hope you enjoyed it.
+Remember to tell your friends to come watch.
+Goodnight!
+-end

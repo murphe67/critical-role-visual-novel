@@ -23,7 +23,10 @@ class TextDisplay {
   float lineHeight;
 
   float startTime;
-  float startDelay = 200;
+
+  float defaultStartDelay = 200;
+  float speakChangeStartDelay = 600;
+  float startDelay = speakChangeStartDelay;
 
   boolean updated;
   String newString;
@@ -33,6 +36,8 @@ class TextDisplay {
   PImage arrow;
 
   boolean dialogueUpdated = false;
+  
+  boolean previousSpeaker = true;
 
   TextDisplay() {
     xPosition = width * 0.075;
@@ -66,6 +71,7 @@ class TextDisplay {
   }
 
   void Run() {
+    println(startDelay);
     UpdateText();
     Display();
 
@@ -80,18 +86,18 @@ class TextDisplay {
   }
 
 
-  void DisplaySpeaker(int speakerNum) {
-    backgroundGraphics.textFont(font);
-    backgroundGraphics.rectMode(CORNER);
-    backgroundGraphics.textAlign(CENTER, TOP);
-    backgroundGraphics.textLeading(50);
+  void DisplaySpeaker(String speaker, boolean speaker1, int alpha) {
+    textFont(font);
+    rectMode(CORNER);
+    textAlign(CENTER, TOP);
+    textLeading(50);
 
-    backgroundGraphics.fill(0, 255);
-    if (speakerNum == 1) {
-      backgroundGraphics.text(dialogueDisplay.speaker, speaker1XPos, speakerYPos, speakerWidth, speakerHeight);
+    fill(0, alpha);
+    if (speaker1) {
+      text(speaker, speaker1XPos, speakerYPos, speakerWidth, speakerHeight);
     } else {
-      backgroundGraphics.text(dialogueDisplay.speaker, speaker2XPos, speakerYPos, speakerWidth, speakerHeight);
-    }`
+      text(speaker, speaker2XPos, speakerYPos, speakerWidth, speakerHeight);
+    }
   }
 
 
@@ -166,6 +172,7 @@ class TextDisplay {
   void Display() {
     if (displayText) {
       if (millis() > startTime + startDelay) {
+        startDelay = defaultStartDelay;
         if (!updated) {
           updated = true;
 

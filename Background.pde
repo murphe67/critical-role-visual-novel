@@ -25,6 +25,11 @@ class Background {
 
   void SetBackground(String backgroundName, boolean parse) {
     SetUnderlyingBackground(backgroundName);
+    
+    updateBackground = true;
+    if(globalSkipText){
+       screenshot = true; 
+    }
 
     if (parse) {
       parser.Parse();
@@ -43,5 +48,5 @@ class Background {
     backgroundGraphics.imageMode(CORNER);
     backgroundGraphics.tint(255);
     backgroundGraphics.image(background, 0, 0);
-  } //<>//
+  } //<>// //<>//
 }

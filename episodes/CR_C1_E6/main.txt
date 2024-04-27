@@ -1,0 +1,2970 @@
+-background black
+-show grog -6.5
+-show clarota -3
+-show vax -1.7
+-show vex -0.7
+-show keyleth -4
+-show percy -6
+-show scanlan -8
+-show pike -5.5
+-scene Intro
+-speak Matt 
+Hello everyone!
+Welcome to Critical Role tonight!
+Last time, you managed to find yourselves in battle with two ogres.
+Who were carrying some sort of strange, mutated, black ooze in a glass container.
+The glass container was shattered, of course, by an explosive arrow created by Percy and fired by Vex.
+-speak Laura 
+Go us!
+-speak Matt 
+It led into a very rough battle with this strange mutating ooze.
+Until through some good teamwork, crafty use of telekinesis and a nearby lava pool, you guys managed to survive the encounter.
+-speak Travis 
+Barely.
+-speak Matt 
+You then found that you had looped around back around to the large cavern, back to the warcamp and the lake.
+Which allowed you to retrieve your bear Trinket.
+-speak Laura 
+Yeah! Trinket!
+-speak Matt 
+You guys begin to step down into the lower tunnels, dotted with trickling streams of magma.
+-speak Scanlan 
+I was just so out of it last time.
+Have we rested?
+-speak Vex 
+We should probably rest.
+-speak Scanlan 
+Is this just a tunnel?
+-speak Vex 
+We're by that lake with the giant monster.
+-speak Vax 
+We circled all the way back around.
+-speak Scanlan 
+Oh shit.
+-speak Vex 
+And now we're headed down the lava tunnel.
+Which you had said "There's no way we should go down the lava tunnel!"
+Yeah, that's where we ended up.
+-speak Matt 
+You guys also just woke up about two, three hours ago.
+Scanlan, you didn't take any damage, but you did cast several spells, I have them written here for you.
+-speak Grog 
+I'm ready. Who we fighting next?
+-speak Scanlan 
+Anyone need some healing?
+Are we all okay? Are we all good?
+-speak Pike 
+I think we're all good.
+Where's everybody at in terms of…
+-speak Vex 
+On a personal level, or?
+-speak Pike 
+Yeah, just in life?
+-speak Matt 
+So, as you guys begin to push down into this lower chasm, the temperature grows steadily warmer and warmer.
+A drier heat.
+Especially those of you with thick armor, you find that sweat beads begin to trickle down the side of your face.
+-speak Pike 
+I'm sweating!
+-speak Keyleth 
+You're all glisteny!
+-speak Matt 
+Pooling and gathering in parts of your chestplate.
+-speak Scanlan 
+Pike, if you'd like me to hold your armor?
+Take it off for a little while?
+-speak Pike 
+No, I'll keep it on just for safety.
+-speak Scanlan 
+Let it hang out a little bit?
+Just saying, you might feel more comfortable with a loose fitting sort of cloak?
+-speak Vex 
+Scanlan, stop being creepy!
+-speak Scanlan 
+I'm not creepy!
+I'm just trying to be mindful!
+-speak Pike 
+No, it's fine Scanlan.
+-speak Grog 
+Very considerate of you, a gentleman's offer.
+-speak Pike 
+Yeah, it's okay.
+I'll keep it on.
+-speak Scanlan 
+I'll just have to use my imagination.
+-speak Keyleth 
+A gentleman's offer, yes.
+That's what we'll call it from now on.
+-speak Matt 
+The sulfur smell is now getting stronger and stronger as you go deeper and deeper into this tunnel.
+You go for 20 or 30 minutes deeper before the sweltering heat gets noticeably warmer.
+You crest a slight incline and on the other side, you see a large portion of the path has collapsed down.
+A gargantuan pool of magma is pooling into the tunnel, essentially covering half of the path.
+It can be safely walked past at about two or three abreast.
+Like 15 feet wide.
+And the rest of it is just extremely bright, hot, molten rock.
+-speak Laura 
+Does it hurt us to get near it?
+-speak Matt 
+No, but it's uncomfortable.
+You're very aware of watching your step.
+-speak Liam 
+I would just like to point out that we're nine adults playing don't touch the hot lava at the moment.
+-speak Scanlan 
+Keyleth, if it gets hotter than this?
+You don't have any way of getting some water out here?
+-speak Keyleth 
+Yeah, I can make water.
+I've got you covered.
+-speak Laura 
+Can I use my tracking?
+To see if any duergar have passed through the area?
+With favoured terrain, I know their exact number, their sizes, and how long ago they passed through the area.
+-speak Matt 
+You take a moment, inspecting the way the terrain's been pushed and the dirt has been shoved aside.
+Tracking footprints and scuff marks on the rock and the walls nearby.
+Seeing if any of the flows have been interrupted recently, and you ascertain that there is actually a pretty continuous patrol through here.
+About once every 4 to 8 hours, there's a group of 5 to 10 duergar.
+Sometimes other, larger creatures.
+You find footprints that are ogres, some troll footprints.
+You also notice some of the walls have what looks like small, localized cave-ins.
+Almost as if something had burrowed through at one time or another.
+So, there's also things that exist outside of the tunnel system.
+-speak Laura 
+So, as quickly as possible, we should get through these tunnels, I assume?
+-speak Matt 
+Probably a good idea.
+You continue tracking down this tunnel, and it takes you a good 3 or 4 hours to finally reach where the tunnel begins to widen up.
+You assess that, maybe three miles up, there is some kind of town.
+Or, at least, a population of duergar amassed in a central place.
+-speak Travis 
+Should we be stealthing?
+-speak Laura 
+We should probably start stealthing at this point, yes.
+-speak Liam 
+I was about to say I'd like to move ahead of the group a bit and start sneaking along.
+-speak Matt 
+Let's do that! Go ahead and roll stealth.
+This would be a group stealth check.
+-speak Liam 
+26. I've tiptoed away.
+-speak Sam 
+19.
+-speak Marisha 
+15.
+-speak Taliesin 
+7.
+-speak Travis 
+17.
+-speak Ashley 
+7.
+-speak Laura 
+20.
+-speak Matt 
+Picking up on the shortcomings of a handful of members of your group, you do manage to make a fairly stealthy advance.
+About an hour and a half of travel, you eventually get to a point where the tunnel shoots open into a gargantuan cavern.
+A chamber nearly a mile and a half across from this visual point.
+It is extremely tall, with hundreds of very jagged stalagmites hanging from the ceiling.
+And rock formations that rise and fall at different points of the topography.
+This entire tunnel has this strange downward curve that disappears out of sight about a mile ahead and to the left.
+-background kraghammer  
+-continue 
+But this huge tunnel is lit by more than 30 small lava falls.
+-background kraghammer
+-continue 
+You also see some small pockets of that red glow stone that a lot of these Dwarven tunnels tend to use as a light source.
+The entire landscape is rough and craggy, with large black obsidian spikes jutting out of the ground.
+It's a very unwelcoming atmosphere.
+The sulfurous smell is extremely strong.
+Across the chamber, you see a small cluster of buildings, with similar construction to the war camp.
+20 to 25 structures, punctuated with 7 black obsidian watchtowers.
+-speak Liam 
+Still natural?
+-speak Matt 
+No, these are constructed.
+These are very smooth, rigid Dwarvish construction with a jagged edge.
+The one that you can see closest to you, a quarter mile off, you can just barely make out a couple of duergar.
+Walking across one of the upper levels.
+And also some sort of ballistae.
+-speak Laura 
+This is where Kima's being held.
+-speak Matt 
+You see a gargantuan ebony fortress.
+Serrated stonework marks the top of each wall and more of these giant bolt-throwers are mounted across the parapets.
+A massive magma fall descends from the rocky ceiling.
+Right above the stronghold, split in two by its roof.
+Each flow continues off eithe side, buttressing the stronghold almost as a defense mechanism.
+Like they built it intentionally underneath this magma fall.
+-speak Scanlan 
+Wow.
+-speak Vex 
+Oh, that's where the trapdoor is!
+-speak Vax 
+Do you recall any of the details from your vision, from your dreams?
+-speak Pike 
+I've definitely been here in my vision.
+All of this looks familiar, and I think we're in the right place.
+-speak Vex 
+Sweet.
+-speak Matt 
+The giant building you see is called Emberhold.
+That's what it's been referred to as.
+-speak Liam 
+From our vantage point can we see the two lava flows that we were warned about?
+-speak Matt 
+It is way too far away.
+That stronghold is probably a good mile and a half away from you right now.
+-speak Laura 
+Is there any cover as we cross the cavern?
+-speak Matt 
+There is a good bit of cover.
+But it's a lot of open area with cover.
+So you're going to have to be careful as you move through.
+-speak Scanlan 
+Percy.
+-speak Percy 
+Yes?
+-speak Scanlan 
+How long would it take you to make a nuclear weapon?
+-speak Percy 
+A very long time.
+If I start it right now.
+-speak Marisha 
+I'm actually gonna go ahead and cast Pass Without A Trace.
+-speak Scanlan 
+What does that do?
+-speak Keyleth 
+It makes us really stealthy.
+-speak Scanlan 
+Oh, cool!
+-speak Matt 
+You've seen this before.
+As she finishes her incantation, you feel the darkness of the shadows around you begin to coalesce and almost stick to you.
+Its now much easier to slip into the surrounding shadows.
+-speak Travis 
+And I'm doing my flower girl routine with the dust of tracelessness.
+-speak Liam 
+We need to get closer up.
+We need to find this trap door, because it's suicide going in the front.
+-speak Laura 
+And Lady Kima's being held here.
+-speak Sam 
+So there's an entrance to this trap door that possibly is on the outskirts of the city?
+-speak Laura 
+Yes, so we're headed left.
+-speak Liam 
+The twins will creep ahead.
+-speak Travis 
+Yeah, keep creeping, keep creeping.
+Me and Trinket are telling jokes in the back of the group.
+-speak Sam 
+Quietly.
+-speak Marisha 
+Classic Trinket.
+-speak Matt 
+You guys continue. 
+You can see a path, or at least where most of the patrols walk along.
+A natural road has been created over time.
+You avoid that and steer off to the left, dodging between the various bits of terrain.
+And it's a very rocky and difficult terrain.
+Should you not be with your ranger, who has the Underdark as her favored terrain.
+As you guys begin to curve around the left, everyone roll a perception check real fast.
+-speak Marisha 
+16.
+-speak Taliesin 
+24.
+-speak Travis 
+9.
+-speak Ashley 
+19.
+-speak Laura 
+20.
+-speak Liam 
+25.
+-speak Matt 
+Both Percy and Vax simultaneously put their arms out to hold everyone back.
+As you hear a slight distant clanking of metal and voices.
+Low, conversational.
+Too far for you to listen at this point.
+But you all immediately stop.
+You hear a roving patrol of duergar, a good 70, 80 feet away.
+Heading up the path you guys had just began to skirt around.
+-speak Percy 
+Let them pass.
+-speak Scanlan 
+Why don't we create a distraction and get rid of them?
+-speak Matt 
+No one's seen them, you can just hear them.
+No one's gone to check.
+-speak Laura 
+Oh! Can I look?
+-speak Liam 
+Yes, let's go look.
+-speak Keyleth 
+Can we not just hide?
+-speak Matt 
+Just the two of you?
+-speak Percy 
+They're taking the path that we're not on, right?
+So, if we hide–
+-speak Vex 
+They won't find us.
+Potentially.
+But I want to hear what they're saying.
+-speak Keyleth 
+We'll all hide.
+-speak Grog 
+Well, we could just get this party started right here, if we want to.
+-speak Vax 
+Why don't we go just up ahead and scout?
+-speak Vex 
+Just a little bit ahead and see what we can see.
+-speak Matt 
+The twins slink between the various rock formations and strange, jagged spires that pepper this entire underground landscape.
+You get up to a point where you're maybe 10 feet from the road.
+You can see the roving band of duergar.
+-show duergar 6
+-showanother duergar 9
+-showanother duergar 12
+-showanother duergar 7.5
+-showanother duergar 10.5
+-continue
+You count, at quick glance, roughly 12 to 15.
+Armed with hammers, and halberds.
+Both of you guys roll a perception check right now.
+-speak Liam 
+26.
+-speak Laura 
+17.
+-show duergar_caster 3
+-speak Matt 
+One of them is unarmed.
+He's completely bald, with a extremely long, well sculpted, black goatee beard that streams down.
+Thick black and red trimmed robes.
+He looks extremely dangerous.
+You pick up bits and pieces of their conversation as they pass by.
+-speak Duergar 
+Well, keep your eyes peeled, eh.
+That thing is still out there.
+-speak Duergar 
+Horek says that it ate a whole scouting party in seconds.
+-speak Duergar 
+Listening to Horek was your first mistake.
+Shut up and keep walking.
+-speak Duergar 
+I mean, if that one went crazy, well, can't the other ones crack, too?
+I don't know if I feel safe around any of K'varn's pets anymore at this rate.
+-hide duergar
+-hide duergar_caster
+-speak Matt 
+And by that point, their voices begin to fade, as they continue on.
+-speak Laura 
+So, we walk back.
+-speak Vex 
+There's a lot of them.
+We don't want to fight them if we don't have to.
+Secondly, there's some weirdo creature that's gotten loose and is very, very bad.
+It's killed multiple duergar already.
+-speak Scanlan 
+No indication of what kind of a creature it was?
+-speak Vex 
+No, but it might be the thing we already killed.
+It could've been the naga thing that showed up in the camp, I don't know.
+-speak Laura  
+Should we keep moving forward at a very stealthy sort of pace?
+-speak Liam  
+Let's do it.
+-speak Matt 
+Certainly.
+You guys push forward, keeping a wide berth.
+Which adds a fair amount of time to your travel, as you're being careful and moving in an arc around the duergar city.
+You're just starting to get to the point where you can see the front of the fortress.
+From this distance, the magma fall looks like a solid curtain on each side.
+But it does split up at certain points, you can begin to start making it out.
+-speak Taliesin 
+Where does the magma runoff lead to?
+Does it fill a moat?
+-speak Matt 
+It's hard to tell from this distance, unfortunately.
+It's at this point, Vex, you notice one of the nearby obsidian spires is a different color than the rest.
+The rest are like a deep black, glass shiny color.
+This one is a dull crimson.
+-speak Vex 
+Ooh! We should go towards that one.
+-speak Scanlan 
+Because it's a different color?
+-speak Vax 
+Let's go check it out.
+-speak Liam 
+The twins are gonna go have a peek.
+-speak Sam 
+I'm coming with.
+-speak Matt 
+Go ahead and roll a stealth check.
+-speak Sam 
+Oh boy. Not my strong suit.
+-narrate 
+Sam rolls, and immediately pulls a face of "oops" when he sees the result.
+-speak Travis 
+Don't fuck it up.
+-speak Laura 
+No, Scanlan, what did you do?
+-speak Liam 
+You dick!
+-speak Travis 
+Did you?
+-speak Marisha 
+What did you do?
+-speak Ashley 
+Wait, wait, I go and I grab Scanlan and I kiss him on the cheek and make him stay.
+-speak Laura 
+Oooh!
+-speak Taliesin 
+Way to take one for the team.
+-speak Travis 
+I don't know.
+-speak Ashley 
+Can I roll persuasion?
+-speak Marisha 
+Can you roll a persuasion against a critical fail?
+Can you? Can you persuade a crit fail?
+-speak Laura 
+Can you persuade the DM?
+-speak Marisha 
+Can you persuade the DM!
+-speak Sam 
+It was a one.
+-speak Liam 
+That's a one face.
+-speak Matt 
+I will say, Pike, roll a perception check.
+-speak Ashley 
+14?
+-speak Matt 
+Unfortunately, you're not quite perceptive enough to notice Scanlan walking away.
+Scanlan, you continue with the twins, absentmindedly humming to yourself.
+The twins, being used to your humming, for some reason it doesn't connect.
+You make your way up to the spire.
+You notice why the coloration is different.
+It is completely coated in dried blood.
+-speak Liam 
+Fuck.
+-speak Laura 
+Oh god.
+-speak Matt 
+And immediately to the right of it, there appears to be an arm.
+The ground around also just covered in dried blood.
+-speak Marisha 
+An arm?
+-speak Vex 
+Scanlan. Shh.
+-speak Scanlan 
+What? What?
+-speak Vex 
+You're singing.
+-speak Scanlan 
+I was singing?
+I didn't even know! It's a force of habit!
+-speak Liam 
+Can I do a scan to see if whatever did this is still nearby?
+-speak Matt 
+Make an investigation check.
+-speak Liam 
+7.
+-speak Laura 
+Can I check it out as well?
+21.
+-speak Matt 
+The state of the blood that you see around seems to indicate that this has transpired over some time.
+You're guessing probably a few days, if not a week, since this happened.
+-speak Liam 
+I'm picking up the arm to bring back to the group.
+-speak Matt 
+Okay, so as you walk up towards the arm, you get more of a view of what's happened.
+Against these rocky formations there's dried blood everywhere.
+This terrible bloodbath, it would have been a horrible thing to see.
+There are pieces of duergar flung about.
+Occasionally you see part of a head, or part of a foot.
+And you recognize the ashy skin from the areas that aren't caked in gore.
+Because of your investigation check, you can tell this wasn't done with a blade.
+There's no cuts, no clean wounds.
+They were pulled apart by force.
+Arms and limbs wrenched from the body by sheer power.
+-speak Travis 
+Like a Wookiee.
+-speak Matt 
+There was also some gnawing, some chewing.
+Sharp teeth have partially eaten portions of these bodies.
+-speak Vax 
+This is the work of a beaver.
+-speak Vex 
+Yes, definitely, a very large beaver.
+-speak Scanlan 
+I think it's suicide.
+-speak Laura 
+Can we tell if that creature is anywhere nearby?
+Or if it's gone?
+-speak Matt 
+It happened quite some time ago.
+Looking at the tracks, you can see mostly duergar feet.
+However, there's a series of tracks that you haven't seen.
+Very erratic footsteps, similiar in size to your own.
+But they seem to be placed randomly, like one foot here, one foot here, one foot there.
+-speak Vex 
+It's something stitched together.
+-speak Matt 
+And you see what seem like strange furrows in the sand.
+Like someone had been dragged, but only for a short distance.
+Scattered all about.
+-speak Vax 
+It's a human centipede.
+-speak Scanlan 
+Definitely.
+-speak Matt 
+It's a very strange pattern that you can't really grasp what kind of creature would make it.
+-speak Laura 
+And it seems like it was here recently, or a while ago?
+-speak Matt 
+Best you can tell, the last time it was here was about two or three days ago, to feast on more of the remains.
+-speak Laura 
+Is there anything to loot?
+-speak Matt 
+Any semblance of armor that belonged to any of these individuals is in such tatters that it's unusable.
+You do manage to find, across some of the body parts, a couple of blood-soaked gold coin purses.
+-speak Laura 
+I like gold.
+-speak Matt 
+One of them contains a handful of gems.
+-speak Laura 
+Ooh!
+-speak Matt 
+Yes, those right there.
+So you can mark that down, until you get a chance to appraise them.
+-speak Vax 
+I don't think we want to tangle with this.
+What are we trying to prove?
+Let's just keep trucking.
+-speak Scanlan 
+I'm really bad at stealthing, we should go.
+-speak Vax 
+Also, put the accordion back in the bag, all right?
+-speak Scanlan 
+Was I doing that?
+It's force of habit, it's like breathing.
+-speak Liam 
+Yeah, we're going to go back to the group, I'm going to bring the arm.
+-speak Travis 
+I take out the cask of ale and pour a little tankard of ale, just because I'm bored.
+-speak Ashley 
+Have a sip sip.
+-speak Matt 
+It's very tasty.
+-speak Grog 
+Would anyone else like a sip?
+Keyleth?
+-narrate 
+Marisha, Taliesin and Ashley all mime drinking the ale.
+-speak Matt 
+Having been underground for what probably amounts now to four or five days, that little taste of ale on your lips is a very welcoming and very refreshing sensation.
+-speak Grog 
+It's good shit, right?
+-speak Pike 
+Oh, delicious.
+Oh no, I'm drunk!
+Just kidding.
+That was fast!
+-speak Liam 
+When we get back to the group, I'm going to toss the arm to Grog.
+-speak Matt 
+Grog, you instinctively reach up and catch it.
+You look down and see what looks like a duergar arm that has been very heavily mangled.
+-speak Grog 
+Oh! Thanks for the hand!
+-speak Vax 
+It's a back scratcher.
+-speak Vex 
+There's a big centipede-y human, creepy creature that's killed a lot of things and we should probably avoid that at all costs.
+-speak Vax 
+If we have to fight it, we will, but–
+-speak Percy 
+That seems fair.
+-speak Vex 
+Can we avoid that and still head left of the keep?
+-speak Matt 
+I mean, you haven't seen the creature.
+-speak Liam 
+Let's keep moving.
+-speak Ashley 
+Keep trucking on.
+-speak Scanlan 
+Pike, I have this weird feeling, like you wanted to make out with me.
+Is that something that happened?
+Am I dreaming?
+-speak Pike 
+Well, you just, you know, you weren't paying attention.
+-speak Scanlan 
+Really?
+-speak Vex 
+And that makes you want to make out with him?
+-speak Pike 
+No, I think you were moving along to try to go stealth.
+And sometimes you should just stay put and see what happens.
+-speak Vax 
+That was the most adorable diss in history.
+-speak Percy 
+That was cold.
+-speak Scanlan 
+All right.
+-speak Grog 
+It's all right, Scanlan.
+We'll go pay for it later.
+-speak Matt 
+A small hit to Scanlan's morale, but the party marches on.
+-speak Sam 
+I deserved it, I deserved it.
+-speak Liam 
+Okay, twins in front, here we go.
+-speak Matt 
+Twins in front.
+You guys continue to push forward.
+For the sake of the length of this journey, I'm going to have the party go ahead and roll a communal stealth check once more.
+-speak Marisha 
+I still have Pass Without A Trace up.
+Which gives everyone a plus 10.
+-speak Laura 
+Oh, really!?
+-speak Taliesin 
+Oh, for the love of god.
+I rolled a 1.
+-speak Vax 
+Percy! Don't bang the guns together.
+-speak Sam 
+I kiss Percy!
+-speak Percy 
+What! Ah!
+-speak Scanlan 
+I don't know!
+I thought it might help.
+Is that bubblegum?
+-speak Sam 
+19.
+-speak Marisha 
+23.
+-speak Travis 
+26.
+-speak Ashley 
+13.
+-speak Laura 
+30.
+-speak Liam 
+32.
+-speak Matt 
+Okay, good.
+More than half you guys succeeded. That bit is key.
+You manage to make your way about a quarter mile past this cluster of buildings.
+Curving far left, you're managing to keep out of the city proper.
+Getting towards the very back wall of this cavern, which this fortress is built against.
+Circumventing the city to get straight to the fortress.
+About a quarter mile from the stronghold, Vex, you notice someone, standing about 50, 60 feet ahead of you.
+-speak Laura 
+Just a person?
+-speak Matt 
+Looks like.
+-speak Laura 
+Does it look like they can see us?
+-speak Matt 
+You take a moment, keeping an eye out, and the person isn't moving.
+Just standing right there.
+-speak Vex 
+There's a person standing right there.
+-speak Keyleth 
+What?
+-speak Vex 
+A person.
+He's just standing there.
+-speak Matt 
+It's too dark to make out any details, unfortunately.
+-speak Vex 
+Hmm.
+-speak Scanlan 
+Could be good, could be bad.
+We have no idea.
+-speak Liam 
+Can I see him now that she's pointed him out to me?
+-speak Scanlan 
+I can hold him. Might piss him off.
+-speak Vax 
+It doesn't seem to be moving, though.
+-speak Vex 
+Maybe it's a scarecrow?
+-speak Vax 
+Maybe it's a statue.
+-speak Scanlan 
+Want me to go check it out?
+-speak Vax 
+No! I don't!
+-speak Scanlan 
+I can go invisible.
+-speak Vex 
+Go invisible and check it out.
+-hide scanlan
+-speak Sam 
+I polymorph and turn into a fly and I buzz over.
+-speak Vax 
+Good job, gnome nuts.
+-speak Matt 
+As you get closer, it is unmoving and grey in color.
+-speak Laura 
+It's a statue.
+-speak Matt 
+A mind flayer, completely turned to stone.
+-speak Laura 
+Oh no!
+-speak Marisha 
+Oh shit.
+-speak Sam 
+Like a Medusa type of a thing?
+-speak Liam 
+We faced basilisks once and they did this to Vex'ahlia.
+-speak Travis 
+We've got basilisk eggs.
+-speak Marisha 
+There's a lot of things that can do this, actually, to be fair.
+-speak Laura 
+We do have basilisk eggs in the bag of holding.
+-speak Travis 
+Yeah, we've got eight of them.
+Maybe we should crack one on statue guy.
+-speak Sam 
+I buzz back to the group.
+And I turn back.
+-show scanlan -8
+-speak Grog 
+Well, what did you see?
+-speak Vex 
+What was it?
+-speak Scanlan 
+A crazy statue of a crazy illithid.
+-speak Vax 
+That's crazy.
+-speak Vex 
+Clarota, do you know anything about this?
+-speak Clarota  
+Occasionally these patrols do walk with a lizard creature that has this ability.
+-speak Keyleth 
+So the duergar have basilisks.
+-speak Clarota  
+A trained beast, yes.
+-speak Vax 
+Why do you suppose they used it on one of their own?
+-speak Clarota  
+I can only imagine maybe this transpired before the union and is left as a warning.
+-speak Matt 
+As you guys push forward, Clarota lags behind a little bit to inspect the statue.
+-speak Laura 
+Did you know him?
+-speak Clarota  
+Uh…
+-speak Scanlan 
+Dave.
+-speak Matt 
+Goddamn it!
+He takes a moment to look over and you can see his eyes close slightly for a second.
+-speak Clarota  
+Aye, we've met.
+Not the kindest of my people, but, nevertheless, should all this pass, I would like to, maybe, release him from this stony prison.
+-speak Vex 
+So you know how to do that?
+-speak Clarota  
+I know not, but it can be done.
+I've seen it.
+-speak Vex 
+Didn't we do that?
+-speak Vax 
+We sprinkled some of its blood on your eyes, if I remember correctly.
+When you turned to stone.
+-speak Travis 
+We don't have any more of that.
+-speak Matt 
+You do not.
+-speak Liam 
+We also don't know if it's a basilisk.
+-speak Laura 
+Let's just keep going.
+-speak Matt 
+After another 20 minutes, you get a much better view of the Emberhold.
+You can see where the magma fall splits.
+Most of it flowing towards the front of the fortress and a thinner stream towards the very back.
+-speak Laura 
+Thin one!
+-speak Travis 
+Yeah, let's go towards the door.
+-speak Laura 
+Creepy, creepy, creepy towards the thin one.
+-speak Liam 
+The creeps are creeping.
+-speak Matt 
+So you move ahead of the rest of the group and head to the front of this stream.
+There's a frame of cooled rock around the base of the fall.
+The stream falls directly against the side of the stronghold, a sheer wall of rock.
+-speak Liam 
+I know this all looks natural, but perhaps something is fashioned to look such.
+I want to see if I can figure that out.
+-speak Matt 
+Go ahead and make an investigate check.
+-speak Liam 
+18.
+-speak Matt 
+You cannot see anything before you.
+No mechanism, button, lever, or doorway.
+It's just a solid wall, with the two magma flows.
+-speak Liam 
+I double back for the Underdark expert and I bring my sister up.
+-speak Laura 
+Can I come up and look and see if I can see any tracking?
+If there's any footprints around a certain area.
+Go ahead and make an investigate check.
+-speak Laura 
+22.
+-speak Matt 
+You can see what amounts to a very, very slight raise in the smooth flow of magma.
+It seems to pour down along the side of the stronghold and then slightly bulges out.
+And then it pools, and you can now see where it runs off to.
+It continues on, following the edge of the cavern wall.
+Curving down and to the left into a far deeper cavern.
+-speak Laura 
+Does it look like it's safe to bring everybody up here?
+Are there any look-outs?
+-speak Matt 
+You glance up and you can see there are two duergar perched on the wall above you.
+The parapet is lined with jagged, obsidian stones.
+Almost teeth, sticking out of the very top edge of the wall.
+-speak Scanlan 
+We're going to have to 007 sniper them out.
+-speak Keyleth 
+I think I can get us into that trap door.
+-speak Scanlan 
+If you redirect the magma with a Wall of Stone?
+-speak Keyleth 
+I was thinking I could-
+That's actually a better idea.
+-speak Matt 
+That's fucking teamwork.
+-speak Keyleth 
+Or I could, or I was thinking I could cool off the magma and we could break it.
+-speak Vax 
+That sounds kind of noisy.
+-speak Sam 
+First we've got to take care of the guys on the roof.
+Are they back with us, or are they still stealthing in front?
+-speak Matt 
+They're still stealthing in front, and you guys have come back to the group?
+-speak Liam  
+Yeah, I guess we came back to the group and told them about what's going on.
+-speak Scanlan 
+Pike and I can take out the guys on the roof.
+-speak Vex 
+Oh really?
+-speak Grog 
+Yeah! Do it!
+-speak Pike 
+You want to give it a go?
+-speak Grog 
+Why don't we let the little people have some fun?
+It's been over an hour, we've killed nothing, we'll kill these fucks!
+-speak Travis 
+I'm a vampire. I need blood.
+-speak Sam 
+I'm going to just look at the guard's pattern of movement.
+Are they staying in position, or are they walking around?
+-speak Matt 
+As you watch, two are chatting for a second, then a third one appears.
+Then one of them rotates out for the one that just arrived.
+-speak Ashley 
+They were switching shifts.
+-speak Matt 
+They both just sit there, keeping an eye.
+One of them cleans his bow.
+-speak Scanlan 
+You ready?
+Do you know what you're going to do up there?
+-speak Pike 
+Not really, but let's just wing it!
+-speak Scanlan 
+I'm going to try to knock them both off in one blow, but if I miss, you gotta take one.
+-speak Grog 
+Morningstar to the taint.
+-speak Scanlan 
+Grog, you ready to kill?
+-speak Grog 
+Yeah, oh yeah!
+-speak Percy 
+This is awesome and nothing is going to go wrong.
+-speak Keyleth 
+Why are we using the gnomes to throw people over?
+-speak Scanlan 
+We're little people!
+You know why?
+Because I need someone with me and I can only take her.
+Because she's the only one small enough to fit through the Dimension Door with me.
+-speak Pike 
+The Dimension Door?
+-speak Scanlan 
+Yes, we're going to go through a Dimension Door.
+I can take one person of my height or smaller.
+So I will take Pike.
+-speak Liam 
+Portal, motherfucker!
+-speak Matt 
+You reach over and hold on to Pike gently, give her a little wink.
+-speak Sam 
+We're going to try to appear between the two of them.
+Exactly between the two of them.
+-speak Matt 
+You feel the sudden rush of air.
+You go from that uncomfortable warmth to a sudden freezing cold,
+Your vision goes black.
+Scanlan, you grin as you mutter these arcane incantations under his breath.
+An instant later, you guys are both standing at the top of the wall.
+Next to the duergar, one facing away, one looking really surprised at the fact that you guys both appeared there.
+You have a surprise round.
+What are you doing?
+-speak Sam 
+I cast Thunderwave and blast out from where I'm standing between them, 15 feet in either direction.
+-speak Laura 
+That's so loud!
+-speak Marisha 
+Isn't that loud?
+-speak Liam 
+But a quiet Thunderwave, right?
+-speak Matt 
+Thunderwave, looking it up real fast just to make sure of the situation.
+-speak Travis 
+I like this plan.
+-speak Liam 
+~This is a triumph.~
+-speak Ashley 
+~I'm making a note here.~
+-speak Everyone  
+~Huge success.~
+-speak Matt 
+Here we go.
+-speak Sam 
+I don't think it's loud.
+-speak Liam 
+We're total fake geeks, all of us.
+-speak Sam 
+It's a wave of thunderous force, but it doesn't say sound.
+It just says thunderous force.
+-speak Matt 
+It's gonna make some noise.
+So keep that in mind.
+You bring your arms up and slam your arms downwards.
+As you do, there is a dull flash of light and a boom emanates from you.
+The duergar who sees you, who is bringing us his crossbow to fire, gets impacted and blown off the side of the wall.
+The one facing away slams into the side of the wall, right at the edge.
+And then topples over the side, both plummeting over.
+-speak Liam 
+Wilhelm scream!
+-speak Pike 
+Oh!
+-speak Matt 
+Pike, you're standing there, you watch this happen.
+-speak Pike 
+I didn't have to do anything, Scanlan!
+-speak Scanlan 
+Make out with me!
+We're alone, it's super romantic.
+I just killed two fuckers!
+Come on!
+It's now or never, baby!
+-speak Travis 
+~I think we're alone now~
+-speak Ashley 
+~Doesn't seem to be anyone around!~
+-speak Pike 
+Well, let's just wait until we're out of danger.
+-speak Marisha  
+Yeah, it's getting real romantic real quick, Scanlan.
+-speak Scanlan 
+Wait?
+-speak Pike 
+But that was really hot!
+-speak Scanlan 
+It was really hot, right?
+Come on!
+-speak Pike 
+It was.
+-speak Scanlan 
+Just a little something something?
+-speak Pike 
+Let's just–
+-speak Matt 
+As this is happening, both of the duergar come plummeting off the side of the wall.
+One manages to kind of loosely break his fall.
+-speak Laura 
+Get ready.
+-speak Liam 
+Come on, Grog.
+-speak Travis 
+I rage!
+-speak Matt 
+There's one that lands just to the side of the magma pool that's forming.
+He took some damage, and is trying to get back up.
+He fell hard.
+The other one managed to reduce his damage a little bit because it was aware at least you were there.
+-speak Sam 
+We have to kill these fuckers.
+-narrate 
+Travis laughs eagerly.
+-speak Matt 
+As he's trying to get back up, he looks up and sees Grog charging towards him.
+Go ahead and make your two attacks.
+-speak Laura 
+Yes!
+-speak Travis 
+Two 19s! 36 damage!
+-speak Matt 
+He goes for his warhammer.
+Before he gets a chance to, you cleave off one arm.
+A second blow, the axe goes right into the center of his torso.
+Silencing him in an instant.
+You kick him off the edge of your axe.
+-speak Marisha 
+Can I just run to the other duergar and push him in the lava?
+-speak Matt 
+Roll athletics.
+-speak Keyleth 
+This is the meanest thing I've ever done!
+-speak Vex 
+No, no, remember you killed that kid one time.
+-speak Keyleth 
+Oh, thanks for bringing that up, Vax!
+-speak Vex 
+I'm Vex, he's Vax!
+-speak Travis 
+That's some dark shit!
+-speak Marisha 
+Every time I get confused.
+-speak Pike 
+Oh my god.
+Remember you killed that kid one time?
+-speak Vax 
+Two and a half years in and Keyleth has just learned our names.
+-speak Keyleth 
+I get them confused.
+-speak Scanlan 
+I do too.
+All the time.
+-speak Pike and Grog  
+All the time.
+-speak Keyleth 
+See, no one else has any idea!
+-speak Vax 
+I'm Vex, okay? It's simple!
+-speak Scanlan 
+No, no! That is not true!
+-speak Vex 
+No, no, don't do that.
+He's lying.
+-speak Marisha 
+Two years, and I just don't.
+-speak Keyleth 
+This is for that kid!
+-speak Liam 
+~He had it coming, he had it coming.~
+-speak Marisha 
+14 for athlethics?
+-speak Matt 
+He rolled a 1.
+-speak Laura 
+Ooh! Yes!
+-speak Matt 
+You just run up and boom, shove him!
+He falls back and lets out this horrible, painful scream.
+As he's essentially flailing in the magma, melting.
+-speak Ashley 
+Someone shoot him in the mouth.
+-speak Keyleth 
+Shh! Shh! Shh!
+-speak Marisha 
+And I wind down to push him under the lava!
+-speak Ashley 
+Oh, this is brutal!
+-speak Matt 
+As he's screaming your Wind Wall shoves him further under the magma.
+Cooling the magma around him as the rock solidifies.
+-speak Keyleth 
+I'm sorry! I'm sorry!
+-speak Matt 
+His face still visible over the surface, this horrible, Han-in-carbonite look.
+-speak Vex 
+Keyleth!
+-speak Vax 
+You just one-upped Grog, man.
+-speak Grog 
+That was awesome!
+-speak Matt 
+Fresh magma begins to cover his face as you step away.
+-speak Scanlan 
+Piss on the body!
+-speak Grog 
+I never knew you were an artist.
+-narrate 
+Marisha laughs in shock.
+-speak Matt 
+Scanlan and Pike, you can hear footsteps coming towards you guys.
+What are you going to do?
+-speak Laura 
+Run! Or can you turn yourselves into duergar?
+-speak Sam 
+Is there a door or something?
+-speak Matt 
+Not from your current position, no.
+-speak Sam  
+I'll do the same thing to get us down.
+-speak Matt 
+So you grab her, and bamf back down to the bottom.
+-speak Travis 
+Cast that shit.
+-speak Matt 
+They reappear at the bottom.
+-speak Marisha 
+Okay, I cast Wall of Stone, but right over top of where I see the bulge.
+But I don't want to bring it out far.
+Just like, halfsies.
+-speak Sam 
+Just the tip.
+-speak Ashley 
+Does it stop the magma?
+-speak Matt 
+There's this grinding sound of shifting rock.
+A giant stone wall comes jutting out of the side of the fortress.
+It diverts the lava flow, leaving a small gap.
+Right underneath where it was, there is a stone doorway.
+It does not appear to have a handle or anything, it's just a stone door.
+-speak Scanlan 
+How do we get in?
+-speak Liam 
+Can I take a look at it?
+-speak Matt 
+In the time you've taken to do this, both the duergar up on top have seen you, and are both taking shots at you.
+-speak Sam 
+Oh shit.
+-speak Taliesin 
+I was waiting for that.
+-speak Laura 
+Oh, I would have been too.
+-speak Matt 
+As they appear on the top, you guys who have your arrow and gun at the ready, take your shots first.
+-speak Laura 
+25 to hit, and 18 to hit, 33 damage total.
+-speak Taliesin 
+I've got the big gun out. Bad news.
+23 to hit for 7 damage.
+I'm so embarrassed.
+-speak Matt 
+Bad News fires with a cacophonous echoing gunshot.
+Suprise may be a little harder to find going forward.
+-speak Taliesin 
+They were ready to start shooting at us.
+-speak Matt 
+Your bullet hits the guy in the shoulder, knocks him off balance for a second.
+Not enough of a wound to prevent his next action.
+Vex places an arrow directly into the other duergar's shoulder, making him drop his crossbow.
+As he goes to reach for it, your other arrow goes into his throat and out the other side. 
+He just drops below the wall.
+-speak Ashley 
+Awesome.
+-speak Matt 
+The other one does get a crossbow shot off at Percy.
+23 to hit will do 9 points of piercing damage.
+As the bolt just glances you.
+Vax, you've been inspecting the door.
+The door is not magical.
+There is some sort of contraption that opens it from the inside.
+-speak Liam 
+I'm getting my picks out, seeing if I can figure out some way to get it open.
+-speak Matt 
+Go ahead and make a check with your thieves' tools.
+-speak Liam 
+29.
+-speak Matt 
+The contraption that moves this door is definitely on the other side.
+It's a series of winches, some chains.
+You find that there is one slight gap where you manage to hook one of the chains.
+Pull it out ever so slightly.
+You know with a yank from someone strong, you could probably pull it from the outside.
+-speak Grog 
+Sounds like we need a strong person.
+-speak Vax 
+Grog, grab this–
+-speak Pike 
+I'll do it!
+-speak Grog 
+Yeah, me and Pike are on this.
+-speak Pike 
+I'll assist.
+-speak Matt 
+Grog, you reach over and grab the chain, and Pike grabs onto the back of you and you both pull.
+-speak Travis 
+Give it a good heave-ho.
+-speak Matt 
+Go ahead and make a strength check with advantage.
+-speak Travis 
+23.
+-speak Matt 
+As you pull, you hear the grinding of this chain against the stone, and you can see the actual door begin to rise upward towards you.
+-speak Sam 
+It's a Delorean.
+-speak Matt 
+Essentially.
+When it opens up, it moves the magma out of the way.
+That's how this construct is used as an exit.
+This is supposed to be an exit for the royals living in the stronghold.
+It only opens part way, however, because the stone wall blocks it.
+But open enough for you to get into the stronghold.
+-speak Liam 
+We can't leave this duergar behind though, we gotta take him out.
+-speak Matt 
+Yes, there is one duergar still there.
+Pike, you haven't gone yet.
+He's up on top of the wall, about 25 feet from you.
+-speak Ashley 
+I want to create a spiritual weapon, like a poisonous lasso.
+And pull him down into the lava.
+-speak Matt 
+Huh. Sure.
+-speak Travis 
+That's awesome.
+-speak Taliesin 
+Well, all right then.
+-speak Matt 
+You take a moment, you grasp your Sarenrae holy symbol around your neck.
+As you pull your hand away from the symbol, you see this glowing celestial rope extends out of nowhere.
+It begins to swirl and swirl.
+You throw your hand forward, and it cascades upward toward the edge of the wall.
+Go ahead and make an attack roll.
+-speak Ashley 
+10.
+-speak Sam 
+Ooh. That ain't gonna do it.
+-speak Matt 
+Total of 10?
+-speak Ashley 
+I think so.
+I rolled a two, and then I have a plus eight.
+-speak Liam 
+It was a good idea though.
+-speak Laura 
+It was such a good idea.
+-speak Matt 
+You also get the feeling poison is something you probably can't really muster.
+Just based on your deity.
+-speak Ashley 
+I was just kidding!
+I was just getting a little crazy with ideas.
+-speak Matt 
+I like it.
+However, as it heads over the wall, you see it does not find purchase on the duergar.
+It instead finds purchase on part of the wall.
+-speak Ashley 
+Fuck.
+-speak Travis 
+Poisoning the wall effectively.
+-speak Matt 
+Yes, it is now a poisoned property.
+-speak Ashley 
+Poisoning that wall.
+Effectively!
+Gosh dang it. That would have been cool.
+-speak Matt 
+That brings us to the top of the round.
+Scanlan.
+-speak Sam 
+We're still trying to get that fucker up on the roof right?
+-speak Liam 
+Yes, he's going to run and tell people.
+-speak Sam 
+I've got almost nothing.
+Can I summon an Unseen Servant to push him?
+I don't have any ranged weapons.
+-speak Matt 
+Roll an athletics check for the Unseen Servant.
+-speak Sam 
+5!
+-speak Matt 
+You hear a ting sound as the duergar's armor is given a hefty slap.
+-speak Scanlan 
+Thank you, Jarvis!
+-speak Sam 
+And I'm going to just give a little inspiration to Vax.
+That's Laura, obviously.
+-speak Laura 
+Yes, thank you.
+-speak Matt 
+All right, a d8 inspiration die to you as Scanlan hums a little tune under his breath.
+Vex, you're up.
+-speak Laura 
+Oh! I attack him.
+Natural 1!
+-speak Marisha 
+Damn it!
+What is wrong with us?
+-speak Travis 
+What in the hot and holy shit is happening right now?
+-speak Ashley 
+What are we doing?
+-speak Laura 
+My second attack, though, is a 25.
+-speak Matt 
+So the first one you pull back, and as you pull back the actual arrow snaps.
+-speak Vax 
+You almost shot me!
+-speak Vex 
+Ow, that hurt my arm so bad.
+-speak Laura 
+8 damage.
+-speak Matt 
+Your second arrow manages to find its mark.
+As it sticks pretty close to where he was shot from Bad News.
+The duergar shrugs it off angrily, and aims his crossbow onto you.
+A 17 will miss.
+You manage to just dodge out of the way.
+You hear it whiz past your ear.
+That brings us to Percy.
+-speak Taliesin 
+I'll take one more shot at him.
+-speak Liam 
+Redemption, Percy.
+-speak Travis 
+Come on, buddy.
+-speak Sam 
+Kill this guy.
+-speak Ashley 
+Get it.
+-speak Sam 
+He's lasted longer than most of the people we fight.
+-speak Taliesin 
+18 to hit for 25 damage.
+-speak Travis 
+Thank you!
+-speak Laura 
+Yes!
+-speak Matt 
+You pull out one of your custom made, nasty looking bullets, load it back into Bad News.
+You pull it back, aim up, and fire.
+And once again, you guys are seeing this weapon up close.
+With each shot, it takes all of his strength to not get blown off his feet.
+-speak Vex 
+That's badass, Percy.
+-speak Matt 
+A plume of white smoke comes shooting out the side of the weapon.
+Its incredibly loud.
+But the duergar's head is gone, with a thick red splatter against the wall behind him.
+-speak Pike 
+I love Bad News.
+-speak Percy 
+Let's move quickly.
+-speak Vex 
+Let's get in the door.
+-speak Scanlan 
+I think they heard us.
+-speak Taliesin 
+Going in the door.
+-speak Laura 
+We all go in the door.
+-speak Matt 
+All of you have made your way into the doorway.
+-speak Laura 
+Can Trinket fit?
+-speak Matt 
+Trinket can fit with you, yes.
+-speak Liam 
+Just barely.
+-speak Ashley 
+Just bear-ly.
+-speak Laura 
+If Grog can fit, Trinket can fit.
+-speak Matt 
+You guys make your way into this tiny little room.
+-hide grog -6.5
+-hide clarota -3
+-hide vax -1.7
+-hide vex -0.7
+-hide keyleth -4
+-hide percy -6
+-hide scanlan -8
+-hide pike -5.5
+-setbattle CR_C1_E6/1 30 39
+-addtoken grog grog grog 36 26
+-addtoken keyleth keyleth keyleth 36 27
+-addtoken scanlan scanlan scanlan 36 28
+-addtoken clarota clarota clarota 37 26
+-addtoken percy percy percy 37 27
+-addtoken pike pike pike 37 28
+-addtoken vex vex vex 35 26
+-addtoken vax vax vax 35 27
+-addtoken trinket trinket trinket 38 26
+-updatebattle
+-narrate 
+Matt takes out the map.
+-speak Everyone  
+Whoa!
+-speak Matt 
+You're all very crammed in.
+-speak Laura 
+Into this teeny-tiny little room.
+-speak Matt 
+And we're going to take our break here!
+-narrate 
+The cast take the break, and then rejoin.
+-speak Matt 
+So you guys are in this storage room.
+It's very musty.
+It hasn't seen use in quite a while.
+Alittle bit of mold is growing on the side of one of the barrels in the corner.
+There is a doorway that is closed on the opposite side of this wall, and from what you can see, there is a stairway that curves upwards to the second floor.
+-speak Vex 
+I think we should go through the door, instead of going up.
+-speak Vax 
+I agree.
+-speak Vex 
+Because any prisoners are probably going to be kept at a low level.
+-speak Vex 
+Check for traps!
+-speak Liam 
+Yes, I'm going to sniff the door a bit.
+Yeah, that's a 20.
+-speak Matt 
+The door is locked, but is not trapped.
+-speak Liam 
+Thieves' tools out.
+Oh, that's an easy 30.
+-speak Sam 
+Jesus.
+-speak Marisha 
+God damn.
+-speak Matt 
+Which is good because it's a very, very intricate lock.
+There is a specific key, a single key that is designed for this lock, that you gather is probably held by King Murghol himself.
+You manage to get the right sequence, and with a slight click, the door opens slightly.
+-setbattle CR_C1_E6/2 30 39
+-movetoken vax -1 0
+-updatebattle
+-continue 
+Leading into what you can see is a hallway, that continues further down to about there.
+-movetoken vax 0 -2
+-updatebattle
+-speak Liam 
+I'm going to take six or seven quiet steps forward, stealthily.
+19 stealth.
+-speak Travis 
+We're all trapped in that room together, right?
+I fart.
+-speak Laura 
+I throw up in my mouth just a little bit.
+-setbattle CR_C1_E6/3 30 39
+-movetoken vax 0 -1
+-movetoken vax -2 0
+-updatebattle
+-speak Matt 
+As you peek through this doorway, you can get a general idea of what looks to be some sort of an empty storage room.
+A lot of materials have been moved out of it.
+It looks like the remnants of stone, things that were used for construction that once were in this room that have been pulled out to build things.
+Possibly moved as part of the war camp to start building some of the siege weapons that you saw above.
+-speak Liam 
+Do I hear anything?
+-speak Matt 
+Roll a perception check.
+-speak Liam 
+27.
+-speak Matt 
+You hear footsteps above.
+Apparently there is some level of alert on the second floor.
+-speak Laura 
+Oh, shit. We should move fast.
+-speak Marisha 
+Hmm. I wonder why.
+-speak Liam 
+Go figure.
+-speak Laura 
+We should get out of the room.
+They're going to start coming down these fricking stairs into this room.
+-movetoken vax 2 0
+-updatebattle
+-speak Liam 
+I'm going to peak in this doorway here.
+-setbattle CR_C1_E6/4 30 39
+-updatebattle
+-speak Matt 
+Looking past here there is a stairway that descends downward.
+-speak Liam 
+Right, I don't even tell anyone.
+-removetoken vax
+-updatebattle 
+-continue 
+I just start to slink down the steps.
+-speak Laura 
+We're getting bored.
+-speak Matt 
+You guys are all waiting in the room?
+-movetoken vex -1 -2
+-updatebattle
+-speak Laura 
+I come out, because you're taking too long.
+-speak Matt 
+Anyone else?
+-movetoken pike -3 -3
+-updatebattle
+-speak Ashley 
+I'll head on out there.
+-movetoken scanlan -2 -2
+-updatebattle 
+-speak Sam 
+I go where Pike goes.
+-speak Keyleth 
+We're just losing all attention span?
+Is that what's going on?
+We're just wandering off.
+-speak Vex 
+No, no, no.
+I said we stay in the area, but I wanted to check on my brother because I feel like he's taking awhile.
+-removetoken vex
+-removetoken scanlan
+-removetoken pike
+-removetoken keyleth
+-removetoken clarota
+-removetoken grog
+-removetoken percy
+-removetoken trinket
+-setbattle CR_C1_E6/5 11 15
+-addtoken vax vax vax 12 5
+-addtoken duergar1 duergar duergar 10 3
+-addtoken duergar2 duergar duergar 9 7
+-updatebattle
+-speak Matt 
+Vax, you find another hallway on the lower floor.
+There are two duergar stationed at two doors.
+You can hear, every now and then, sounds like a moan or a slight whispering gurgle.
+-speak Duergar  
+Hey, shut up in there!
+-speak Liam 
+Yeah, I'm going to go kill this guy.
+-speak Laura 
+You don't want to tell us what you found?
+-speak Marisha 
+It's okay.
+Let him do it by himself.
+It's what he does best.
+-speak Liam 
+I'm go back up, I mouth "Kima" at everybody, and then pull my sister down.
+-speak Matt 
+As you're doing this, you hear footsteps echoing through the hallway.
+-addtoken vex vex vex 13 5
+-updatebattle
+-speak Vex 
+Hurry.
+-speak Liam 
+So I pull my poison blade out and I pull two daggers out.
+-addgraphicon dagger1 dagger infront shadow duergar1 vax
+-addgraphicon dagger2 dagger infront shadow duergar2 vax
+-updatebattle
+-continue 
+And throw one dagger at each duergar.
+-addgraphicon target1 target infront shadow duergar1 vex 
+-addgraphicon target2 target infront shadow duergar2 vex 
+-updatebattle
+-speak Laura 
+At the same time I shoot an arrow at each.
+-speak Matt 
+Go ahead and roll for this guy here.
+-speak Liam 
+17 hits the first for 46 damage.
+-speak Laura 
+27 hits him, but I'm guessing he's dead.
+So I was really useful!
+-removegraphic target1
+-removegraphic dagger1
+-addgraphicon skull skull infront shadow duergar1 vax
+-updatebattle
+-speak Matt 
+The guy on the left, he turns back to take his post again, but he slumps to the ground.
+As he's slumping, an arrow goes right into his stomach.
+-speak Liam 
+It's like punctuation.
+-removegraphic skull
+-removetoken duergar1
+-updatebattle
+-speak Laura 
+25 to hit on the second guy for 15 damage.
+-speak Liam 
+A 19 will hit for 7 damage on the second guy.
+-speak Matt 
+He's still standing.
+-speak Laura 
+Oh, shit!
+-speak Matt 
+Dribbling deep crimson blood from his mouth.
+But he still sees you both in the hallway and reaches for his warhammer.
+Roll for initiative!
+-speak Sam 
+I turn to Pike and say:
+-speak Scanlan 
+What the fuck is going on?
+Where are they?
+-speak Pike 
+Let's head down there.
+-speak Ashley 
+I'm going to head down there.
+-speak Matt 
+So the rest of you are heading down there?
+-speak Travis 
+I follow Pike down there.
+-speak Sam 
+I'm going, too.
+-speak Laura 
+Everybody fucking come down.
+-speak Marisha 
+Are we going down?
+-speak Matt 
+Stealth checks everyone.
+You guys both beat him on initiative.
+-speak Laura 
+Yes.
+-speak Matt 
+Roll attacks, both of you, just roll the dice.
+-speak Liam 
+28.
+-speak Laura 
+19.
+-removegraphic target2
+-removegraphic dagger2
+-addgraphicon skull skull infront shadow duergar2 vex
+-updatebattle
+-speak Matt 
+You don't need to roll damage.
+He has like, two hit points left.
+You guys pepper him with additional arrows and daggers.
+The poor guys is like: 
+-speak Duergar  
+Uh, I'm gonna–
+-narrate 
+Matt makes a death gurgle.
+-scene set2
+-speak Matt 
+He just goes down with this horrible sense of overkill.
+-removegraphic skull
+-removetoken duergar2
+-updatebattle 
+-continue 
+His body slumps up against the door, leaning against the wooden door he was guarding.
+-speak Laura 
+I say on my earring: 
+-speak Vex 
+I think we found the prison cells.
+Get down here.
+-speak Scanlan 
+We're coming.
+-speak Liam 
+I start to loot the bodies.
+-speak Matt 
+Stealth checks?
+-speak Marisha 
+17.
+-speak Taliesin 
+12.
+-speak Sam 
+12.
+-speak Travis 
+20.
+-speak Ashley 
+19.
+-speak Matt 
+All right, go team!
+-speak Marisha 
+Woo! We're stealthy bastards.
+-speak Matt 
+Pike, that was with disadvantage?
+-speak Ashley 
+I have to roll again?
+-speak Matt 
+Because you're in heavy plate armor.
+-speak Laura 
+No!
+-speak Ashley 
+8!
+-speak Laura 
+Plus what?
+-speak Ashley 
+Plus nothing!
+-speak Matt 
+You guys, all rush down the stairs, plate armor clanking as you're going down.
+The rest of you wince as you notice it, but you make it down anyway.
+-speak Ashley 
+Oh my God.
+-speak Travis 
+I should have picked you up.
+-refreshtoken vax
+-movetoken vax -3 0
+-movetoken vex -4 -1 
+-addtoken pike pike pike 10 5
+-addtoken grog grog grog 12 4
+-addtoken scanlan scanlan scanlan 12 5
+-addtoken clarota clarota clarota 11 4
+-addtoken keyleth keyleth keyleth 10 4
+-addtoken percy percy percy 11 5
+-addtoken trinket trinket trinket 13 5
+-updatebattle 
+-speak Matt 
+So, the rest of you have made it down.
+In this hallway, there are two dead duergar on the ground.
+A closed door and one with an open door.
+-speak Laura 
+Well, let's go look in the open door.
+Stealthily.
+-setbattle CR_C1_E6/6 11 15
+-speak Matt 
+You glance over into the open door, you can see what appears to be a series of dungeon cells held underneath the stronghold.
+-addtoken dwarfman4 dwarfman4 dwarfman4 5 4
+-addtoken dwarfman3 dwarfman3 dwarfman3 7 9
+-setprone dwarfman3 true
+-updatebattle
+-continue 
+Within these, you can see there are a two captives that are in very, very, very poor health.
+-speak Taliesin 
+I don't care about them.
+-speak Vex 
+We need to get them awake.
+-speak Matt 
+Lying down, unfed, gaunt.
+-speak Scanlan 
+Are any of them Lady Kima?
+Because if they're not, they're about to die.
+-speak Vex 
+No, they're regular dwarves, they're good people.
+-movetoken keyleth -1 3
+-movetoken keyleth -3 0
+-updatebattle
+-speak Marisha 
+I'll walk in.
+-speak Matt 
+As you look around, there are a series of largely decomposed bodies in a few of these cells.
+They are people who've just been left to die.
+There are these kind of strange, underground, rat-like creatures that are feeding on one of them.
+One of the dwarves is just wheezing in pain.
+You can see his stomach is a little distended.
+The other one is either unconscious, asleep, or dead.
+You can't tell.
+-speak Ashley 
+Can I do a Mass Cure on them?
+-speak Matt 
+You can if you'd like.
+-movetoken pike -2 1
+-movetoken pike -2 0
+-updatebattle
+-speak Ashley 
+I'll do that.
+-speak Laura 
+Can we talk to them?
+-speak Matt 
+If you guys want to.
+-movetoken vax 0 1
+-movetoken vax -2 0
+-movetoken vex 0 3  
+-movetoken vex -1 0
+-updatebattle
+-continue 
+It's fairly simple for you to unlock the cells if you'd like.
+Pike, there's a difference between healing magic and nutrition.
+You make them feel physically better for the moment, but their physical form itself is failing.
+-speak Grog 
+Just a thought, shouldn't we clear this mess before we let prisoners out?
+-speak Matt 
+They need food, they need air, they need to be out of here soon.
+They're both on the edge of death.
+-speak Scanlan 
+Put them in the bag of holding, Grog.
+-speak Marisha 
+I give them some water.
+-speak Matt 
+You guys hear heavy footsteps coming from the stairway you guys just descended from.
+-movetoken grog -3 0
+-speak Travis 
+I go stand right next to the stairway.
+-speak Keyleth 
+Get in the cells.
+-movetoken keyleth 0 2
+-updatebattle 
+-speak Marisha 
+I jump in the cells and I pull a dead, decomposing corpse over the top of me.
+-speak Vex 
+Eww, Keyleth.
+All kinds of nastiness.
+-speak Keyleth 
+I'm going savage!
+-movetoken percy -1 0
+-movetoken percy -1 1
+-movetoken percy -5 0
+-movetoken percy 0 -1
+-updatebattle
+-speak Taliesin 
+I find a corner of a cell and slowly pull out my gun.
+-speak Matt 
+Pike, anything you doing?
+-speak Ashley 
+I'm just, you know, preparing.
+-speak Marisha 
+Just kicking it, just chilling.
+-speak Laura 
+Do we need to move out of the way of the stairs?
+-movetoken scanlan -2 0
+-movetoken scanlan 0 2
+-updatebattle
+-speak Sam 
+Yeah, I'm going to move towards the door.
+-movetoken vax 3 0
+-movetoken vex 2 -3
+-updatebattle
+-speak Liam 
+Vex and I will flank the sides of the stairway.
+-speak Sam 
+But there's a bear in the stairs.
+-speak Laura 
+Well, Trinket's coming down.
+-speak Marisha 
+I make kissy noises.
+-speak Keyleth 
+Pspspspspsps- Trinket, Trinket!
+-movetoken trinket -3 0
+-movetoken trinket -1 1
+-movetoken trinket -4 1
+-updatebattle
+-speak Matt 
+Trinket coming into this room.
+-movetoken clarota 2 0  
+-updatebattle
+-continue 
+Clarota just steps back, along the side of the stairs and out of view.
+A few moments pass.
+And the footsteps slowly trail off.
+-speak Keyleth 
+Ok, we're good.
+-speak Laura 
+What's in the other door?
+-speak Matt 
+The other door is currently locked.
+-movetoken vax 0 -3
+-refreshtoken vex
+-updatebattle
+-speak Liam 
+One moment.
+It is now not locked, I think. 25?
+-setbattle CR_C1_E6/7 11 15
+-addtoken duergar duergar duergar 10 2
+-refreshtoken vax
+-refreshtoken vex
+-addgraphicon turn turn behind noshadow duergar duergar
+-addgraphicon axe axe infront shadow vax duergar
+-updatebattle
+-speak Matt 
+You push the door open and you see immediately, the fast moving heft of some large blade towards your head.
+-speak Sam 
+Oh, snap!
+-speak Matt 
+That is 24 to hit.
+-speak Liam 
+I'm going to use Uncanny Dodge.
+-speak Matt 
+What would have been 20 points of slashing damage is reduced to 10.
+As the axe grazes you and imbeds itself in the doorframe.
+As you see a duergar with a giant, gnarled greataxe, and a bunch of scars on its face.
+It's grinning, and it pulls the axe out of the doorframe.
+-removeallgraphics
+-addgraphicon turn turn behind noshadow vax vax
+-updatebattle
+-speak Liam 
+Right, I spit on the ground, and yank my belt off and throw it at his head.
+-speak Vex 
+Hold!
+-speak Scanlan 
+Hold?
+-speak Vex 
+Yeah, tell him to stop attacking.
+-speak Liam 
+Serpent!
+-addgraphicon snake snake infront shadow duergar vax
+-updatebattle
+-speak Matt 
+He ducks out of the way, pulls back out of the way, as the snake forms itself.
+Go ahead and roll for snake attack against him.
+-speak Sam 
+Snake attack!
+-speak Liam 
+12 is gonna miss.
+-removegraphic snake
+-updatebattle
+-speak Matt 
+He slaps it, and it gets flung off to the side of the room.
+At which point he kicks the door closed again.
+-removetoken duergar
+-setbattle CR_C1_E6/6 11 15
+-updatebattle
+-speak Matt 
+Roll initiative!
+-speak Liam 
+What I like is that there are 7 of us and one of him.
+-speak Laura 
+If no one else is behind that door.
+-addgraphicon turn turn behind noshadow percy percy
+-updatebattle
+-speak Matt 
+Percy, you're up first.
+-speak Taliesin 
+Where am I?
+-speak Matt 
+You are in this cell, and you hear a slam of broken wood and another slam of a door closing.
+-movetoken percy 1 1
+-updatebattle
+-speak Taliesin 
+I'm going to run to the hall.
+-speak Matt 
+Make an acrobatics check to try and squeeze between Pike and Trinket.
+-speak Taliesin 
+I can do that. 24.
+-movetoken percy 4 0
+-updatebattle
+-speak Matt 
+You leap over, vaulting off of Trinket, land and move into this hallway.
+And that's the extent of your movement.
+-speak Taliesin 
+Okay, I'm going to try and take a shot and blow the lock.
+30 to hit for 9 points of damage.
+-speak Matt 
+Vax, a the door slams back and you prepare yourself to try and kick it open, you hear the familiar sound of one of Percy's pepperbox bullets.
+As the actual handle of the door gets blown off and there's a small hole in the wooden door now where its handle once was.
+The door swings open a little bit loosely due to the impact.
+-addgraphicon turn turn behind noshadow vax vax
+-updatebattle
+-continue 
+Vax, you're up.
+-setbattle CR_C1_E6/7 11 15
+-addtoken duergar duergar duergar 10 2
+-refreshtoken vax
+-refreshtoken vex
+-updatebattle
+-speak Liam 
+All I'm gonna do is grab the hole of the door and yank it open.
+-speak Vax 
+Your turn, Grog!
+-speak Marisha 
+Oh, that's fun!
+-speak Matt 
+As you pull it open, the dwarf backs up over what you can see now, this room is completely covered in a series of really nasty, hooked instruments.
+Hot irons, you can see large pincers, you can see various blades.
+-narrate 
+Travis laughs excitedly.
+-speak Ashley 
+Oh, it's like a torture chamber?
+-speak Matt 
+It's a torture chamber.
+-speak Grog 
+It's Christmas!
+-speak Taliesin 
+Grog is running into Toys R Us.
+This is going to be great.
+-addtoken kima kima_hidden kima_dark 8 1
+-setprone kima true
+-updatebattle
+-speak Matt 
+You see gently as he backs away there is someone on this rack-like table.
+The dwarf backs up with his axe getting ready.
+-speak Liam 
+I use my bonus action to say:
+-speak Vax 
+You are so fucked, dwarf.
+-addgraphicon turn turn behind noshadow keyleth keyleth
+-updatebattle
+-speak Matt 
+All right, that brings us to Keyleth.
+You are currently in a cell with a dead body draped over you.
+-speak Marisha 
+It's cozy down here.
+Okay, so with the dead body, I hear what's going on.
+-removetoken keyleth
+-removegraphic turn
+-addtoken keyleth minxie minxie 5.5 9
+-addgraphicon turn turn behind noshadow keyleth keyleth
+-updatebattle
+-speak Marisha 
+I morph into Minxy form.
+-speak Travis 
+Minxy!
+-speak Marisha 
+And as I morph into Minxy form, I take the dead body that's on top of me and just pick it up with my mouth.
+-speak Matt 
+In your mouth, the body stirs.
+It wasn't quite dead.
+-speak Marisha 
+Oh, why?!
+-speak Laura 
+Oh, Keyleth!
+-speak Marisha 
+It was supposed to be- I wanted the dead one.
+-speak Travis 
+Minxy says I'm sorry!
+-speak Marisha 
+Can I drop that one and find a dead one?
+-speak Matt 
+Well, you wanted a dead one.
+It is now.
+-speak Everyone 
+Oh!
+-speak Marisha 
+That's fine, that's fine.
+-speak Liam 
+Oh, murdering children again.
+-speak Taliesin 
+Spend the entire game being the worst person in the world.
+-speak Marisha 
+I know! I try so hard, you guys!
+-speak Travis 
+Was it a child duergar?
+-speak Marisha 
+I try so hard, I'm still the fucking worst!
+-speak Matt 
+So, you now have a dead, gaunt dwarf, hanging from Minxy's mouth.
+What do you want to do?
+-speak Sam 
+Keep chewing.
+-speak Travis 
+Oh, go ahead, do something else.
+-speak Taliesin 
+At least it's not gamey.
+It's fresh.
+-speak Marisha 
+Keyleth tries. Keyleth tries so hard.
+-speak Travis 
+You hear a little dwarf in the corner go: "Mommy?"
+-speak Marisha 
+Vex brought up the fact that I killed a kid.
+I'm having all these memories coming back, I'm on the brink.
+-speak Matt 
+Yeah, there's some PTSD coming through.
+-movetoken keyleth 0 -1
+-updatebattle
+-speak Marisha 
+So I've got this now-dead corpse in my mouth and I come out around the corner.
+-speak Matt 
+Make an Acrobatics check.
+Because you're still moving through this clustered hallway with a dead dwarf in your mouth.
+-speak Liam 
+Holy cow!
+-speak Marisha 
+15?
+-speak Matt 
+You're fine.
+You manage to push through, you're leaping through.
+-movetoken percy 0 -1
+-movetoken keyleth 4 -2
+-updatebattle
+-speak Marisha 
+I'm pouncy. And I come out into the hallway.
+-speak Matt 
+You actually shift Percy out of the way.
+This is a very small space, you're a very big cat.
+You're really pushing for space here.
+-speak Marisha 
+Move!
+-speak Matt 
+It's very, very tight quarters for you.
+-speak Marisha 
+Do I see the dwarf?
+-speak Matt 
+You can't see him from your vantage point, he's actually back out of sight.
+You don't know there's a dwarf there.
+You just know there's some sort of commotion going on.
+You move around the corner and you see just an empty room.
+-speak Liam 
+Everybody give up your turn to Grog.
+-speak Laura 
+I know, let him go in the room.
+-speak Marisha 
+Then I'm just gnawing on the dead dwarf.
+-addgraphicon turn turn behind noshadow vex vex
+-updatebattle
+-speak Matt 
+Vex!
+-speak Laura 
+Oh, well, let's make this nice and easy.
+I smack Grog on the ass.
+-speak Vex 
+Go get him!
+-narrate 
+Travis snarls.
+-addgraphicon turn turn behind noshadow grog grog
+-updatebattle
+-speak Matt 
+All right, Grog, it's your turn.
+-narrate 
+Travis snarls even more.
+-speak Sam 
+If you don't kill him in one shot, it's very very disappointing.
+-movetoken grog 0 -1
+-updatebattle
+-speak Matt 
+All right, you run in.
+-speak Travis 
+You said the room was full of shiny pointy things on the wall, right?
+I would like to bull rush the dwarf up and against the wall, try and spear him with all the sharp shit on the wall.
+-speak Matt 
+Okay!
+-narrate 
+Everyone cheers.
+-speak Matt 
+Oh, that's nasty.
+-speak Liam 
+Instant karma's going to get you, man.
+-speak Matt 
+All right, so go ahead and make an athletics check.
+-speak Liam 
+You hear that, Keyleth?
+-narrate 
+Marisha growls as a tiger. 
+-movetoken duergar 0 -1
+-movetoken grog 1 -1
+-refreshtoken grog
+-refreshtoken vax
+-refreshtoken vex
+-updatebattle
+-speak Travis 
+24.
+-speak Matt 
+Yeah, against his 7.
+You rush in and with your first attack, you grab him, lift him.
+And you can see there's a series of giant meat hooks hanging on the back wall.
+And you just lift him up and shove him down onto the hook.
+Protruding through the front of his chest.
+-speak Travis 
+Perfect.
+Tell me I get another attack.
+-speak Matt 
+You do.
+-speak Travis 
+Excellent!
+-speak Matt 
+That's 12 points of damage and he's currently restrained by the hook through his chest.
+-speak Laura 
+Oh!
+-speak Travis 
+Perfect!
+As he's screaming I grab his lower jaw and pull him straight down.
+-speak Matt 
+Okay, make an attack roll.
+-speak Laura 
+That's so gross.
+-speak Ashley 
+Oh, I love this so much.
+-speak Liam 
+Vax is using his free hand to cover his eyes.
+-speak Sam 
+Keyleth starts eating him.
+-speak Travis 
+24!
+-speak Matt 
+Go ahead and roll damage on this!
+Why not? You're pulling his jaw.
+-speak Travis 
+Excellent!
+-speak Ashley 
+He rolled really high.
+-speak Travis 
+15!
+-speak Matt 
+After you throw him onto the hook, his axe clatters to the ground.
+He reaches up with his hands to grab you.
+This look of burning rage in his white eyes, with all these scars.
+You take your giant hand and jam it into his maw.
+With this horrible choking sound, glaring him in the face with a terrible grin.
+And you yank the jaw off from the bottom of his head.
+-narrate 
+The table cheers.
+-speak Matt 
+His tongue dangling, he gives out this horrible gurgling scream.
+Blood begins to pour up into his throat.
+You begin to pummel him in the face over and over, his head slowly caving in.
+-speak Grog 
+Yes!
+-speak Scanlan 
+I think he's going to make it.
+-removetoken duergar
+-updatebattle
+-speak Matt 
+Until eventually, he's no longer moving.
+And you throw the jaw to the ground, just coated with blood.
+-speak Vax 
+You're going to pull through, buddy.
+-speak Vex 
+I think Grog, um, I think he did his job.
+-speak Pike 
+Good job Grog!
+That's your best one yet!
+-speak Marisha 
+And they say video games are violent.
+-narrate 
+Laura fake gags.
+-speak Ashley 
+Wait, is he dead?
+-speak Matt 
+Oh, he's very dead.
+-speak Travis 
+We made cheese of him.
+-speak Matt 
+He lies there limply on the wall, twitching every few seconds.
+Grog, still in a rage, you look over at the other individual.
+-removegraphic turn
+-removetoken kima
+-addtoken kima kima kima_undies 8 1
+-setprone kima true
+-updatebattle
+-continue 
+You can see now strapped to this wooden frame is a smallish humanoid, female, currently chained and being pulled on a rack.
+You can see bunch of scars and wounds, blood pouring from each one of them.
+-speak Sam 
+Is that our girl?
+-speak Laura 
+That's our girl!
+-movetoken percy 0 -3
+-movetoken percy -1 0
+-refreshtoken percy 
+-updatebattle
+-speak Taliesin 
+I'm running in.
+Do I know how to disable the rack?
+-speak Matt 
+You can probably figure it out with a tinker check.
+-speak Vax 
+Pike!
+-speak Vex 
+Come heal her!
+-speak Vax 
+We need Pike in here!
+-movetoken pike 3 0
+-movetoken pike 0 -5
+-updatebattle
+-speak Ashley 
+Yeah, I run in there.
+-speak Travis 
+Is it chains or rope?
+-speak Scanlan 
+I'll go!
+-speak Matt 
+It's chains.
+-speak Taliesin 
+I'm going to undo it.
+-speak Sam 
+Do we know it's her?
+-speak Matt 
+Go ahead and make a tinker check.
+-speak Laura 
+It's her. It's gotta be her.
+-speak Taliesin 
+12.
+-speak Matt 
+You take a moment and you manage to find where the winch to this machine is.
+You release the tension and the chains go a little slack. 
+And the halfling woman takes a deep breath.
+She's in a bit of a haze, but through the haze there's this anger.
+-speak Halfling Woman  
+So?
+Are you gonna let me go?
+Come on!
+Release these chains!
+-speak Pike 
+Who is she?
+-speak Grog 
+Wait, wait.
+Find out who she is first.
+-speak Laura 
+Can we insight?
+-speak Matt 
+You can indeed.
+-speak Laura 
+Nope, did not succeed.
+-speak Liam 
+Same!
+Pike, roll well.
+The twins fucked it.
+-speak Ashley 
+15!
+-speak Matt 
+Whoever this woman is, she's been here a while.
+She's been subjected to many, many horrible things and still has that spark of life to her.
+Mainly out of vengeance, anger, and pain.
+But she does not seem to be overtly aggressive or trying to deceive you.
+Just trying to get out of these fucking chains.
+-speak Vex 
+Get her out of there!
+-speak Liam 
+I'm pulling out my lockpicks.
+-speak Sam 
+I'm going to heal her with a little bit of a song.
+If I may.
+-speak Liam 
+My lockpick snaps.
+-speak Ashley 
+How hurt is she?
+-speak Matt 
+She's pretty rough. She's not clothed.
+Her body is just a spray of scars and gashes and rake marks.
+She's been tortured to an extent you hadn't seen before.
+And to still be tensing her muscles against the chains and looking at you with this intensity?
+If this is indeed Lady Kima, you now see why she's made the reputation she has.
+-speak Vax 
+Grog, the locking mechanism on this is jammed.
+-movetoken scanlan -1 -5
+-updatebattle
+-speak Sam 
+I pull out my flute and I sing:
+-narrate 
+To the tune of "Suit and Tie" by Justin Timberlake:
+-speak Scanlan 
+~As long as I got my song and flute, I'm gonna give some healing to you.~
+~Love and magic in the air tonight, gonna give you some hit points.~
+~Gonna give you some hit points, gonna give you some hit points of our love.~
+-speak Sam 
+9 hit points!
+-speak Matt 
+The fresher wounds seal up, the blood flow comes to a stop.
+-speak Kima  
+It's been a while since I've heard a song.
+Thank you.
+-speak Scanlan 
+It was a slow jam.
+-speak Percy 
+Please be careful for a moment.
+Can someone cover her ears for just a second?
+-speak Grog 
+Yeah, I got it.
+-speak Taliesin 
+I'm going to put my gun against the lock, somewhere where it will not harm her and just blow it.
+-speak Matt 
+Go ahead and roll damage.
+You don't have to roll to hit, it's right there.
+-speak Taliesin 
+15.
+Is it two locks?
+-speak Matt 
+Well, there's one chain for the legs, one chain for the arms.
+-speak Taliesin 
+15 for the leg.
+10 for the arm.
+-speak Matt 
+The legs get free.
+The chain mostly snaps on the top part, but not quite enough.
+-speak Grog 
+I got it!
+-speak Matt 
+You bring your axe down.
+With a brief moment of extreme tension as the whole room watches Grog walk up with his axe and swing it down towards this halfling.
+Before you have a moment to stop, everyone's heart skips a beat.
+-setprone kima false
+-updatebattle
+-continue 
+The chain is bisected, at which point the halfling woman immediately jumps to her feet.
+With almost like a kip-up stand and is now standing on top of the table.
+Her arms are still bound, but you can now see where the metal was weakened from the axe blow.
+She snaps herself free from the metal binding.
+-speak Grog 
+That's hot.
+-speak Matt 
+There's a blisters across her wrist from how long she's been pulling against these restraints.
+But she bore through it, a little bit of blood trickling from that wound.
+She has freed herself and she looks around the rest of the group.
+-speak Kima  
+So, I take it you're not from around here?
+-speak Grog 
+No! Would you like some water?
+-speak Matt 
+She grabs it from you, pulls off the cork and just starts chugging like she hasn't had anything to drink in a long time.
+-speak Vex 
+Lady Kima, we need to get you out of here.
+-speak Vax 
+Allura has sent us.
+-speak Matt 
+She caps it off after a moment and takes a deep breath.
+-speak Kima  
+I'd hoped she would.
+It was foolish of me to come down here so unprepared.
+Just knew there wasn't much time.
+-speak Vax 
+Time 'til what?
+-speak Kima  
+Look, we don't- it's a story.
+I have no–
+-speak Matt 
+And she kind of points to her pretty much unclothed, unarmored form, and says, 
+-speak Kima  
+I need to find my implements.
+We need to get out of here.
+-speak Grog 
+Could I offer to you this black, plate, dwarven armor?
+-speak Vax 
+It's magical, it'll fit you.
+-speak Matt 
+What armor were you offering her?
+-speak Travis 
+It's the black, dwarven armor from the general.
+-removetoken kima
+-addtoken kima kima kima_black 8 1
+-refreshtoken percy
+-updatebattle
+-speak Kima  
+Sure, it works for now.
+-speak Matt 
+She takes it from you and starts putting it on.
+You see her wincing as she puts it on, as it covers some of the wounds.
+Her whole body is just sore, but she still pushes through it.
+-speak Ashley 
+I'm going to heal her a little bit more.
+I'll put my hands on her.
+-speak Pike 
+I'm sorry.
+You're not fully healed, let me help you out.
+-speak Grog 
+Grog likes scars.
+-speak Matt 
+You heal her and she goes:
+-speak Kima  
+Can I-
+-speak Matt 
+She points at your mace.
+-speak Kima  
+Can I borrow that for a second?
+-speak Pike 
+Uh…
+-speak Kima  
+Please?
+-speak Pike 
+My mace?
+-speak Kima  
+Your mace, please.
+-speak Pike 
+What do you need it for?
+-speak Grog 
+You can have mine.
+-speak Kima  
+Do you trust me?
+-speak Pike 
+I don't know.
+This is all I have to protect myself.
+-speak Kima  
+You've come this far.
+-speak Scanlan 
+Say yes to life, Pike.
+-speak Pike 
+All right, well, I also have a morningstar, but this is–
+Are you gonna give it back?
+-speak Matt 
+As you hand it out, she grabs it from your hands–
+-speak Ashley  
+That was rude.
+-speak Matt 
+She walks to the edge of the table.
+-speak Ashley 
+I don't like her.
+-speak Matt 
+She stares at the dwarf that is currently hooked onto the wall.
+And with a yell, slams it right into his face, causing his head to explode against the back of the wall.
+Slams it again and again and again, and is just making hamburger of his entire body.
+The arm sloughs off and she's just going nuts.
+You can see her bludgeoning over and over again with a spray of gore on her.
+There's this look of anger, frustration–
+-speak Laura 
+She's raging.
+-speak Matt 
+And a sick sense of joy in how she's just tearing this dwarf apart.
+Eventually, after this frenzy, she takes a moment.
+There is very little left recognizable of what once was a duergar.
+-speak Sam 
+I notice a bulge in Grog's pants.
+-speak Pike 
+I'm sorry I questioned you.
+-speak Matt 
+As she begins to hand it back to you, there's a slight flash of radiant energy that emanates from her hand.
+And it burns all of the blood off the mace, and then she hands it back to you.
+-speak Kima  
+Thank you.
+I needed that.
+-speak Pike 
+You're very welcome.
+I'm sorry I questioned you.
+-speak Grog 
+That was amazing.
+Could I, um, would you like to touch my axe?
+-speak Kima  
+If you want to part with it, certainly.
+-speak Grog 
+Oh, uh.
+Maybe we should get out of here.
+-speak Percy 
+Why don't we collect your things?
+-speak Vex 
+Yeah, where are they?
+Do you know?
+-speak Percy 
+I would assume they're being stored upstairs.
+-speak Kima  
+I have no idea.
+They're either in the vault or they're in the armory.
+-speak Scanlan 
+Vault or the armory?
+Those are places that we can go?
+-speak Vex 
+There's a vault?
+-speak Kima  
+As far as I can tell, my–
+-speak Vax 
+Lady Kima, are these things absolutely necessary?
+We know a secret entrance to this place.
+We could leave now.
+Are they of vital importance, the things you've lost?, 
+-speak Kima  
+They are divine implements, gifted to me from an avatar of Bahamut directly.
+I feel, to leave them behind would be a partial failure to my quest.
+Not to mention, with what we may face beyond this, we'll need every bit of help we can get.
+-speak Grog 
+Oh, shit.
+-speak Vax 
+Well, that's that then.
+-speak Vex 
+Let's find the frigging vault!
+-speak Percy 
+Let's go upstairs.
+-speak Matt 
+She leaps off the table.
+-speak Kima  
+So. Shall we?
+-speak Scanlan 
+Do you know where the vault is?
+-speak Kima  
+I can show you.
+-speak Scanlan 
+Lead the way!
+-speak Marisha 
+I go up to her, still in my Minxy form, and I rub on her legs.
+-speak Taliesin 
+Have you dropped the body yet?
+-speak Travis 
+I get right up behind them too, competing for space.
+-speak Taliesin 
+Are you dragging a dead body around?
+-speak Marisha 
+No, I dropped the body.
+While she was talking, I took the body, and I drug it back, and I buried my shame.
+-speak Matt 
+Your shame has been sufficiently buried.
+She doesn't look at you, but she pats you absentmindedly as she passes you, her direct intent on heading back up those stairs herself.
+-speak Laura 
+All right.
+-speak Sam 
+Let's go, but should we unlock all the other dwarves?
+-speak Laura 
+Yes, let's let all the other dwarves out, and maybe give them some food to try to help them out, if we can.
+-speak Grog 
+In the meantime, I have a greatsword or a morningstar mace that you can have.
+-speak Kima  
+Greatsword.
+-speak Grog 
+Greatsword it is.
+-speak Matt 
+She takes it from you, and the sword is a little over a foot taller than she is.
+Maybe a little more than that.
+-speak Laura 
+She's really fricking buff.
+-speak Liam 
+She's a ripped halfling.
+-speak Laura 
+That's pretty badass.
+-speak Matt 
+She is a built halfling female.
+She has seen some war, and she has survived some shit.
+-speak Liam 
+She's the Tyler Durden of halflings.
+-speak Matt 
+Kind of, yeah.
+-speak Grog 
+Would you care for some ale?
+-speak Kima  
+Later.
+We have nothing to celebrate for yet.
+-speak Grog 
+Absolutely.
+Plenty of time!
+-speak Vax 
+I think Grog is smitten!
+-speak Vex 
+She comes to your knee.
+-speak Vax 
+Oh my goodness!
+-movetoken vex -2 2 
+-updatebattle
+-speak Laura 
+Can I run in the little prison, and tell the dwarves:
+-speak Vex 
+Don't exit from where you came.
+There's a secret entrance up and in a store room.
+Go that way, and stealth out.
+-speak Matt 
+One of the ones that was semi-conscious, sits up and looks back at you:
+-speak Dwarf  
+Thank ye.
+Thank ye kindly.
+-speak Vex 
+Here's some cheese!
+-speak Matt 
+He takes it hungrily through the bars and just starts eating it, incessantly, as you leave.
+-speak Percy 
+Government cheese.
+-speak Vax 
+Is provolone all you've got?
+-speak Laura 
+It's Velveeta.
+-speak Matt 
+Ugh, Velveeta!
+-speak Marisha 
+It's calories!
+-movetoken kima 1 3
+-updatebattle
+-speak Matt 
+Kima moves into the hallway, and you notice she suddenly freees.
+Staring up at the top of the stairway.
+At Clarota.
+-narrate 
+Laura gasps.
+-speak Vex 
+Wait- Wait!
+-speak Kima  
+Who is this filthy–
+-speak Percy 
+No no no no!
+-speak Vex  
+The mind flayer is with us!
+He's our ally.
+No one needs to fight.
+His name is Clarota.
+-speak Percy 
+He's been an enormous help.
+-speak Matt 
+Without taking her eyes off of Clarota–
+-speak Kima  
+Are you to tell me that you've come down here and allied yourself with an entity that is the anathema of the Mountain?
+-speak Grog 
+Uh, what was that word?
+-speak Vax 
+We understand he's dangerous, but he's gotten us this far.
+-speak Kima  
+And for what purpose?
+You think they don't have plots lined out for weeks and months?
+There is no trust to be had with these creatures.
+-speak Vax 
+He has been shit out by these creatures.
+They do not want him or trust him.
+He is an outcast.
+And we are working together, in this moment, and without him we would not have gotten here.
+-speak Laura 
+We see a single tear drop from Clarota's eye.
+-speak Kima  
+And with him you will never get out.
+Have you not thought for a second that perhaps all of you are being manipulated by this creature?
+-speak Pike 
+Well, I have.
+-setbattle CR_C1_E6/8 11 15
+-updatebattle
+-speak Matt 
+You can see the greatsword now flares with divine energy and she goes:
+-speak Kima  
+I will not stand here and let us ally ourselves with this filth!
+-speak Matt 
+You can see the her eyes change to an extremely bright, burning, silver light.
+-speak Laura 
+Oh my god, she's so cool!
+-speak Kima  
+Listen. You come with me. Without this creature!
+Or you continue with it, and without me.
+I will not walk beside this.
+I have had its people devour mine since I set foot in here.
+This creature, whatever its reasoning is, is not in your best interest.
+It will lead you into a web of your own destruction! I've seen their kind work.
+-speak Liam 
+Clarota! Speak your mind!
+Convince her. Fix this.
+-speak Matt 
+You can see Clarota's tendrils curl back in a sneer.
+-speak Clarota  
+Listen. I am not going to walk where I am not welcome.
+I will not wake up with this woman's blade in my back!
+-speak Liam 
+Giving us a Walking Dead decision.
+-speak Clarota  
+We made a deal.
+-movetoken vax 0 1
+-updatebattle
+-speak Liam 
+I walk between them and put my hands out.
+-speak Vax 
+We all want the same thing.
+Kima. Tell us.
+What is it that you've come here for? What is your purpose here?
+Speak your mind, if you are true.
+-speak Matt 
+Kima turns back towards you, the same glowing flare in her eyes.
+-speak Kima  
+I've come here to rid this mountain, this continent, of the darkness deep within the bowels of this thing's city!
+-speak Vax 
+Clarota, why have you come here.
+What is it you seek?
+-speak Clarota  
+Ah, I've come to destroy this creature K'Varn and free my people.
+-speak Vax 
+Then the two of you.
+Get over your fucking shit.
+We want the same thing here. Get over yourselves.
+Both of you.
+We share a common purpose.
+We are going to end this fucking bullshit.
+Kima, we have come here for you.
+Pay us the respect that we have earned.
+We have come a long way for you.
+He is an unlikely ally, but he has gotten us to this point.
+And together, for this moment and this moment only, we can work together.
+We don't have to be school chums or buddies in a week from now.
+But right now, right here, we will work together and achieve the same thing.
+What say you, Kima? 
+-speak Kima  
+Free his people, he says.
+What do you think will happen once his people are free?
+Shall they let us walk out on our own?
+-speak Percy 
+He has given us his word. 
+-speak Kima  
+You know so very little of these dark caverns, my friend.
+I watched these entities steal the very essence of those I travelled with.
+I watched them capture them, and devour their very minds before me.
+Laughing and cackling as I fled into the shadows.
+-speak Vex 
+But they were under control of K'Varn at that point.
+-speak Kima  
+Understand, whether or not K'Varn controls them to give them direction, this is what they are.
+They do not hope society will thrive.
+They do not want us free peoples to walk the surface.
+They want us for food.
+-speak Scanlan 
+Lady Kima, if I may.
+If you're intending us to choose between you, and our ally Clarota, and we can't get you to see eye to eye with us, then I'm afraid you leave us no choice but to choose our own friend Clarota over you.
+-speak Vex 
+What!?
+-speak Scanlan 
+We're giving you one last chance.
+Either you are with us, or you are against us.
+This is a threat.
+-speak Kima  
+So you walk in here, save me from my binds, under the words of my dear, lifelong friend Arcanist Allura–
+-speak Scanlan 
+We mean you no ill will.
+It is you who are aggravating the situation.
+-speak Vax 
+You could be sitting in a cell by yourself doing fuck-all, or ending this problem now.
+-speak Matt 
+Make a persuasion check.
+-speak Laura 
+I'm so nervous!
+Oh, Scanlan, come on!
+-speak Sam 
+Well, I rolled a 3.
+-speak Liam 
+I rolled a 13.
+-speak Sam 
+But I have a plus 13!
+So that's a 16.
+-speak Matt 
+She takes a moment and steps forward.
+She's a few inches taller than you.
+-speak Sam 
+Of course she is! Everyone is!
+-speak Kima  
+He of the pretty voice.
+I am grateful that all of you have come and traversed all this danger in my name, to free me from the binds that have held me.
+And I do wish, very much, to walk alongside you to this end.
+And I understand, it may be very well possible that this thing has taken your minds without your knowledge.
+However–
+-setbattle CR_C1_E6/7 11 15
+-updatebattle
+-speak Matt 
+And her eyes close for a second, and she opens them again, and that radiant spark of silver fades, and her normal eye color returns.
+-speak Kima  
+We see ourselves with little choices.
+And I have very little allies at this point to achieve my goal.
+-speak Vex 
+Oh, thank god.
+-speak Kima  
+If we are to travel together, this one must walk in step the entire time.
+One single misstep, and I will not hesitate to carve that head from your body in the name of Bahamut.
+-speak Grog 
+I will help you do that if he missteps.
+-speak Matt 
+Clarota, hands still crossed, takes a step down the stairs towards her.
+Its tendrils shift a little.
+-speak Clarota  
+And please, understand, if you ever intend to try and cut my life short, I will also not hesitate to bore that beautiful mind from your skull.
+-speak Vax 
+Once we murder this K'Varn, you guys are going to laugh so hard.
+-speak Scanlan 
+So friends then?
+-speak Grog 
+Allies, allies.
+-speak Vax 
+The enemy of my enemy…
+-speak Scanlan 
+Has mind-sucking tentacles.
+-speak Kima  
+I pray that you are right.
+I pray that you're honest.
+And I pray that through some strange will of the gods, this entity is telling the truth.
+Because if it's not, none of us will make it out of here alive.
+-speak Vax 
+We're playing a game of chess here, Kima, and we will win.
+-speak Laura 
+I whisper in her ear: 
+-speak Vex 
+I would have chosen you.
+-speak Sam 
+I start humming 'Kumbaya'.
+-movetoken kima 1 1
+-updatebattle
+-speak Matt 
+Kima steps up the stairs towards Clarota.
+-speak Laura 
+Oh god. Okay.
+-speak Matt 
+Clarota steps back, hands up in front, this little spark of arcane energy forming in his hands.
+-movetoken kima 3 0
+-updatebattle
+-continue 
+Kima pushes Clarota aside and continues ascending back up the stairs to the first level.
+-removetoken kima   
+-updatebattle
+-speak Matt 
+Clarota puts the hands folded back together.
+-speak Clarota  
+Shall we?
+-speak Matt 
+And walks up the stairs after her.
+-removetoken clarota
+-updatebattle
+-continue 
+And you all begin to ascend back onto the first floor.
+And that's where we'll end the game for this evening.
+-speak Marisha 
+What? No.
+What time is it?
+I thought we just got started?
+-speak Travis 
+I thought we were going to have to pick.
+We got like ten more minutes!
+-speak Marisha 
+Yeah, we have ten more minutes.
+-speak Sam 
+No, no, no.
+That's fine, that's fine.
+-speak Laura 
+No, yeah, that is a good place, or we're going to get in a battle.
+-speak Matt 
+Depending on where you guys are going next it could be a bit of a lengthy encounter, so…
+-speak Laura 
+Oh god.
+-speak Liam 
+So the building is empty.
+-speak Matt 
+It's totally empty!
+-speak Laura 
+Completely empty.
+-speak Matt 
+There's nobody in there.
+No one has any idea that you're here.
+-speak Travis 
+Wait, show of hands, if we have to pick between one or the other, who's picking Kima?
+-narrate 
+Travis, Ashley and Laura put up their hands.
+-speak Travis 
+Who's picking turtle-face?
+-narrate 
+Sam and Marisha raise their hands.
+-speak Liam 
+I don't know.
+-speak Travis 
+We're going to throw down, this is gonna be Marvel versus DC in this bitch.
+-speak Laura 
+She's Allura's friend, she's good!
+-speak Liam 
+Undecided, I don't know.
+-speak Laura 
+Would you pick Kima?
+-speak Travis 
+Yeah!
+-speak Sam 
+You just want her because she's badass and you could hump her.
+-speak Travis 
+Yeah!
+-speak Matt 
+Oh, Grog.
+-speak Laura 
+That would be the most awkward humping ever.
+-speak Travis 
+Did you see her work in that room of blood?
+-speak Taliesin 
+Only one of them is demanding that I become a liar.
+-speak Ashley 
+Wait, dang it!
+I wanted to take some torture weapons!
+-speak Matt  
+You can go back if you want to.
+-speak Ashley 
+Yeah, can I go back since we have ten minutes and go get some torture weapons?
+-speak Liam 
+What's it for?!
+-speak Matt  
+This would be pretty quick, you have to grab some things as everyone is heading up the stairs.
+-speak Liam 
+Who's your deity?
+Harvey Keitel?
+-speak Ashley 
+No! Just for Grog!
+-speak Matt  
+Pike, the war priest, who has been guided by light of Sarenrae.
+Once a gnome of light and joy, who went to the edge of death and returned. 
+Who went to sea, traveled with rough and tumble folks.
+Has returned now with her mind bent on war, vengeance.
+-speak Travis 
+Yeah!
+-speak Matt  
+And what it means to win a battle.
+Through force if necessary.
+You gather up what appear to be two large, bladed hooks, a lengthy hand-razor.
+-speak Marisha 
+You're going to go Sweeney Todd all up in this shit.
+-speak Liam 
+A Milli Vanilli album, and…
+-speak Matt  
+A small bag of various instruments that are rusty and nasty.
+-speak Laura 
+Ew.
+-speak Matt  
+It's all you have time to grab before you have to bolt back up to get to the rest.
+And we'll pick up the next game, as you guys head up the stairs back into the hallway.
+In the center of the Emberhold duergar stronghold, Lady Kima released and a very tentative alliance.
+So, thank you guys all for watching!
+-speak Marisha 
+Pain in the ass, Lady Kima.
+Pain in my ass.
+-end 

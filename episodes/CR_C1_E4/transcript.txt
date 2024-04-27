@@ -1,0 +1,3519 @@
+
+(all groan)
+
+-speak Matt 
+Damn guys, well done.
+-speak Taliesin 
+I'm sleeping.
+-speak Sam 
+Oh, Percy's dead, hashtag save Percy.
+-speak Laura 
+I want more chicken.
+-speak Matt 
+Before we finish, I'd say go ahead and throw a heal up on him.
+-speak Marisha 
+Oh yeah.
+-speak Taliesin 
+Thank you.
+-speak Ashley 
+Good plan.
+-speak Matt 
+It's nasty, man.
+You guys picked that, by the way.
+-speak Laura 
+Oh seriously?
+-speak Travis 
+They did?
+You dicks!
+-speak Taliesin 
+You suck.
+-speak Zac 
+That was the chat room.
+-speak Orion 
+Try harder next time.
+-speak Matt 
+We'll be doing more of those as time goes on.
+Not all the time, but whenever I have the opportunity to put it in there, I'm gonna start asking for you guys to help me figure out what to throw at these adventurers.
+-speak Liam 
+You sadists.
+(all laugh)
+
+-speak Zac 
+We shouldn't tell them the other options, should we, just in case we wanna save them.
+-speak Matt 
+Oh no, they'll come back in, don't worry.
+-speak Ashley 
+25.
+-speak Taliesin 
+Oh wow, I feel much better.
+Announcements and Break
+
+-speak Zac 
+So you guys, we're gonna be doing a Q and A.
+-speak Matt 
+Yeah, for anyone who wants to stay over.
+-speak Zac 
+Anyone who wants to stick around, the audience has a ton of questions for you guys.
+For the audience, it's a sub-only Q and A, so if you're been wondering whether or not you should sub, let me give you some reasons why.
+Number one, you can ask these guys questions in a little bit.
+Number two, every 50 subs, we're giving away tabletop promo kits that are like $250 worth of special stuff, and we will ship that internationally, doesn't matter.
+Even in Antarctica.
+We want someone in Antarctica to do tabletop day, do you know anyone?
+-speak Matt 
+I don't.
+-speak Zac 
+We had someone last year.
+-speak Matt 
+Well shit, we gotta reach out then.
+-speak Zac 
+They're gone, they were like the only people there, and they're gone.
+-speak Matt 
+There's nobody there left, they were the last bastion.
+Well, somebody needs to move to Antarctica in the next few days and let us know, so then we can totally use that.
+-speak Zac 
+We also do a Minecraft server, for subs only, but if you want in on that, there's no automated message for that server info, so just make sure and message the Geek & Sundry account, and we'll get you that sub IP address for the Minecraft server.
+I know we have more, there's lots more stuff.
+We do some other sub-only chats throughout the week.
+lots of emotes, other fun stuff.
+But we're gonna go ahead and roll some videos while we get set up for the Q and A.
+This was a lot of fun, oh!
+I would like to challenge you guys to do a quick little donation drive for the charity that you guys support.
+-speak Matt 
+Yeah, for 826LA.
+Had it going up in the chat room, if you have the opportunity, you wanna help support these children getting side educations and tutoring.
+-speak Zac 
+You guys wanna tell them about, just to get them psyched up for it?
+'Cause we can get that command going.
+-speak Marisha 
+Yeah, 826LA, they're a non-profit organization that helps primarily with literacy and creative story children for children between the ages of like five and 18.
+They have a really great young authors book that you can buy that's a collection of all of the kids' book, and you can also go and check out the time travel mart, there's one in Echo Park and then there's also one in Marina Del Rey.
+But you should just google 826, 'cause I know there's one in Seattle, I know there's one in like Atlanta.
+New York, San Francisco.
+There might be an 826 in your city.
+-speak Liam 
+826LA probably, right?
+-speak Marisha 
+826LA is who we're raising money for.
+But yeah all of the 826 store fronts are a little bit different, depending on where you go.
+They're super cool.
+-speak Matt 
+Guys, please, check it out, it's awesome.
+It's a good group of people, what they do is fantastic.
+If you have the opportunity please do, go ahead and donate to the charity.
+-speak Matt 
+Well, thank you guys so much for tuning in for the fourth episode of Critical Role, with the grand return of Pike, our cleric.
+(all laugh)
+
+-speak Matt 
+Necessary.
+Glad to have you back, I'm sure everyone here is glad to have the healer back.
+-speak Laura 
+Especially today.
+-speak Taliesin 
+Very happy today.
+-speak Matt 
+And a surprise return of Laura, so.
+-speak Laura 
+What a time to join the game.
+-speak Matt 
+Heck yeah.
+All right guys, well, we're gonna take a little bit to set up for the Q and A.
+Those who can stay, feel free to, those who can't, totally understand.
+We have kids and families to get to.
+Those who can will be here for the Q and A for the next hour or so.
+-speak Zac 
+One more thing, just so they know we're following through.
+We have the picture for you guys to sign.
+So Niareth won this, when we reached 1,000 subs, so I think Pike is all that's left for that.
+-speak Matt 
+Pike is left to sign this Player's Handbook.
+-speak Sam 
+I haven't signed it.
+-speak Zac 
+And then we've got the picture.
+So we'll pass that around while we're doing the set up.
+-speak Matt 
+Do any of you have the gold marker?
+-speak Zac 
+I'll find it.
+-speak Matt 
+All right, cool.
+Yeah guys we're gonna go ahead and set up for this, we'll see you in a little bit for the Q and A, thank you everyone for watching.
+Thanks guys.
+Awesome day at Critical Role, thanks.
+-speak Ashley 
+Bye!
+-speak Wil 
+Hey nerds, I'm Wil Wheaton, I know right?
+And guess what?
+It is back.
+International Tabletop Day has returned, this year on April 11th.
+What is that, you say?
+What is Tabletop Day?
+Well, if you don't know, then shame on you.
+International Tabletop Day is a worldwide celebration dedicated to the tabletop games we love to play with the people we love.
+People we like, people we've never even met before, it doesn't matter, last year we had over 3,000 registered events across seven continents and over 80 countries, that is amazing!
+But this year we're going to make it even bigger.
+-speak Wil 
+Will Wheaton, how can we make it even bigger than last year?
+-speak Wil 
+That's what she said.
+Start now.
+Trend #TabletopDay on Twitter, because that was awesome.
+Broadcast your plans on the internet, make a video, share pictures, start a blog, create a dating profile for other sexy gamers in your area, whatever you want.
+Celebrate it in your own way, but we wanna hear from you.
+Be sure to use #TabletopDay, or @TabletopDay to let us know.
+It is up to you, world.
+Visit TabletopDay.
+com to register your event, or find one near you.
+You can also download exclusive content and check out some of our favorite games.
+We will be streaming our own live event, here in Los Angeles for you to watch.
+And there will be more on that soon.
+You love tabletop games, and we love you, so join us in the global celebration, on April 11th.
+Play more games.
+Hey everybody, I'm Wil Wheaton, and I am coming to you semi-live from the Twitch TV set here at the Geek & Sundry stages in beautiful downtown Burbank, California.
+I am here to tell you everything you ever wanted to know about Tabletop's RPG show, coming this June, but were afraid to ask.
+Or have been asking for close to a year and I've been saying, 
+-speak Wil 
+We'll tell you at some point in the future.
+-speak Wil 
+You can consider this the big announcement.
+It was incredibly difficult to cast this show.
+We needed people who were very comfortable improvising, who had experience playing role playing games, and who were available when we planned to shoot the show.
+It was surprisingly difficult to get a pool of people who fit all of those criteria, and choose the most awesome among them.
+So your cast playing in this wonderful show are: Yuri Lowenthal, Laura Bailey, Hank Green, and Alison Haislip.
+I'm really excited to have these people all together.
+They're all my friends, they are all wonderful storytellers, and they are going to be a tremendous party of adventurers.
+I'm only gonna try to kill them a little bit.
+The most frequently asked question since I announced that there was going to be a Tabletop RPG show is, hey Wil Wheaton!
+Why are you so awesome?
+The second most frequently asked question is, what system are you using to power this game?
+First and foremost, I needed a system that was going to support the way I play roleplaying games, and that is telling a story collaboratively with a group of players with me as the GM.
+I looked at some very well known systems like Dungeons & Dragons, and Savage Worlds, I looked at systems that I love, like Fate Core, and I even looked at the True 20, a d20 modern system.
+And I really wanted to use something that was released by an independent publisher.
+I wanted to bring something to the forefront of the roleplaying world that maybe not as many people are familiar with as I want them to be.
+But I wanna play the way that I played when I was falling in love with roleplaying games when I was a kid.
+I wanna be able to sit around on a couch and some chairs with my friends, not have to worry about a map on a table in front of us, and just work together to use our imaginations to tell a story.
+But there's a system that I really love that's elegant, it's easy to learn, it's easy to teach, it's very easy to understand, and it really just gets out of the way when you want to tell a story together.
+And that is the Adventure Game Engine that Green Ronin Publishing used to drive the Dragon Age tabletop roleplaying game.
+I asked the developer three years ago to please make generic, so that we can build a setting and put on top of it.
+They said actually this is something we really wanna do.
+And it's come together.
+We have been able to work together with Green Ronin to develop the fantasy Adventure Game Engine.
+This is gonna take a lot of the things you know from the Dragon Age RPG, and put it all together to support our world, which I have had the best time creating.
+I sat down three months ago with some amazing writers, and just started brainstorming about what kind of world we wanted to explore.
+But what I kept coming back to is, I love science fiction, and I love fantasy.
+Why not put them together?
+Why not build a world that is inspired by the 1978 Heavy Metal movie, and 1980's amazing Saturday morning cartoon show, Thundarr the Barbarian.
+I thought it would be great for characters to encounter goblinoid kind of creatures, and instead of them using crossbows, they're using laser rifles.
+I've got it all worked out, we have a huge team of writers that put all this together that built an amazing codex that gave terrific logic to all of these decisions that we made.
+We're not gonna tell you what they are.
+You may discover some of them during the course of the season.
+So what is the name of this incredible world?
+The title of our show is Titansgrave: The Ashes of Valkana.
+You can sort of come up with your own ideas about what those words mean.
+I know, but I'm not telling.
+'Cause that's not how the Wheaton talks.
+Titansgrave: The Ashes of Valkana will premiere right here at Geekandsundry.
+com on June 2nd.
+For those of you not in America, Titansgrave: The Ashes of Valkana will premiere right here on Geek & Sundry on two June.
+So I hope that you're as excited about this as I am, and I hope that you will tune in, and then watch us for ten straight weeks of incredible high adventure story telling, and until then, play more games.
+-speak Ivan 
+Hey guys, Ivan here, the host of Game the Game, on Geek & Sundry's new Twitch channel.
+I'm here with Becca, Ify, and Hector, to get you excited about International Tabletop Day.
+So International Tabletop Day is going to be on April 11th, and all of our friends at AEG have brought us an amazing edition of Love Letter in order to play with you today.
+That's right nerds.
+It's Batman Love Letter.
+Now Batman Love Letter is a game of logic, deduction, and risk, in which you try to capture or hold the highest value card in your hand by the end of the rounds.
+In the meantime we'll all be playing cards in order to eliminate each other.
+But whoever has the highest-value card at the end of the round will win a token.
+So who will be the greatest detective in all of Gotham?
+It's gonna be Batman.
+-speak Becca 
+Oh, no, no, no, no, no, it'll be Poison Ivy.
+-speak Ify 
+You guys both are wrong, it's going to be Bane.
+-speak Hector 
+It's probably not gonna be Robin.
+(all laugh)
+
+-speak Ivan 
+Now, normally we will play until seven tokens, but for the purposes of this video, we'll play until three.
+Whoever gets three is gonna win.
+Let's play.
+Pass out your cards Becca, one to each.
+-speak Becca 
+Burn the first?
+-speak Ivan 
+Burn the first.
+You have to burn a card before you even begin, because there is a mystery card that isn't in play normally.
+So keep that in mind when you're playing.
+-speak Hector 
+Burning a card, who are we playing with?
+The Batman villain Firefly?
+(all laugh)
+
+-speak Ify 
+Leave the jokes to me, Robin.
+-speak Hector 
+All right, fine.
+-speak Ify 
+Just so you know, I'm doing a set at the comedy store, and I need three friends to show up.
+-speak Hector 
+What night is it?
+I'm busy that night.
+-speak Ify 
+I didn't even give you the time yet.
+-speak Ivan 
+Hector, why don't you go first?
+-speak Hector 
+Robin.
+-speak Ivan 
+Robin, the man wonder.
+-speak Hector 
+Okay, here we go.
+I'm gonna play Robin.
+I've got protection for my entire next round.
+-speak Ivan 
+Right.
+So every single time you play a card, normally it has an action that is attached to it.
+So I'm playing Catwoman, who allows me to look at another player's hand.
+Poison Ivy?
+Noted.
+Now it's your turn.
+-speak Becca 
+It's my turn, so I draw a card.
+I'm gonna hang on to that one, maybe.
+And I also play Catwoman.
+And I'm going to look at Bane's hand.
+That's terrible.
+-speak Ify 
+You make fun of me but you lack the understanding of my strategy.
+I will play the Batman.
+I can't guess Robin's because he has immunity, but I can guess Poison Ivy's.
+-speak Ivan 
+If he can guess correctly, not only does he get a token, but she's eliminated from the round, and now there's only three of us available.
+So it's one step closer to victory.
+What's your guess?
+-speak Ify 
+My guess is Two-Face.
+-speak Becca 
+Incorrect.
+-speak Ivan 
+Robin?
+-speak Hector 
+Thanks, Batman.
+All right, here we go.
+I'm also gonna play Batman.
+I'm gonna guess that Poison Ivy has the Joker card.
+-speak Becca 
+Incorrect.
+-speak Hector 
+Darn it.
+Jiminey Jillickers.
+-speak Becca 
+Now you have to do something terribly embarrassing, right?
+Or is that just Half Scrolls?
+-speak Hector 
+Like maybe wear a Robin costume, cool, sounds good.
+Oh, already doing it, great.
+So great.
+-speak Ivan 
+I have two cards and I'm going to also play the Batman.
+You've been picked on a lot, Poison Ivy.
+-speak Becca 
+I've been picked on so much.
+-speak Ivan 
+You played a Batman.
+-speak Hector 
+Get him Batman.
+-speak Ivan 
+I'm gonna guess you've got a Poison Ivy.
+-speak Ify 
+You're wrong!
+-speak Ivan 
+(groans)
+-speak Ify 
+No survivors!
+-speak Ivan 
+(laughs) All right, I'm done, go ahead, Poison Ivy.
+-speak Becca 
+If anyone's wondering why so many Batman cards are being drawn, it's because there are five in the deck.
+There's either one or two of all the other characters.
+So I draw, and I will play, myself, Poison Ivy.
+This card says, choose any player including yourself to discard his or her hand, and draw a new card.
+Ivan, you look pretty confident.
+Discard.
+-speak Ivan 
+Discard, all right.
+-speak Becca 
+And draw a new hand.
+-speak Ivan 
+Had a Two-Face.
+-speak Ify 
+It's time for me to draw.
+-speak Ivan 
+I have a hard time thinking that we're gonna get anything out of you in that mask.
+-speak Ify 
+Oh, you'll see.
+-speak Becca 
+I'm sorry, what?
+-speak Ify 
+You'll see.
+-speak Becca 
+What did he say?
+-speak Ivan 
+I think it's something about seals?
+-speak Becca 
+Did you need help opening a seal?
+-speak Ify 
+I'll play the Batman, and I will guess Becca again, she has the Harley Quinn.
+-speak Becca 
+Incorrect.
+-speak Hector 
+Geez, we're terrible at this game.
+-speak Ivan 
+We're really, really bad.
+-speak Becca 
+I'm great at it.
+-speak Ify 
+Sooner or later.
+-speak Ivan 
+He's in there, or he's there.
+Not there, there.
+Not there, there.
+-speak Becca 
+There?
+-speak Ivan 
+There.
+-speak Becca 
+Where?
+-speak Hector 
+I'm going to play my own version of Bane.
+That was terrible.
+-speak Becca 
+You don't have the mask.
+-speak Hector 
+Myself and another player can secretly compare hands, and whichever hand is lowest is out.
+So I'm gunning for you, Poison Ivy.
+Because you kissed me that one time, and then you didn't wanna hang out with me afterwards, like that was really mean, so.
+-speak Becca 
+I had ulterior motives.
+-speak Ivan 
+I'm not looking, Batman's not looking.
+-speak Becca 
+I'm out of the game.
+-speak Hector 
+You're out, yes!
+-speak Becca 
+I had myself again.
+-speak Ivan 
+Which means you have a higher numbered card.
+-speak Hector 
+Yes, that is correct.
+-speak Ivan 
+Higher than five.
+-speak Hector 
+Good detective work, Batman.
+Real genius, this one.
+-speak Ivan 
+All right.
+This is the last card of the deck, which means after this, whoever has the highest card, wins.
+-speak Hector 
+Duh, Batman, we know, God.
+-speak Ivan 
+I'm playing Robin, Robin.
+All right?
+-speak Becca 
+That makes me think he has the Joker.
+-speak Ivan 
+Well, we'll find out won't we?
+What do you got?
+-speak Ify 
+I had myself.
+-speak Hector 
+Boom, Harley Quinn beats Bane.
+-speak Ivan 
+And the Joker beats Harley Quinn.
+-speak Hector 
+Darn it.
+-speak Ivan 
+I got you, Joker.
+-speak Becca 
+Take your token.
+-speak Ivan 
+I will take my narcissistic token that has my symbol on it.
+-speak Hector 
+This is just what Batman needed, an ego boost.
+Batman needed an ego boost, great.
+-speak Ify 
+Robin.
+-speak Becca 
+The deb chef, the deb chef.
+-speak Hector 
+You seem to live with a multi billionaire, yet can't afford contacts.
+What's the deal with that?
+-speak Becca 
+No burn card, no burn card.
+-speak Ivan 
+Oh, great.
+So since I won the last round, I get to play first, because I am the greatest detective.
+And I got a Catwoman, which means I think I'm interested in Bane's hand.
+Whatcha got, Bane?
+You got crap, is what he's got.
+-speak Becca 
+Choose any player including yourself to discard his or her hand and draw a new card.
+Hector, burn your card.
+-speak Hector 
+You got it, but it's Robin, and I'm not gonna tell you again.
+All right, I had Batman, which is cool, because he's the least value card in the game, so that's just gonna help me out, so I'm just gonna grab a new card.
+-speak Ify 
+All right, I'm going to draw.
+Draw a card.
+Oof, oof, oof, such a good card.
+-speak Ivan 
+Who are you gonna use it on, Bane?
+-speak Becca 
+It's probably Batman.
+-speak Ify 
+I'm gonna do a Batman card.
+Robin, do you have Poison Ivy?
+-speak Hector 
+(laughs) No.
+-speak Ify 
+My turn is over.
+-speak Hector 
+All right, it's my turn.
+Dick Grayson and Jason Todd, Tim Drake, Stephanie Brown, Carrie Kelley, John Blake, help me.
+Okay, here we go.
+My girl Selina Kyle, Catwoman, bam.
+And I wanna look at Bane's hand.
+Show me back here buddy, show me back here, whatcha got?
+-speak Ify 
+Got this.
+-speak Hector 
+Okay, good to know.
+-speak Ivan 
+All right.
+I'm going to just play my ward Robin.
+-speak Hector 
+You're welcome.
+-speak Ivan 
+Grant me immunity.
+-speak Becca 
+Batman.
+I'm gonna guess that Bane has Poison Ivy.
+-speak Ify 
+You're wrong!
+-speak Becca 
+You'll never have Poison Ivy.
+-speak Ify 
+I'll use Catwoman.
+-speak Becca 
+To look at another player's hands.
+-speak Hector 
+Pause for error.
+-speak Ify 
+I will look at Poison Ivy's hand.
+-speak Hector 
+Don't do it Bane, don't fall into that venus fly trap.
+Get it, 'cause it's a trap, 'cause it's.
+It's a plant based pun.
+-speak Ivan 
+Good job.
+-speak Ify 
+Ah.
+-speak Ivan 
+There it is.
+-speak Ify 
+Ah.
+Ah!
+-speak Ivan 
+Robin, Robin go ahead.
+-speak Hector 
+Okay, here we go.
+-speak Ivan 
+What's it gonna be?
+-speak Hector 
+I'm gonna play Batman.
+And I'm gonna guess that Bane Has a Batman card.
+-speak Ify 
+You are wrong.
+-speak Ivan 
+For once he doesn't have a Batman card.
+-speak Ify 
+I want to point out to the watchers.
+Hector looked at my hand.
+-speak Hector 
+Oh I did, that's true.
+-speak Ify 
+And saw me play the card.
+He knew exactly which card was in my hand.
+And chose the wrong card.
+-speak Ivan 
+This is why you're the boy wonder, and not Batman.
+-speak Hector 
+I'd like to point out, that my chest has made me very uncomfortable, and I'm clearly out of my element, and dressing me up as Robin was a good call everybody, good call everyone.
+Good call guys.
+Wow.
+-speak Ify 
+I really thought that was game over for me.
+I was wrong.
+-speak Hector 
+Oh my God.
+Your annoying voice has really gotten into my head.
+-speak Becca 
+That's his greatest power.
+-speak Ivan 
+I also have the Batman.
+So we know he doesn't have a Batman, you know what it is.
+Thanks Robin.
+Useless.
+So I'm gonna guess that Bane has Harley Quinn.
+-speak Ify 
+You are wrong!
+-speak Ivan 
+Damn.
+I tried.
+All the clues are there, just one missing element.
+-speak Becca 
+I played Batman, I'm going to guess that Bane has Two-Face.
+-speak Ify 
+You are wrong as well.
+-speak Ivan 
+He has the Joker then, or something.
+How can you throw that many Batmans at a single man, and not get what he's got in his hand.
+-speak Hector 
+He really did break you, he really did.
+And now I'm Nightwing, great, that's how long that took.
+-speak Ify 
+I'm going to say.
+Two-Face can trade hands with Becca.
+-speak Becca 
+(sighs)
+-speak Ivan 
+That's where it was.
+Robin?
+-speak Hector 
+It's my turn.
+-speak Ivan 
+Diddly fingers.
+-speak Hector 
+You guys think you're gonna win this?
+You don't know Dick.
+Greyson, because that's my real name.
+I'm gonna play Bane.
+-speak Becca 
+Bane-in it up.
+-speak Ivan 
+What's up, who's gonna compare?
+-speak Hector 
+It's gonna be you, Batman.
+Let's see what you got, old chum.
+Oh hoh, bye, you're out.
+(laughs)
+
+-speak Ivan 
+Batman card, so.
+Batman's out.
+-speak Becca 
+Batman's the worst.
+-speak Hector 
+Oh my gosh.
+-speak Ivan 
+How's it feel to knock a man down from his tower?
+-speak Hector 
+It feels great.
+-speak Ivan 
+Right, okay.
+-speak Hector 
+How's it feel for not giving me–
+-speak Marisha 
+Great for my back.
+-speak Zac 
+We're live.
+Q & A Session
+
+-speak Matt 
+What's up everyone, we got this camera right here in the middle, right?
+-speak Ashley 
+Hello.
+-speak Liam 
+Oh, hi.
+-speak Matt 
+Thank you guys for watching.
+Hope you enjoyed yourselves.
+These guys all being crazy players, and kicking ass, and occasionally getting knocked unconscious, and nearly eaten.
+-speak Zac 
+Any mods want to put this in sub mode for us?
+Let's do sub mode.
+-speak Marisha 
+So you have to sub.
+Bye everybody who's not a sub.
+-speak Ashley 
+Bye!
+-speak Zac 
+They can still watch, they just can't ask questions.
+-speak Orion 
+Oh.
+Okay.
+-speak Marisha 
+Well, your word is not important.
+-speak Liam 
+Laura had to bugger out.
+-speak Ashley 
+Wait, is that a little icon of you?
+-speak Matt 
+Yeah.
+-speak Ashley 
+What?
+-speak Orion 
+Yeah, he's an emoji now.
+-speak Ashley 
+You're an emoji?
+-speak Matt 
+It's weird.
+-speak Taliesin 
+He's made it.
+-speak Ashley 
+You've made it.
+-speak Matt 
+All right, so how are we doing the questions?
+Are we just picking as we go?
+-speak Zac 
+You can moderate yourselves.
+-speak Ashley 
+Laura and Sam did leave.
+-speak Matt 
+Unfortunately.
+-speak Ashley 
+Laura had to go to a thing, and Sam had to go to a thing.
+-speak Matt 
+Sam's thing is kids.
+Sam has two kids.
+Liam has two kids, but he–
+-speak Ashley 
+Hey look at–
+(all laugh)
+
+-speak Matt 
+I am so sorry, everyone.
+-speak Liam 
+I mean he's pretty good at Dungeon Mastering, right?
+-speak Ashley 
+Yeah, he's pretty good.
+-speak Orion 
+Someone asked what alignment we are.
+First question, what alignment are our characters?
+-speak Marisha 
+We're all good.
+-speak Liam 
+Chaotic good.
+-speak Ashley 
+Chaotic good.
+-speak Orion 
+Tiberius is chaotic good.
+-speak Travis 
+Chaotic neutral, bitches.
+-speak Liam 
+What was your first roleplaying experience?
+I saw that go through.
+-speak Taliesin 
+GURPS in high school.
+-speak All 
+GURPS.
+-speak Matt 
+The second edition of Dungeons & Dragons in high school.
+-speak Travis 
+This.
+-speak Ashley 
+Was my first, yeah.
+-speak Liam 
+This guy just started.
+I did AD&D in high school, and I DM'ed while playing, which is totally cheating.
+This is the first pure experience I've had.
+-speak Orion 
+This is my first campaign also.
+I was a Magic the Gathering fan.
+-speak Marisha 
+I actually had Matt as my first DM, way before All this started.
+So I played a few other games, and then, now I'm back to the OG master.
+-speak Liam 
+I saw, when and how did you all start playing together?
+The reason this started is because, I directed Matt as Leon Kennedy in Resident Evil 6, and every time he came in he would say, 
+-speak Liam 
+hey, you know, I'm running a game, you can come in and just do a one off.
+-speak Liam 
+And I was like, 
+-speak Liam 
+oh, I got babies, I can't do that, I can't do that, I can't do that.
+-speak Liam 
+And then finally once for my birthday I thought, I can do a one off, it'll be the only time we'll do it, just see how it goes.
+Scanlan and I did a podcast together, and every week we would do some new thing, and we're like fuck it, let's play D&D.
+We all did it and everybody got snake bit, and it's been the best thing that ever happened.
+To me at least.
+-speak Ashley 
+Yup.
+-speak Orion 
+Our character alignments do matter on how we play the characters, an earlier question.
+-speak Matt 
+Yeah, they do definitely matter.
+A couple quick answers here.
+The conversion from Pathfinder to Fifth Edition was decided because, as we're going on to this show, and we had so many players, combat tends to get bogged down, and a lot of floating modifiers in Pathfinder.
+For large groups like this it's difficult to keep it flowing and moving.
+I felt once I had taken a look at Fifth Edition, that the combat system was a little more simplified, and a little easier to make freeform and just roll with it.
+So that was a much better decision.
+Plus Dungeons & Dragons generally has a better name recognition than Pathfinder, so when you're putting a show out there, it's probably easier to do with very minimal transition, it took a little bit of customizing, like for Percy's gunslinger.
+We just had to customize it, we made it ourselves.
+We sat down.
+-speak Taliesin 
+Took a day.
+-speak Matt 
+Took a day, and we worked out, some of the stuff we wanted to keep, some of the things that didn't break it, we wanted to make it interesting.
+It is a martial archetype for the fighter class.
+So it does give the bonus a fighter class does.
+Nothing is too overpowered about it, other than just having custom weapons, and some cool grit-based abilities that we kinda transferred over from Pathfinder.
+It's interesting.
+It's a good challenge to see how it works out.
+-speak Taliesin 
+It is, it's working out.
+I'm digging it.
+I keep reading and finding things I'm not doing that could be more interesting, so.
+-speak Matt 
+Keeping your hand and firing into the mouth of a bulette is fun.
+-speak Taliesin 
+That felt great.
+-speak Liam 
+Travis, everybody's asking about your shirt.
+-speak Travis 
+Oh.
+I think it's a website called redbubble.
+com?
+I just googled Grog, and there was that.
+-speak Taliesin 
+Just google Grog.
+-speak Travis 
+I needed it right away.
+Right, right.
+-speak Liam 
+I'm also seeing, why did we switch from Pathfinder to Fifth Edition?
+-speak Matt 
+I answered that a second ago.
+-speak Liam 
+Oh, you did?
+-speak Matt 
+Yeah, the idea being that the reason we switched was it was easier for large-scale combat, and the system was a little more simplified, and I felt for such a large party it'd be easier to do.
+Plus character creation for any guests we have in the future, so that was the main reason.
+I love Pathfinder, but at this size, it's good.
+Answering your earlier question too, I saw someone ask, a good party size.
+Legitimately, my preference is between four and six players.
+This works because they're amazing players, and because we keep it very freeform, and not getting bogged down in minutia too often.
+The four to six players I think is a good sweet spot.
+-speak Marisha 
+I see, does Keyleth have limitations on what animals she can transform into?
+Yeah, for the most part I can only transform into beasts and I have to be under a certain challenge rating.
+So right now, at my level, I can only turn into beasts that are a challenge reading of three or lower.
+-speak Matt 
+A third of your druid level, right?
+-speak Marisha 
+Yeah, a third of my druid level which is nine right now.
+But for the most part I can change into almost anything as long as it's under a challenge rating of three.
+-speak Matt 
+Pike, how do you feel about Scanlan?
+Do you return his affections?
+-speak Ashley 
+Oh, well.
+I'm on the fence about him.
+He's really pretty great, but I don't know.
+I'm not really sold yet.
+-speak Marisha 
+You know Pike, I feel like we haven't actually girl talked about this.
+-speak Ashley 
+I know, we never girl talked about it.
+-speak Marisha 
+We should.
+-speak Ashley 
+I know, we should talk.
+I just, I really like him, I think he's really funny.
+I really the fact that he's a musician, but.
+-speak Marisha 
+That's hot.
+-speak Ashley 
+I don't know, I'm not really sold on him yet.
+-speak Marisha 
+I'm just concerned if he could treat you well.
+-speak Ashley 
+Oh no, you know what?
+-speak Marisha 
+He's got bad habits.
+-speak Ashley 
+He likes to frequent brothels and things like that, which, you know.
+I'd wanna give him his freedom and his space.
+I don't know if I'm into it.
+-speak Taliesin 
+If I say it so you can understand it, what's the point?
+-speak Liam 
+Someone's asking if we like presents.
+I think we'd all like fan art.
+-speak Matt 
+Fan art's awesome, we love it.
+-speak Liam 
+Immortalize our shitheadedness, that'd be good.
+-speak Marisha 
+Oh, it's true.
+-speak Ashley 
+Another couple people on there were asking about my ears.
+And I really like supporting small businesses.
+And there's a store on Etsy called Tiny Tangerines, and she makes these by hand.
+And makes like deer, and bears, she makes a ton of stuff.
+-speak Matt 
+That's really cute.
+-speak Ashley 
+Check her out.
+-speak Liam 
+We still got that little one.
+Socrates asked what was a favorite moment before we started streaming the show?
+Our first game was pretty amazing.
+-speak Marisha 
+Our first game was great, I've got some good memories from that one.
+-speak Liam 
+Most of us, I was giggling uncontrollably, I couldn't believe we were doing it.
+And just watching my friends, who I work with all the time, just dropping into character, there was no like, oh, let's see, what will I do, what am I doing?
+I will move, I will roll.
+Like Bailey, Bailey dropped into character from the get-go, and was a ringer.
+But the moment I was thinking of was when Pike died.
+Pike died.
+-speak Matt 
+Like died died.
+-speak Liam 
+Shortly before we switched from private to public.
+It was emotional.
+A couple people started crying, I teared up.
+We put two and a half years into this, and we're all very connected to it.
+I'm not gonna get into it, but I've had a hard couple of years personally, everything's fine, but this was like therapy for me.
+And to see one of my friends go down?
+-speak Ashley 
+It was sad.
+-speak Liam 
+It was fucking emotional.
+-speak Marisha 
+I don't think a few people were crying, I think everyone was crying.
+-speak Orion 
+I was crying.
+-speak Ashley 
+I was definitely crying.
+I was like, 
+-speak Ashley 
+no, I love doing this so much!
+-speak Ashley 
+I don't wanna, I mean, when you spend that much time with people, over two and a half years, you get so attached, and attached to characters.
+-speak Marisha 
+We know these characters almost as well as we know each other now.
+-speak Matt 
+Factoids, the tower you made for us in Minecraft is awesome.
+Seriously, well done, look at the pictures, it's great, we're gonna have to actually go through it.
+-speak Marisha 
+Wait, we have a tower?
+-speak Matt 
+A guy built an entire tower for the group.
+-speak Ashley 
+No way!
+-speak Marisha 
+They built a castle Greyskull?
+-speak Matt 
+Essentially, on the Geek & Sundry Minecraft server.
+No.
+Wait no I did see that!
+It was huge.
+-speak Zac 
+It towers over the entire –
+-speak Liam 
+Of what?
+-speak Matt 
+Of him!
+Someone made a sculpture of–.
+Did you make that or somebody else?
+You made that?
+-speak Zac 
+Oh no.
+-speak Matt 
+Okay, somebody else made it for you.
+-speak Liam 
+Do we have $50 in the budget to go on eBay and get a Castle of Greyskull set?
+Put it on the set somewhere?
+Let's do that.
+-speak Matt 
+There we go.
+I see a couple quick questions.
+-speak Orion 
+To answer your question, there is an origin of Tiberius, fully written.
+I won't say it all right now, but he comes from a political family, and there's a whole bunch of layers to him.
+He is a thought-out character.
+The buffoonery is half-planned.
+-speak Marisha 
+I mean, we're all really deep, thought out characters.
+-speak Orion 
+Well, they asked if I actually thought out a story for him.
+He does have a thing for this character named Allura.
+-speak Matt 
+Yeah, Arcanist Allura, the one that actually sent them on this mission, he has kind of a thing for.
+-speak Orion 
+She's super awesome.
+Hot, I think she's hot.
+-speak Matt 
+She's pretty hot.
+-speak Ashley 
+Super hot.
+-speak Matt 
+The gunslinger class info, I actually posted on Twitter a few days ago, it's in my dropbox if you look through my Twitter.
+It's on there, otherwise, we'll probably put it up on the website, when all the website stuff is up there.
+I'm happy to release it now.
+It's pretty balanced, it's fun.
+Might have some tweaks down the road, depending on how things play out.
+You should go to my Twitter, you'll find it there.
+-speak Travis 
+We're gonna have a website with all our characters.
+-speak Liam 
+Yeah, we're working towards that.
+-speak Matt 
+Working on it, yeah.
+Like a lot of things right now, it's a work in progress.
+-speak Liam 
+Someone asked what kind of food would everyone like?
+-speak Orion 
+Ooh, like Thai food.
+-speak Liam 
+I like Indian.
+-speak Matt 
+Ooh, Indian is good.
+-speak Ashley 
+I really noticed–
+-speak Zac 
+Let them know not to order food.
+-speak Liam 
+Don't, that's a terrible idea.
+-speak Orion 
+We just had a bunch of chicken.
+-speak Marisha 
+Oh you mean like right now?
+Yeah, don't do it right now.
+-speak Zac 
+If you tell them what you want, all of a sudden I'll get a call, like, 
+-speak Zac 
+your food is on the way!
+-speak Marisha 
+Yeah, no, not right now, maybe next week.
+-speak Travis 
+Matt, you're going to Wizard World in Philly.
+But we will not be joining because we don't own a private fucking plane.
+-speak Marisha 
+But I'll be there.
+Is anybody else gonna be there?
+-speak Travis 
+Oh really?
+-speak Marisha 
+We'll be there.
+-speak Liam 
+Somebody asked something, like, what do we hope is the result of this show?
+I can't remember the wording.
+Obviously we're doing this because we love each other and we're having fun together, but I also hope, D&D has been, its entire history has been like, 
+-speak Liam 
+oh, it's this weird thing that guys do with dice in a room.
+-speak Liam 
+Anyone can do this, I love video games, I work in video games, but D&D has changed my life.
+It is social, it is person to person, it is real, because it's people in a room doing shit together, and that's kind of lacking a little bit in our world, and I would say find some friends.
+I mean, I love that there are sort of online tools to play with people across the country, but if you can find three or four people in your town to do this, I'd say do it.
+Do it.
+-speak Travis 
+Yeah, do it.
+-speak Marisha 
+There's something really amazing about the fact that we're all essentially kind of building and communally developing a story together, and that's something that not a whole lot of things can grant you, and we don't really get in today's society much.
+We're all kinda creating this as a thing.
+And I think it's good that we're like, hey, this is socially acceptable.
+D&D's cool, everyone should play D&D.
+-speak Matt 
+Actually, the IT Crowd episode of D&D is one of the best on camera examples of a D&D game night thing.
+-speak Orion 
+That is an awesome episode.
+-speak Matt 
+Fucking hilarious, and a great, truncated version of this is kinda what the game is.
+So good on you.
+-speak Orion 
+Cut to them weeping.
+-speak Taliesin 
+So many questions going so quickly.
+-speak Matt 
+I know.
+-speak Ashley 
+I want a Grog shirt that says 
+-speak Ashley 
+do it.
+-speak Taliesin 
+And the kitty shirts were an accident.
+This was not planned.
+-speak Marisha 
+Oh yeah, our kitty shirts.
+-speak Liam 
+Someone's saying what edition to start with?
+I would start with the most recent, because you know they're gonna keep updating it over the years.
+-speak Matt 
+Fifth is great, Fifth is a great entry point.
+-speak Liam 
+It's really loose.
+I feel like all of us felt like, we were doing Pathfinder, and… Fucking loved it, otherwise we wouldn't be doing it, but it was really intricate, and we were doing it every six or seven weeks, when we were off-air, so.
+We felt like the rules were really complicated and we'd lose track of it.
+We loved doing it, obviously, but Fifth Edition is really fast and loose.
+I recommend that.
+And Travis just stuck his finger in my ear, he kinda does that.
+He hits me in the nads a lot.
+-speak Matt 
+This is a homebrew campaign.
+I wrote it all just kind of for the hell of it.
+Custom, don't really base it on anything existing.
+I feel like I'm playing more in that world, and I always hate the idea of, in the middle of DMing, having to go to a module, or having to look for a rule that wasn't my own.
+It feels more detached.
+There are modules that are great, and I've run great modules, but for me personally, with the pacing, and the flow of the game, I prefer to do homebrew.
+-speak Liam 
+Connected to that, someone asked, if you had any tips, and I'd like to know the answer to this too, because I'm running a game for my eight-year-old son and his friends who are about to start, do you have any tips for new DM's?
+-speak Matt 
+Yes.
+Let's see.
+I could do a whole panel on that.
+Tips for new DMs.
+Preparation is important.
+You wanna outline cities, come up with ideas for NPCs, that you think would be essential to a story, or like people that really run elements of the town.
+Simple notes can be like, they're this race, this is their disposition, if you have a particular voice you wanna try for, make a note of this kind of voice.
+So whenever you come back to them you have a reminder.
+And spend a lot of time building that structure, you don't have to be too detailed.
+Always leave room to play in the world, because you never know what your players are gonna do.
+Be prepared to improv.
+I prefer loose preparation, and then just kinda rolling where the players take you.
+-speak Liam 
+Although you wrote a monologue for Clarence, right?
+Because that was very intricate.
+We were all just ready–
+-speak Ashley 
+Yeah, there's no way you just thought that up.
+-speak Matt 
+There are certain elements, part of the notes I take is for certain NPCs I'll write down key information that they know, and depending on how you ask them, what you say to them, and what you try and extract from them, they might give you some of the information, they might not, if you coerce them, or intimidate them.
+Or if they're willing to give up the information, I have all that written down.
+So for that information today, you guys were asking him, and since you allied with Clarence, he was willing to discuss with you.
+So I had all that prewritten, but depending on how much you said, it was what you guys asked.
+-speak Liam 
+Do you have random encounters ready, in case we're like, 
+-speak Liam 
+ah, fuck it, I don't wanna go down to the dungeon, I wanna go back up and beat up some dwarves.
+-speak Liam 
+Do you have shit kind of ready?
+-speak Matt 
+Yep.
+I have a stack of different creature and encounters already prebuilt, based on what you guys may encounter.
+Tonight was an example of players being able to pick what happened.
+But also it's one of those things where it depended, I don't know where you guys are gonna go.
+I present a story, I present an idea of a general throughline, but how you guys go from point A to point B, that's entirely up to you.
+Sometimes that can be a very long, meandering line, sometimes it could be a direct ray, so.
+-speak Travis 
+There was a question, how much do you improvise, and when is it appropriate to improvise?
+-speak Matt 
+A lot, and always.
+-speak Marisha 
+Always, yeah.
+-speak Travis 
+The answer is yes.
+-speak Matt 
+I've had whole games where I've prepared a session, and none of it happened, because people just put an entirely wrong direction.
+Not wrong, but a different direction.
+So the whole game was just me pulling everything out of my ass.
+-speak Marisha 
+Like that time we walked through the back door of the Thieves' Guild, that was fun.
+-speak Matt 
+Yeah, there was that.
+-speak Marisha 
+What's up, Thieves' Guild.
+'Sup.
+-speak Orion 
+Donkey Kong, Pikachu.
+-speak Travis 
+What?
+-speak Orion 
+Somebody asked me what my favorite Smash Brothers character is.
+-speak Travis 
+Oh.
+-speak Liam 
+Somebody asked how we pick the character class that we picked.
+When we first started this game, and I said, 
+-speak Liam 
+hey, it's my birthday, I wanna play a game.
+-speak Liam 
+Laura really likes rogues as well, but I made sure that as fast as I fucking could.
+-speak Travis 
+She was pissed.
+-speak Liam 
+So she, yeah.
+She plays rogue, in like Dragon Age and everything.
+That shit's a favorite class of hers, so I know I got it out there.
+Also, the reason that we're twins is because Laura and I have the exact same birthday, May 28th.
+-speak Ashley 
+I didn't know that.
+-speak Marisha 
+I didn't know that either.
+-speak Liam 
+That's why we're twins.
+-speak Marisha 
+That's cool.
+-speak Ashley 
+I knew– I came in late to the game, and there were only a couple options left.
+And I had never played, so.
+I picked gnome because I was like, oh, that's funny.
+And then cleric, I didn't really realize what a cleric was.
+And how detailed it can be if you've never played.
+And important to the game.
+So when I started I was like, well shit, this is a little tougher than I thought it would be.
+But it's been awesome, I love being a cleric.
+-speak Liam 
+I'm so glad we pulled you in.
+-speak Ashley 
+Me too, man, me too.
+Oh, also, someone asked, who is Pike's deity.
+And it's Sarenrae, the goddess of healing and redemption, among other things.
+-speak Matt 
+Which is carried over actually from Pathfinder.
+Fifth Edition has its own suggested, there's never a definitive pantheon.
+But they have the deity pantheon.
+But we're carrying over Pathfinder deities that were prominently in the campaign up to this certain point, because why the hell not?
+We're not gonna make her change her deity, that would be weird.
+-speak Marisha 
+Travis, how did you pick your character?
+-speak Travis 
+What?
+Oh.
+I asked what the biggest playable character was, I think.
+One that liked to fight, drink, and fight.
+-speak Liam 
+One of the greatest pleasures for me, and I'm obviously a huge nerdlinger, and this is just me reliving high school.
+When I was talking to Sam about starting all this, and saying hey, let's get together, it's what I wanna do for my birthday, we pulled Travis in, Travis is fucking tight, look at him.
+He's not the stereotypical D&D player, and he was as snake bitten as the rest of us.
+Play Dungeons & Dragons, please play Dungeons & Dragons.
+-speak Travis 
+It was so good.
+-speak Ashley 
+It's the best.
+-speak Liam 
+It'll make you so happy.
+-speak Orion 
+What about you?
+Keyleth?
+-speak Marisha 
+I remember at the time I had a, we were playing another campaign, and I had like a rogue assassin, that you were in with me.
+And I had a kind of assassin character who was super seductress, and really high charisma.
+And I remember when I joined this game, I didn't really know any of you guys really all that well, and I was kind of new to this world, so I ended up going with a kind of druid, and I kind of deliberately made her introvert, in a weird way to kind of reflect my newcoming to the group, but I was like, 
+-speak Marisha 
+whoa, it'll be like I can be quiet.
+-speak Marisha 
+so Keyleth has a really low charisma, but I kind of spin it in that she's naive, and doesn't really know.
+And that's why she says things like, 
+-speak Marisha 
+but Clarence.
+(all laugh)
+
+-speak Marisha 
+You're just special.
+-speak Taliesin 
+I played a lot in school.
+Other than Matt, I probably had the most experience playing D&D, and playing roleplaying games.
+-speak Travis 
+Yeah you did.
+Genius.
+-speak Taliesin 
+So I was really excited by the gunslinger in Pathfinder just 'cause it was something I hadn't done before.
+So I found it the most interesting and unusual, but I was not, and I also felt it was a hole within the group that could be filled very well.
+-speak Liam 
+Thedouginator keeps asking you, Matt, how you brought the party together the first day of play.
+-speak Marisha 
+Wait, we haven't heard Tiberius' story as sorcerer.
+Then we can answer that question.
+-speak Orion 
+When this was going on, I asked Matt if there was a caster yet, like any glass cannons, and he said no.
+So I debated between a wizard and sorcerer.
+When we went over the different mechanics, how a wizard and a sorcerer works, I was more drawn to that.
+And I'm a huge RPG guy.
+-speak Liam 
+You're so entertaining.
+-speak Orion 
+To piggyback a quick question, to seal off the Tiberius thing, somebody asked if any of our voice acting influences our characters.
+Tiberius, absolutely.
+I played Elminster Aumar in the Neverwinter MMO.
+Which is a D&D MMO.
+And when we started this I'm essentially doing Elminster, but I made him super bubbly.
+-speak Taliesin 
+No, someone asked how the group, yeah.
+-speak Matt 
+We got together, first session, essentially, was in a swamp town named Stillben, and the group at the time had, for their own separate reasons, been in this town, needing money, and had kind of come together as a mercenary group out of necessity.
+So the first session was them having known each other from a circumstance where they all ended up helping out an individual in the city, long story short, they had a small rapport, and knew at least each other were useful, and needed cash.
+And there was a job board in the town.
+So the first session was them being hired to look into a conspiracy within this swamp port town, Stillben.
+That was their first real adventure together.
+And when that finished, they kept going from there.
+-speak Orion 
+Uh, troll penis story.
+-speak Ashley 
+Troll penis.
+(all laugh)
+
+-speak Marisha 
+That's fair.
+-speak Orion 
+I know you guys keep asking.
+-speak Liam 
+Take it away, Mercer.
+-speak Matt 
+There was a battle.
+Subterranean battle that involved the party sneaking upon a group of two trolls that were around a fire.
+The idea to work past this came to Tiberius to transform himself visually into a female troll so he could Bugs Bunny them.
+Hey boys, you know, that thing.
+Not knowing the temperament of trolls, especially ones that are deep underground, and don't get to see female trolls very often, they immediately just got extremely aggressive, and he found himself almost between a rock and a hard place.
+-speak Orion 
+I was getting raped by trolls.
+-speak Matt 
+The party then descended upon these trolls, and in the middle of battle, at numerous times, I believe Percy once and Laura the other, both took specific shots at each troll's dick.
+Rolled a good shot with enough damage to blow them off.
+Now being a troll, they regenerate.
+But it was still a good effect, and when the battle was over, it was decided by the party to at least take one as a trophy and place it in the bag of holding.
+-speak Travis 
+That was decided by me, thank you.
+-speak Matt 
+By Grog, and as such, it stayed for a while, until it was used as an implement of distraction in another encounter I believe.
+-speak Travis 
+It worked.
+-speak Matt 
+Yeah, it worked.
+That was where troll dick came from.
+-speak Orion 
+It was spitroasting.
+-speak Liam 
+Jake Bodro asked what's it like playing for three hours in front of 2,500 people?
+I think our games have gotten a little bit better, only because when we play privately, there were sometimes lulls, where we weren't sure what to do, we would go off to bathroom, we would take a break.
+But now there's a little bit of the element of theater to it.
+Just a sprinkle of it.
+And it kinda of gooses the energy up.
+-speak Orion 
+I'm doing the same thing for the record.
+-speak Travis 
+I keep seeing this one.
+For the 11 year old Sadie, the son of Odin shall have that cookie!
+-speak Matt 
+Aw, that's sweet.
+-speak Ashley 
+There you go.
+-speak Matt 
+There is one bag of holding in the group, and Grog always has it.
+-speak Travis 
+A troll dick and a bulette tongue.
+-speak Matt 
+There are many things that go into the bag.
+-speak Travis 
+It hasn't gone in that bag.
+-speak Taliesin 
+Is there still a cow in the bag?
+-speak Travis 
+No, Dork the ox.
+-speak Matt 
+Dork the ox is probably not.
+-speak Travis 
+That's when we first learned its limitations.
+-speak Matt 
+Why does Scanlan have so many awesome spells?
+Bards in Fifth Edition have one of the options they can choose.
+As they level up, can choose a couple of spells from any spellcasting class, which is great, and the boon that bards kinda needed to be more combat-effective.
+And you can choose the School of Lore or the School of Combat, I think, for the bard.
+He chose the School of Lore which allows you even more spells from other classes to boost your repertoire, so he became a fucking amazing bard.
+-speak Liam 
+Also, Sam Riegel did a lot of a capella in college.
+-speak Travis 
+He did, he really did.
+-speak Liam 
+He helped write several seasons of The Voice, which was all about a capella, so Samis sort of a ringer for the bard class.
+-speak Matt 
+Yeah, kinda had to happen that way.
+-speak Travis 
+Can Marisha do her dwarf impersonation?
+-speak Marisha 
+Nope.
+-speak Liam 
+Yordee yorda–
+-speak Marisha 
+Yorda youree yourdee yourd.
+-speak Ashley 
+Someone asked if Grog could keep one of his women in the bag of holding.
+You can't put living things in the bag of holding.
+-speak Taliesin 
+As we've learned.
+-speak Matt 
+You can.
+-speak Marisha 
+With Dork.
+-speak Matt 
+They just die.
+-speak Travis 
+There's no air, it's like a vacuum.
+A magical vacuum.
+-speak Matt 
+Dork the ox did not survive.
+-speak Travis 
+One giant dead ox came out of the bag.
+-speak Liam 
+Someone keeps asking if any of us have hirelings, or henchmen, and the simple answer to that is no.
+-speak Matt 
+That's not true.
+-speak Liam 
+Just Trinket.
+-speak Orion 
+At our Keep.
+-speak Taliesin 
+We do.
+-speak Liam 
+Oh, that's right!
+-speak Travis 
+Yeah, we battle-tested them.
+-speak Orion 
+We have a Keep back in–
+-speak Liam 
+Right before we started.
+-speak Travis 
+The game before we came here.
+After they saved the kingdom of Eman, the sovereign Uriel Tal'Dorei III, as part of his gift to the group for essentially saving his family and the city itself, had a Keep constructed for them, and took about six months or so, and the Keep was finished, and then the party's first session was them finding who they're going to hire to take care of the Keep for them.
+-speak Liam 
+It was like one episode of the Sims.
+-speak Matt 
+Kind of.
+It was great too, 'cause Grog's whole idea of making them to see who would be the better hire was to break the pool cue and be like, 
+-speak Matt 
+who survives?
+-speak Matt 
+Make them fight, it was pretty great.
+-speak Taliesin 
+For Tone17, I played a modified Malkavian, and a Smetty if you can believe such a thing, which was badass.
+-speak Matt 
+There you go.
+-speak Liam 
+We've been playing for two and a half years.
+Someone wanted to know how long.
+-speak Taliesin 
+Oh my God, really?
+-speak Travis 
+Did we tell them about your podcast with the recording of the very first one?
+-speak Liam 
+If you want, Sam and I, it's kind of languishing, but we have a podcast together called AllWorkNoPlay.
+-speak Travis 
+It's amazing.
+-speak Liam 
+We're both parents, we have kids, so we have no time to do anything.
+Enough time to take a shit.
+The first or second episode, the first episode is about us playing the first game, and there's audio from the first game.
+Again, go to iTunes, or to AllWorkNoPlay on Pod Bean, and you'll hear about two minutes of us dealing with a puzzle that Matt threw at us.
+-speak Marisha 
+It was timed.
+-speak Liam 
+Yeah, it was timed, there was an hourglass going off.
+It was us discovering D&D really for the first time.
+AllWorkNoPlay, all one word.
+-speak Marisha 
+Actually one of my favorite stories that I tell all the time is about you, from our first game, 'cause if you remember, I didn't play.
+I just kinda helped Matt help you guys.
+I was like a D&D minion.
+And I remember I was helping you, and I remember you were like, 
+-speak Marisha 
+So, if I just wanted to go up and punch those guards, I could do that?
+-speak Marisha 
+And I was like, yeah, well you would go up, and you would punch them, and then Matt would tell you how you'd do that.
+And then you went like this, you were like.
+-speak Travis 
+Computing.
+-speak Marisha 
+Yeah, you were like, 
+-speak Marisha 
+so, we can do anything?
+(all laugh)
+
+-speak Marisha 
+And I was like, yeah.
+-speak Liam 
+Taliesin on game one was actually not Percy, he was a dragonborn paladin?
+-speak Taliesin 
+I was a dragonborn paladin.
+-speak Liam 
+You fucking blew our minds, we were like, 
+-speak Liam 
+what do I do?
+-speak Liam 
+Can I do damage points to stop this puzzle.
+-speak Liam 
+There was this tunnel with all these moving parts, we thought we were gonna be crushed, and he was a dragonborn for the first episode.
+It's in the recording on the AllWorkNoPlay podcast.
+And he just breathed ice on this water-based–
+-speak Taliesin 
+Contraption.
+-speak Liam 
+And froze it, and everyone was like, 
+-speak Liam 
+you can do that?
+You can't just roll dice and hit it?
+-speak Liam 
+And that's when we kind of understood oh, it's whatever the fuck you want.
+-speak Taliesin 
+That was such a good game for learning the basic mechanics.
+Such a well put together game.
+-speak Orion 
+Matt does control the music while we play.
+-speak Matt 
+Yes, I have playlists.
+They were much more broad playlists before, unfortunately on the stream, we have to use only approved royalty-free music, so it took me a while to figure it out previous to this.
+-speak Travis 
+I do miss those Madonna songs.
+-speak Matt 
+I know.
+I used to play a lot of Bush.
+-speak Marisha 
+Hey, would that count as fan art?
+If fans made us music?
+-speak Travis 
+Yeah.
+-speak Marisha 
+Could we then use that?
+Yeah?
+He's nodding.
+-speak Zac 
+They can send us whatever they want.
+-speak Marisha 
+Some consent forms?
+Yeah.
+-speak Travis 
+If one of your characters died, would you roll a new character?
+-speak Orion 
+Music people out there.
+-speak Marisha 
+Any music people.
+Anything atmospheric.
+-speak Liam 
+No, no, that's an important question.
+-speak Travis 
+Ignore it.
+-speak Liam 
+No, it's important.
+Someone's asking, if we die, would we roll in a new character?
+And plus, we just started this show, so part of us were wondering like, what if we die the second episode?
+What happens?
+We recorded this opening to the show that's coming.
+-speak Matt 
+So here's how I run the world.
+I feel that one of the problems in some RPGs is that death becomes flippant when magic allows you to completely undo it.
+In my campaigns certain powerful spells like Greater Restoration, Resurrection, things like that are a challenge, meaning you can definitely undo death, but a lot of it is based on your capabilities as a spellcaster, your attachment to the people you've been traveling with.
+So if ever a character does die, a resurrection can be attempted, but it is a challenge.
+Which means there's a possibility of it failing.
+In which case, if the resurrection fails, the soul is lost, the character is permanently dead.
+The player then can leave and never come back if they want to, but they have the option to create a new character, and be reintroduced to the campaign like half a level lower than the rest.
+-speak Ashley 
+That would suck so much.
+-speak Liam 
+When Pike died we had, all of us, many series of dice rolls to do, and it was very story-based.
+-speak Marisha 
+Yeah people are asking how she came back.
+-speak Liam 
+Yeah, I mean, luckily we were in a big city, there was a huge temple.
+There were very wise clerics who were good at bringing people back.
+But still, we all had to roll.
+There was three rounds we had to roll, he might have fudged numbers, I don't know.
+But we were all still scared.
+We had to all, the majority of us, had to have good rolls three times in a row.
+Scanlan had to put–
+-speak Travis 
+The tears of three women in the room.
+-speak Liam 
+The tears, Scanlan had to kiss her on the head, he put a figure that he carved of her, it was very elaborate.
+This one was majorly in tears.
+Laura was in tears.
+-speak Ashley 
+I was in tears.
+-speak Taliesin 
+Laura was hyperventilating.
+-speak Orion 
+And when that was going on, I remember, when that went off, being still Tiberius, I was like in half character but half not, and I was not crying, I was like, (grumbles) the whole time, and as soon as she sprung back to life, because the cleric–
+-speak Matt 
+Breathed in her first breath after that.
+-speak Orion 
+We luckily, because I know it was a tight roll.
+-speak Matt 
+It was a very tight roll.
+It was a DC of 14 in the final roll, and because Scanlan brought out this figure of her that he had carved for her like two months beforehand as a gift, sets it down and kisses her on the forehead, and it was kinda the final connection point.
+He needed 14, he rolled a 12, but, because he– There's a plus two modifier to the skill check, being a bard, and that was what he needed, he just made it.
+Basic, basic–
+-speak Liam 
+Someone's asking if we drink while playing, and the answer is no.
+(all laugh)
+
+-speak Travis 
+It's just water in those tankards.
+-speak Taliesin 
+Coffee.
+-speak Marisha 
+I almost did, yeah.
+-speak Orion 
+When she came back to life is when Tiberius, I was like, 
+-speak Orion 
+oh my God, she's okay!
+-speak Ashley 
+I think also having– Because with magic and everything like that, just bringing somebody back to life so easily, since we don't have that as much as maybe other games– It's heightened, so every time someone gets hurt, we're all, I think now, after having that death, all of us are like, 
+-speak Ashley 
+where are you at?
+Where are you at?
+-speak Orion 
+Where are you going?
+I wish I could turn to Sam, but he's not here.
+-speak Ashley 
+We're all so stressed out now, which is, it's kinda cool.
+-speak Matt 
+Mortality's a real thing you have to deal with, and up until Pike's death it was kind of a thing people weren't considering.
+It just happened so suddenly.
+-speak Liam 
+One I see keep coming up since we started is how would we react to life if we were our characters?
+I don't know, or differently from our characters?
+'Cause I wouldn't stab my children when they frustrate me.
+-speak Matt 
+I'd be in a padded room.
+(all laugh)
+
+-speak Marisha 
+I feel like everyone tries to make decisions in a game that their character would make in real life, 'cause that's kind of the point.
+I take into consideration that I have shitty charisma, whenever I open my mouth.
+I feel like we all try and take into consideration our background and our alignment, because that's, you know.
+-speak Taliesin 
+I feel significantly more badass than my character.
+-speak Orion 
+I feel… Tiberius is just me with magic.
+So that's how I feel.
+-speak Travis 
+Grog was easy, he makes bad decisions, which is just all that I do.
+-speak Matt 
+Pike died when they were fighting what was called a treachery demon, or a glabrezu, which had basically infiltrated the Sovereign Uriel, and the city of Emon.
+And when it revealed its final form, it got one lucky critical hit on Pike when she was too close, and just instantly took her out.
+That's how she died.
+Someone's asking if they can (laughs) send us equipment we need for the show.
+Zac.
+-speak Zac 
+Yeah, they can.
+-speak Matt 
+What do you need?
+-speak Zac 
+We'll put it on the wishlist.
+-speak Matt 
+There you go, it's on the wishlist.
+-speak Orion 
+There's a wishlist?
+-speak Matt 
+I didn't know there was one, but now there is.
+-speak Zac 
+Castle Greyskull on there.
+-speak Liam 
+How do we feel about Team Demihooman, and inspiring them to play D&D for the first time?
+I think the number one reason we all wanna do this is because we love each other, and we love this game.
+The second thing is we all knew, we kind of felt like– We're gonna make Dungeons & Dragons cool again.
+-speak Matt 
+Try at least.
+-speak Liam 
+And make it open for anyone to do, there's no reason not to do this.
+If there's someone you know who doesn't understand it, don't worry about it.
+Just find some friends and connect with them.
+-speak Matt 
+I find one of the difficult things is explaining to somebody who has never played an RPG, or a game of D&D at all, they're like, 
+-speak Matt 
+how does it work, what is it?
+-speak Matt 
+And it's hard to explain, so if anything, now we have an example with this show.
+Other than the IT Crowd episode, or the Community episode, which are both great examples for quick little succinct things.
+-speak Taliesin 
+If we had the power to bring one guest player for one session.
+-speak Orion 
+Oh, that's easy.
+Tom Hanks, for sure.
+(all laugh)
+
+-speak Marisha 
+Mazes and Madness.
+-speak Zac 
+Everyone is asking for you guys to somehow get Vin Diesel.
+-speak Marisha 
+I was gonna say, Vin Diesel.
+-speak Orion 
+He lives for this shit!
+-speak Matt 
+Vin Diesel's good.
+Top of my list is Stephen Colbert, because I know he also plays.
+-speak Ashley 
+That would be amazing.
+-speak Taliesin 
+I would love to see Joss Whedon do this.
+I admit I would like to see Joss Whedon play D&D.
+That'd be interesting.
+-speak Zac 
+That might be possible.
+-speak Taliesin 
+Okay, I'm throwing that one out there.
+-speak Orion 
+What, Tom Hanks isn't?
+-speak Marisha 
+Felicia's got some.
+-speak Matt 
+But he's also a super fuckin' busy man.
+-speak Orion 
+Guys, tweet at Tom Hanks to come play with us.
+-speak Travis 
+I'm Morgan Freeman, and I rolled a one.
+-speak Matt 
+Right now, Critical Role Hanks.
+See if we can make it trend.
+Patton Oswalt would be great.
+-speak Orion 
+That'd be hilarious.
+-speak Zac 
+What about Dan Harmon, just so I can get fired, can we do that?
+(all laugh)
+
+-speak Matt 
+Yeah.
+Hardwick used to play D&D with Patton Oswalt in the mid-2000s.
+I can't even imagine what those games were like.
+-speak Orion 
+I'd like to like– Amy Poehler, I'd like to have one of those.
+-speak Zac 
+She might be open to that.
+She's a partner with Legendary.
+-speak Orion 
+I'd love her, Tina, Tina Fey.
+-speak Liam 
+Someone keeps asking about Troy, I don't know if Troy Baker is ready.
+-speak Orion 
+I don't think he's ready for this jelly.
+You guys think he's ready for this jelly?
+I don't think so.
+-speak Matt 
+Whenever it comes up in conversation, Troy always gives me that look of like… 
+-speak Matt 
+All right.
+-speak Travis 
+You can see him swimming in the infinity of–
+-speak Marisha 
+That's not cool.
+-speak Liam 
+He has some preconceived notions.
+-speak Marisha 
+My scarves are cooler than you.
+-speak Matt 
+Once we get him like a proper plus two enchanted scarf.
+-speak Ashley 
+Can we ship Grog and Vex?
+-speak Travis 
+Grog and Vex.
+No, I'm here to annoy Vex by smacking her bear around, and she's here to tell me not to kill myself.
+-speak Travis 
+Don't jump into the crevasse, it's 1000 feet deep.
+-speak Ashley 
+Troy Baker is Pike's distanced dad.
+(all laugh)
+
+-speak Matt 
+That's pretty funny.
+-speak Liam 
+Answer this question I like, I saw it a couple times, how did you guys get involved in streaming for Geek & Sundry?
+-speak Travis 
+Virgin sacrifice.
+-speak Matt 
+The best way I know that happened was, we had been playing for a while, and we all work in the industry.
+People began to hear about our voiceover D&D game, weirdly.
+Like I'd come into sessions with directors I've never worked with before, they'd be like, 
+-speak Matt 
+Oh yeah, you're the guy that runs that D&D game.
+-speak Matt 
+How did that happen?
+How is that my thing?
+I'm cool with it, like heck yeah, my little high school self is like, I'm okay with being known about that.
+But then over time eventually Geek & Sundry contacted us.
+Felicia had heard about it.
+They called me in for a meeting, and we spent a number of months trying to figure out what format we were gonna try, if we wanna do it like multi camera, filmed canned episodes, then eventually the Twitch possibility came up, and we were like no, this is a much better format for us.
+And that's kind of how it happened.
+-speak Liam 
+Are you kosher with me, you took this film, there's a video of you breaking the news to us that Geek & Sundry came to you about it.
+Are you kosher with me sharing that video?
+-speak Matt 
+Yeah, I don't see why not.
+-speak Liam 
+All right, I'll find a way to put it through my Twitter.
+So just keep your eye on my Twitter.
+-speak Ashley 
+Wait, what are you sharing?
+-speak Liam 
+There was a video that Orion took when Matt told us about Geek & Sundry coming to him.
+And us all sort of toasting and laughing.
+-speak Orion 
+Reacting.
+-speak Liam 
+Giggling like idiots.
+-speak Matt 
+Why is D&D Pathfinder making you so much more attached to the characters than a regular RPG?
+If you mean like a video game RPG?
+I mean you get attached either way, but with this, because you are so much more fluid, with how you can influence the world, and the character, and the way the character reacts to the world and how it can influence it is so much more–
+-speak Marisha 
+Personal.
+-speak Matt 
+Personal, a good way of putting it.
+It's just that much more involving, and you invest so much into that atmosphere.
+And it depends on the group, some people just like to do dungeon crawls, and kill and get loot and experience, and that's totally cool too.
+For me at least.
+I like 'em both for different reasons.
+I still play the crap out of video game RPGs.
+-speak Liam 
+Someone asked if given the chance, would we like to do a live game at a convention like Acquisition Inc.
+?
+I'd like to do, although there's nine of us, so that'd be kind of–
+-speak Ashley 
+That'd be a long game.
+-speak Zac 
+We may be asking you guys to do that soon.
+-speak Liam 
+Oh good, then yes.
+-speak Matt 
+As long as you're handling the tech, I think we'd be fine with that.
+-speak Liam 
+I'd like to do it.
+-speak Zac 
+We may be streaming from Comic Con, I don't know.
+We may be asking if you guys are gonna go through that hell hole.
+-speak Liam 
+The answer is yes.
+-speak Orion 
+Can we get a jib?
+I like crane shots.
+-speak Marisha 
+Ooh.
+-speak Ashley 
+A helicopter?
+A helicopter shot.
+-speak Orion 
+Put it on the wishlist.
+-speak Zac 
+Put it on the wishlist, a jib.
+-speak Liam 
+How many of you aside from Matt have run a game of D&D or another RPG?
+In high school I ran a D&D game, I ran a Rifts game for a little while.
+-speak Matt 
+Rifts, yes.
+-speak Liam 
+I ran a cyberpunk game for a little while.
+-speak Travis 
+Really?
+-speak Liam 
+Yes.
+The last two months I have been helping my eight-year-old son and two of his friends from school create characters.
+And I wouldn't have done this if Matt had not forced this shit into my life.
+I wouldn't have done this, but I'm about to start running a game for my son, the half-elf druid, and his two friends, the dragonborn fighter, and the dragonborn rogue.
+-speak Travis 
+What if they die?
+-speak Liam 
+That's just how the cookie crumbles, motherfucker.
+-speak Travis 
+Oh man, you are teaching life lessons.
+-speak Marisha 
+Gotta teach lessons.
+-speak Travis 
+Go Fish and then D&D.
+-speak Taliesin 
+I ran a Rifts game as well in high school.
+Then I ran a game of Vampire the Masquerade, and I was in a bunch of them.
+-speak Liam 
+Of course you did.
+-speak Taliesin 
+Couple rounds of Paranoia, and Hole, because that's funny.
+Hole was amazing.
+-speak Matt 
+Which you gave me books for.
+For my birthday, which was awesome.
+-speak Marisha 
+I was a part of a Buffy the Vampire Slayer tabletop RPG for a while.
+Yeah, it's actually quite fun.
+I was a pyromancer.
+-speak Orion 
+Somebody asked a fun one, they asked if we play, what's our favorite video game?
+-speak Marisha 
+What's our favorite video games?
+Oh that's a hard question.
+-speak Orion 
+Is it?
+-speak Marisha 
+There's so many!
+-speak Orion 
+Well we can skip it.
+-speak Liam 
+Metal Gear, Dragon Age.
+-speak Ashley 
+Probably Portal, Portal or Dragon Age.
+-speak Matt 
+Portal's great.
+-speak Liam 
+Castlevania, Symphony of the Night, I played 'til I had blisters on my thumbs.
+-speak Matt 
+Symphony of the Night, yeah, dude.
+What is a man?
+-speak Taliesin 
+Borderlands 2, and I'm happy–
+-speak Ashley 
+Borderlands 2.
+-speak Liam 
+Pool of Radiance on my Commodore 64.
+-speak Orion 
+Oh shit.
+-speak Liam 
+Baldur's Gate, which I played again on my iPad a year or two ago.
+Somebody, oh go ahead.
+-speak Orion 
+I was just saying.
+-speak Liam 
+Somebody asked how we focus in the room with the sexual magnetism that is Scanlan Shorthalt.
+-speak Ashley 
+Ooh, it's tough man.
+-speak Liam 
+I don't know.
+-speak Taliesin 
+I wear a codpiece.
+I wear a codpiece that keeps everything in check.
+-speak Matt 
+I'm heavily sedated most of the game, just for that reason.
+Otherwise the clothes would just come right off.
+-speak Liam 
+I just let myself get a gigantic boner every week.
+-speak Matt 
+Does anyone play League?
+Generally.
+-speak Marisha 
+Sometimes.
+We're playing Heroes of the Storm more now.
+-speak Orion 
+I'm a big Final Fantasy fan.
+I like all kinds of games.
+I definitely would say if I had to pick one RPG, cause I'm an RPG guy, I love Chrono Cross, that'd be my favorite game.
+I've played that more than I have Chrono Trigger, which is way too many times.
+-speak Travis 
+Dragon Age race/class.
+Ash, anybody that plays?
+-speak Matt 
+Elf rogue.
+-speak Taliesin 
+Human fighter.
+-speak Travis 
+Always the mage.
+-speak Liam 
+Travis, stupid question, Thor, Odinson, or Hulk, in a knock down drag out?
+-speak Travis 
+Oh (scoffs).
+-speak Orion 
+Type-0 also, dammit.
+-speak Travis 
+Contractually, Thor, realistically, Hulk.
+I mean I am Thor, I can't say any other guy.
+-speak Taliesin 
+Hulk's on a scaling power level, 'cause he just gets too mad.
+-speak Travis 
+Yeah let's just be real about that.
+That's Hulk.
+-speak Matt 
+Tried new Final Fantasy yet?
+-speak Ashley 
+ChocolateSweets a bunch of times has asked would you guys consider cosplay for the games?
+-speak Taliesin 
+Well technically.
+We already did.
+-speak Marisha 
+You'll see, maybe next week?
+-speak Matt 
+He's trying the best he can.
+We have an intro coming up some point soon.
+-speak Zac 
+Halfway done.
+-speak Matt 
+Halfway done, we all shot loosely in character costumes inspired by everyone's characters, so you'll be able to see that soon.
+-speak Taliesin 
+If anyone would like to make us costumes.
+-speak Liam 
+One man doing it all.
+-speak Travis 
+A million arms.
+-speak Ashley 
+I think it would be kinda hard for me to play the game in cosplay, 'cause I have probably the most armor now.
+-speak Matt 
+You do.
+You wear the most armor.
+-speak Orion 
+That's a cool question.
+If you had to switch characters Matt, if you had to switch characters, which one would you be?
+-speak Marisha 
+If you had to trade places with one of us?
+-speak Orion 
+Yeah, if you would switch characters.
+-speak Zac 
+That question was Matt included, question was for everyone, if you guys could switch characters with anyone, who would you pick?
+Including Matt.
+-speak Ashley 
+I would probably switch with Liam or Travis.
+-speak Taliesin 
+Tiberius would be mine, I'd take Tiberius.
+-speak Liam 
+Scanlan, I would be Scanlan.
+-speak Matt 
+I would be Scanlan, bards man.
+Bards are my favorite class.
+-speak Marisha 
+I'd be probably either Scanlan or Pike.
+-speak Travis 
+I'd be Trinket.
+-speak Matt 
+Yeah you would.
+-speak Travis 
+Why are you peeing on everything?
+-speak Marisha 
+Bards and clerics are great.
+-speak Orion 
+I'd definitely be Grog.
+Just the complete opposite of what I can do.
+-speak Taliesin 
+I'm a WoW player on occasion, I haven't played in ages.
+-speak Orion 
+For the Horde.
+-speak Matt 
+Player wants to play a lizardfolk monk, what's my opinion about the idea?
+That's fine, I mean a player can play whatever they want to, as long as you as the DM want it in your campaign.
+Just make sure they have more to their character besides 
+-speak Matt 
+I'm a lizard monk!
+-speak Matt 
+have a good reason why they trained as a monk.
+If they make a cool personality behind it, work it into the social structure of their lizardfolk people, and see whether the monks will be shunned or accepted, are they an outcast of the society?
+Think of those ideas, and make a cool character based on the story, from a fighting standpoint?
+That'd be cool.
+I used to play a lizard monk in Ruins of Kunark back in the old EQ days.
+Oh man.
+That was a while back.
+-speak Liam 
+Someone asked when Trinket came into the mix.
+Day one.
+-speak Travis 
+Day one.
+She had that shit like that.
+She knew she wanted a pet bear.
+-speak Marisha 
+He hasn't died yet.
+-speak Orion 
+He hasn't died, it's amazing, this thing has not died.
+He should have died so many times.
+-speak Matt 
+She spent all of her character focus in having a pet from combat, and then never puts it in combat, because she doesn't want it to get killed, and it's fucking hilarious.
+-speak Travis 
+We put it jeopardy situations before.
+-speak Matt 
+Yeah, you have.
+Every time she goes, 
+-speak Matt 
+never again!
+-speak Matt 
+And I'm like, all right, well.
+-speak Taliesin 
+The day that bear dies, it's gonna get ugly.
+-speak Ashley 
+It's gonna be bad.
+-speak Orion 
+It's good to change her, as a character.
+-speak Travis 
+Alignment shift.
+-speak Taliesin 
+So much black to wear.
+-speak Marisha 
+Douginator asked me a super detailed question.
+So I don't wanna blow over it, 'cause it was awesome.
+He asked me how my path has gone, and my personal Aramente journey, and how working with the group has helped and slowed it down.
+For the Air Ashari and for Keyleth's journey, it's kind of expected to take her maybe ten, maybe 20 years?
+It takes her like, the Aramente is expected to take a long time, and part of it is her kind of proving herself a hero.
+So she kind of ended up tagging along with this motley crew in order to kind of help her so she's not doing it alone.
+So it's a good thing that she's tagging along.
+But she also has to deal with sometimes the moral dilemma of maybe choices that she might not normally make if she wasn't with the group that she has to go with.
+-speak Liam 
+I see two questions I wanna address.
+One is what is each of our favorite kill?
+-speak Orion 
+I was gonna say that was a good one.
+-speak Liam 
+And the second one is what's the story behind the Super High Intensity Team?
+(all laugh)
+
+-speak Liam 
+Let's start with the kills, and then we'll get to the SHITs.
+My favorite kill, I finished off a blue dragon we faced.
+We all chipped away at this dragon, someone who had disguised himself as human for a long time, then we came to their secret cubbyhole, and they revealed themselves.
+We chipped away and chipped away, then at the end I sort of parkour-ran up a wall and shoved the daggers into its neck, and just slid down its entire body and finished it.
+-speak Orion 
+My favorite kill is actually–
+-speak Liam 
+Until today.
+-speak Orion 
+When Pike kicked the bucket, and that moment all of us realized what happened, and there was an instant shift in real emotion, where whatever the hell, I don't even remember who we were fighting, because I went like, fucking cast this, and everyone's just, kill this thing, because we all cared so much in a real life situation, where we hated this thing, with real emotion, and we just slaughtered it.
+-speak Taliesin 
+The demon-possessed royal family was my favorite.
+-speak Liam 
+That was the same thing.
+-speak Taliesin 
+Yeah, that was my favorite fight.
+Just using the light, also we were shooting, I was getting to shoot holes in the glass.
+-speak Matt 
+The entire throne room had a glass dome overtop, but because the family had been possessed by the shades, these shadow entities, it was all covered.
+They were able to force these spirits out of the physical bodies without killing them by being able to tear off the cloth or shoot holes in it to allow sunlight in and use that as part of the battle tactic, it worked out really cool.
+-speak Marisha 
+Yeah, that was fun.
+-speak Travis 
+My favorite kill wasn't even an enemy, it was when Scanlan summoned that pony, when we were facing those five wizards.
+(all laugh)
+
+-speak Travis 
+He summoned this pony, and then I turned and abruptly cut its fucking head off, and reached in and grabbed its organs, and smeared its gore all over myself, and started screaming.
+And Mercer was like, 
+-speak Travis 
+okay.
+-speak Orion 
+The fight ended there.
+-speak Matt 
+Roll intimidation, with a bonus.
+-speak Travis 
+Butchered a pony for intimidation.
+-speak Matt 
+Yeah, it worked.
+-speak Marisha 
+I think one of my favorite Keyleth moments, it wasn't a kill, but when we were in the crazy, Michael Jackson, Neverland Ranch, sorcerer dude's plane of existence.
+-speak Matt 
+The Dread Emperor.
+-speak Marisha 
+Yeah, when we were in his plane of existence, and we encountered that big tree rock monster, and I just happened to take Command Plants, and he happened to be a plant monster, so it just worked out perfectly, and I was just like, 
+-speak Marisha 
+We don't wanna fight you!
+Back down.
+-speak Marisha 
+and avoided an entire battle.
+-speak Taliesin 
+Getting the magic carpet was also pretty badass.
+-speak Marisha 
+Oh yeah, that was a good story.
+-speak Liam 
+Another fabulous moment that you guys have to know about is we wanted to get into a tower at one point, and there was a very intelligent sort of right-hand man to whoever owned the tower.
+Scanlan just started fast-talking, which is his defining characteristic.
+Took his finger and put it right here as a mustache, and said, 
+-speak Liam 
+Hi, I'm Burt Reynolds.
+(all laugh)
+
+-speak Liam 
+And he rolled, either Scanlan rolled a 20–
+-speak Travis 
+I think it was a natural.
+-speak Matt 
+He rolled a natural 20.
+-speak Liam 
+And you weren't expecting it to work, in any way, shape, or form, and you went, 
+-speak Liam 
+Okay.
+-speak Travis 
+Mr.
+Reynolds.
+-speak Marisha 
+Burt Reynolds just announced that he's gonna be at Philly Wizard World with us, so we could theoretically tell him that story.
+-speak Matt 
+I have to.
+-speak Ashley 
+Burt Reynolds would be a dream guest.
+-speak Orion 
+Him and Tom Hanks.
+-speak Travis 
+He'd have to play on a bearskin carpet.
+-speak Matt 
+The whole family history organized.
+-speak Ashley 
+I've only had one kill.
+-speak Travis 
+But, it was what?
+-speak Ashley 
+And it was a dragon.
+-speak Travis 
+Yeah, dragonslayer.
+-speak Ashley 
+But the thing that I, probably the whole battle with the family that was sort of possessed when I actually died, that was probably one of my favorite battles.
+Maybe not after I died, prior to.
+When I got to finish off the dragon–
+-speak Taliesin 
+Was that on Christmas?
+-speak Ashley 
+The dragon?
+Yes.
+That night was so amazing because we had, we made it a winter festival.
+So we all came in our pajamas.
+It was close to Christmas, that's why it was a winter festival.
+It was like our little Christmas party.
+-speak Marisha 
+Our holiday episode.
+-speak Liam 
+That was sad for me because it was my idea but I had health problems at the time and I had to bow out, and I was very, very, very sad.
+-speak Matt 
+But you made it to this year's.
+-speak Liam 
+I made it the following year, yeah.
+-speak Taliesin 
+Yeah, we had a whole little thing, it was really nice.
+-speak Matt 
+I would love to play D&D with Dame Judy Dench.
+-speak Marisha 
+Heck yeah.
+-speak Matt 
+You guys can tweet at her so you can get her to agree.
+-speak Liam 
+The SHITs.
+How did we become the SHITs?
+-speak Matt 
+Yes.
+So the party had run into a, debearded, actually, shaven dwarf named Grimthorn, who wanted to represent them for, what is occasionally, a roving brawling guild, essentially.
+Like underground fighting rings that happen around the world at different points throughout the year.
+It may come up again, we'll see.
+But they had to think of a team name.
+And Scanlan.
+Recommended the Super High Intensity Team.
+Which stuck for a while, so the group name, against the better judgement of, I think, a lot of the group, became The SHITs.
+So their name for a while was The SHITs, they were announced as The SHITs in the ring, when they won the tournament.
+That was when the pony was cut in half, to intimidate the opposing team.
+-speak Travis 
+Scanlan's idea also.
+-speak Orion 
+Tiberius and Keyleth were not happy.
+-speak Matt 
+SHITs stuck for a while until eventually they got rid of the SHITs, as all of a sudden they were about to go to the winter festival parade in their honor for saving the entire city of Eman, and the Sovereign Uriel said, 
+-speak Matt 
+What should we announce you as?
+-speak Matt 
+and it was decided not to announce you guys in front of the city at your parade as The SHITs.
+-speak Ashley 
+I was super into it.
+Still love The SHITs.
+-speak Matt 
+Instead the name became Vox Machina.
+So if you've heard them say that, that's the official team name they've created for themselves as a group.
+-speak Orion 
+With credit to Sam as well, which was voted down was also the Brotherhood of the Sisterhood.
+Which I was a huge fan of.
+I really wanted it to be the Brotherhood of the Sisterhood.
+But Vox Machina sounded cooler.
+-speak Ashley 
+The Brotherhood of the Sisterhood of the Order, or something like that?
+-speak Marisha 
+The Order of the Brotherhood of the Sisterhood.
+-speak Orion 
+So Tiberius recognizes as the Vox Machina/Brotherhood of the Sisterhood.
+-speak Liam 
+LargoSensei keeps asking, what are your most cathartic voice acting experiences?
+I'm gonna guess for Ashley that's The Last of Us, since that's your fucking heart ripped out of your chest.
+-speak Ashley 
+Probably, yeah.
+-speak Liam 
+Gollum was pretty sad for me, because he's a miserable bastard.
+Also Angel from Wolverine, the X-Men.
+-speak Orion 
+Wait, does cathartic mean sad?
+-speak Liam 
+Well it just means get your fucking demons out.
+Chew it up.
+-speak Taliesin 
+Mine's really old, it's probably either Monster or Paranoia Agent.
+I'm gonna go that far back.
+Yeah, all the way back.
+-speak Matt 
+Fate Zero for me had a moment that was pretty intense emotionally, that I really enjoyed.
+-speak Travis 
+Knuckles the Echidna in Sonic.
+(all laugh)
+
+-speak Matt 
+Sonic Boom, yo.
+-speak Marisha 
+Boom, Sonic Boom.
+-speak Travis 
+What's that?
+-speak Liam 
+Infamous, maybe?
+-speak Travis 
+Oh, yeah.
+-speak Liam 
+Pretty fucking sad.
+-speak Travis 
+Brothers.
+Brotherhood.
+Brotherly love.
+-speak Orion 
+I'd say for me it was doing Type-0.
+Not so much the actual lines, 'cause I had a lot of fun.
+I don't know if that's cathartic, but.
+Completing an actual real life dream goal.
+I've said this a couple times before, but the last day I was recording the last stuff, I was literally crying on the way home, because I finally got to level myself up.
+And this thing kept it up, and it was really cool.
+-speak Travis 
+Matt, who were you in Fate-0?
+-speak Matt 
+I'm Kiritsugu, Kiritsugu Emiya.
+-speak Travis 
+Bless you.
+-speak Matt 
+Thank you.
+That's the dark assassin character.
+-speak Taliesin 
+Saw a question about Percy's home, and his family.
+Percy has a really really big family, that I don't mention in the video, and he has not been home yet.
+He has no interest in going home yet, 'cause that's terrifying.
+So we have not dealt with that.
+-speak Matt 
+That's going to be interesting when that comes around.
+-speak Travis 
+What's under the freakin' lake?
+-speak Liam 
+What's under the freakin' lake, Matt?
+-speak Marisha 
+Yeah, what's under the lake?
+-speak Matt 
+You were told.
+-speak Orion 
+Yeah, it's one of those big–
+-speak Matt 
+Aboleth.
+-speak Marisha 
+Oh yeah that's right, I did write it down.
+-speak Matt 
+Which you encountered one underground.
+-speak Marisha 
+Yes, I was a shark.
+-speak Matt 
+Put the slime into the water.
+You could only breathe water and couldn't breathe air.
+-speak Marisha 
+Remember, 'cause I was like, 
+-speak Marisha 
+I'm gonna be crafty and turn into a shark,
+-speak Marisha 
+and then I started immediately drowning.
+-speak Orion 
+How do you keep players from getting OP, Matt?
+-speak Matt 
+Make the monsters more powerful.
+-speak Orion 
+Behind the scenes, I'm always constantly up his ass, trying to make Tiberius as OP as possible, and he's always stopping me a lot.
+-speak Matt 
+Balance is important.
+I mean, the characters, everyone here has really good characters that have a lot of cool abilities, but they also have a lot of challenges that come at them that make them, not only use those abilities, but also, monsters can have cool abilities too.
+-speak Liam 
+Bracheon89, you said Stephen King plays D&D?
+-speak Ashley 
+Yes, that's what I was trying to say.
+What?
+-speak Liam 
+Bracheon, we're going to wait for your answer.
+How do you know he plays D&D?
+-speak Ashley 
+Are you sure?
+-speak Liam 
+Let's get him in here.
+-speak Matt 
+I'd love that.
+-speak Taliesin 
+The group's worst decision in D&D was the dragon, I think.
+-speak Marisha 
+Oh yeah, Grog?
+-speak Taliesin 
+Grog.
+-speak Travis 
+Listen, there was a shitload of gold.
+-speak Ashley 
+I still don't think that was a bad idea.
+-speak Orion 
+Oh, when he started hoarding all the gold?
+-speak Marisha 
+We still don't know if that–
+-speak Liam 
+Takes a lot of stupid.
+-speak Marisha 
+He might have been an ally.
+We might have killed someone who was valuable.
+-speak Taliesin 
+You were still freaking out like a month later, you were feeling really bad.
+-speak Travis 
+Well, I did almost get us killed.
+-speak Ashley 
+I feel like it was a good decision.
+-speak Matt 
+To be fair, it's the only time I've ever had a player rage loot before.
+(all laugh)
+
+-speak Matt 
+You went into a rage, and used it to just loot more.
+And then the dragon revealed itself, and you looked at it, and you just kept looting.
+(all laugh)
+
+-speak Travis 
+You guys take care of this.
+-speak Ashley 
+That was hilarious.
+-speak Matt 
+That's Grog.
+-speak Liam 
+Somebody keeps asking, and we'll do a show of hands here, Lord of the Rings or Game of Thrones?
+-speak Ashley 
+Oh, come on.
+-speak Marisha 
+Ooh, that's tough.
+-speak Liam 
+What do you prefer?
+10 seconds to think about it, and then I'll–
+-speak Taliesin 
+That's like Star Trek or Star Wars.
+-speak Marisha 
+Yeah, hard.
+-speak Liam 
+They're asking the question.
+-speak Zac 
+Don't be afraid, come on.
+-speak Travis 
+That's tough.
+-speak Liam 
+Lord of the Rings, fuckin' Lord of the Rings.
+There you go, there's the answer.
+-speak Ashley 
+I don't know, man.
+-speak Taliesin 
+Lord of the Rings, but I see Game of Thrones on the side.
+-speak Liam 
+I love Game of Thrones.
+-speak Marisha 
+Of course we do.
+-speak Travis 
+Lord of the Rings.
+-speak Taliesin 
+We wouldn't have Game of Thrones without Lord of the Rings.
+-speak Marisha 
+That's the thing.
+-speak Liam 
+Maybe possibly not Dungeons & Dragons without Lord of the Rings.
+-speak Ashley 
+This is true, it's the OG.
+I don't know what that even–
+-speak Taliesin 
+You said that.
+That just came out of your mouth.
+-speak Ashley 
+Please let's leave it alone.
+Moving on.
+-speak Travis 
+That's the OG.
+-speak Ashley 
+What is this, what do we have over here?
+Well, who was the old gnome that Grog saved in his intro video?
+-speak Liam 
+Pike's daddy.
+-speak Ashley 
+No, that was my great great grandfather.
+-speak Travis 
+That's right.
+-speak Ashley 
+Yes, great great grandfather Wilhand.
+-speak Travis 
+Wilhelm, hand?
+Wilhand.
+-speak Ashley 
+That's right.
+-speak Liam 
+Wilhand the money.
+-speak Travis 
+Grog has an intelligence of six, he's gonna get names wrong from time to time.
+-speak Liam 
+Everybody, if you could choose whatever fantasy world to live in, what would it be?
+-speak Travis 
+Marvel.
+-speak Taliesin 
+Ooh.
+-speak Orion 
+I would live in the… Next Generation world, universe.
+-speak Taliesin 
+You had me at Marvel.
+-speak Travis 
+Yeah.
+-speak Zac 
+Here's the thing, you could live in Marvel what you live in, if you couldn't live in that world as a superhero, just as a normal person.
+-speak Travis 
+Right, not in New York.
+Anybody that lives in New York in the Marvel universe is just stupid.
+Like rent's gotta be $1.
+50.
+-speak Taliesin 
+Terrible idea.
+-speak Matt 
+I'd say Myst.
+So I can just write my own worlds to infinity from there.
+-speak Liam 
+Lord of the Rings.
+-speak Matt 
+Or Amber as well.
+-speak Ashley 
+I was gonna say Lord of the Rings.
+Maybe Rivendell.
+-speak Marisha 
+I'm gonna say Final Fantasy 10.
+-speak Matt 
+Grey Havens.
+If you're gonna do Lord of the Rings, do Grey Havens, 'cause you're far enough away from Mordor, where it's generally not gonna be a problem.
+-speak Liam 
+I wanna be one of the Fellowship.
+Ashley Johnson lived in a Marvel universe already, right?
+-speak Matt 
+That's true.
+-speak Orion 
+See, and it's a big hassle.
+-speak Marisha 
+It was a big hassle.
+-speak Orion 
+Yeah.
+-speak Matt 
+Before the stream, our D&D session–
+-speak Marisha 
+High insurance rates.
+-speak Matt 
+Before the stream our D&D sessions would happen once every month to month and a half, more like month and a half.
+-speak Liam 
+Why is Matt Scarlet Witch?
+-speak Matt 
+I'm down with it.
+'Cause I alter reality.
+Power makes sense.
+Our sessions used to be once every month, or month and a half, and they would be about six to eight hours.
+But the problem is we'd play so infrequently, every session I'd have to remind everyone what happened, and it was hard to schedule.
+Part of the reason we're even doing this show, is because it's technically work, which allows those of us who have families and children more of an excuse to come more often.
+So yeah.
+-speak Liam 
+Googoo17, Arkazey keeps asking, what's your favorite nerdy t-shirt you own?
+Mine is one that says Mordor World Tour, it looks like a rock 'n' roll t-shirt, but it says Mordor World Tour.
+-speak Marisha 
+That's cool.
+Favorite nerdy t-shirt.
+-speak Taliesin 
+I've got a Sons of Anarchy Doctor Who t-shirt, I'm a really big fan of.
+I'll wear it next week.
+-speak Marisha 
+I've got like an army, kind of soldiery, looking t-shirt that says Chimera, like Chimera Corps.
+-speak Matt 
+That's actually the one I was gonna say, that's my favorite shirt too.
+-speak Marisha 
+I like your displacer kitty you've got.
+-speak Matt 
+Displacer kitty's kind of cool.
+Adorable.
+-speak Taliesin 
+I like your shine on me shirt.
+-speak Matt 
+Oh God.
+If you guys haven't watched.
+Chris Dane Owens, on YouTube, Chris Dane Owens, Shine on Me.
+It's a music video, watch it.
+Chris Dane Owens, Shine, or Shine on Me, YouTube, do it.
+-speak Taliesin 
+I love that you own the shirt from it.
+-speak Matt 
+I bought a shirt from it, 'cause it's that amazing, I had to.
+-speak Travis 
+Did anyone tell Pike that Scanlan killed the naga for her?
+-speak Matt 
+I don't think someone's done it yet.
+-speak Liam 
+Scanlan had his first kill.
+You saw it, right?
+-speak Matt 
+You saw it on the stream.
+-speak Ashley 
+I saw it, me, Ashley saw it, but Pike did not hear about it yet.
+Who knows, that could be the thing that seals the deal.
+I'll be like, you killed the naga?
+Okay, let's do this.
+(all laugh)
+
+-speak Marisha 
+Any betrayals in the game?
+-speak Matt 
+No betrayals, disagreements, and occasional–
+-speak Travis 
+Trippings and beat-downs.
+-speak Matt 
+And stealing of flying carpets.
+-speak Ashley 
+I actually did step, I kind of did hurt Liam one game.
+Or Vax.
+-speak Liam 
+The game we played together?
+We did just the two of us one night.
+-speak Ashley 
+There were some of the girls changing in a room.
+-speak Matt 
+I forgot about this.
+-speak Liam 
+I was very curious to see you naked.
+But that's kinda fallen on the wayside.
+-speak Ashley 
+Vax was very curious to see what a gnome looked like naked.
+-speak Liam 
+Never seen it before.
+-speak Marisha 
+So you did a little peeping tom?
+-speak Liam 
+Why wouldn't I wanna expand my horizons?
+-speak Matt 
+So he rolled stealth.
+-speak Ashley 
+So he rolled stealth, and he did, and saw or whatever, and then when I came back out, and I found out about it.
+-speak Liam 
+Looked good, it was compact.
+-speak Ashley 
+It was just a small human.
+And I think I stepped on your foot, and gave you some damage.
+-speak Liam 
+Maybe a hit point.
+-speak Ashley 
+Yeah, a hit point or two.
+-speak Matt 
+You earned it.
+-speak Ashley 
+I earned it.
+-speak Orion 
+Somebody, seagullblaster–
+-speak Liam 
+No, Vax didn't spy on Vex, sorry, go ahead.
+-speak Orion 
+Asked– Tiberius said something about the Palestone, and what it is, and this is, somebody asked a different question, this is kinda gonna answer both.
+I, and everybody else, wrote backstories for Matthew to essentially give him so he could construct our universe.
+Tiberius' particular quest is looking for particular artifacts.
+Essentially I made him like Mulder.
+Nobody believes in the city that these things exist, except him, so the truth is out there kinda thing.
+So I made up these five different artifacts that do different things.
+And I don't know what they do until I might maybe find them, and if I do, it's up to him, to Matt, to determine what they are, if they are anything.
+They might be nothing, I don't know.
+I've found one item so far, and it's awesome, and all of us have given him bits and pieces, and that's how he constructs our story with things that you throw in yourself.
+-speak Matt 
+Yeah, and each player, all their story lines work into the world.
+Not all of them will happen immediately of course, some people have had personal encounters and story encounters already, some are yet to occur, and there will be points throughout the campaign where the party will probably have to move and individually deal with each person's story to some extent.
+-speak Marisha 
+Dealt a little bit with each person.
+-speak Matt 
+Touched a little bit like– In Eman, we've seen Vex and Vax's father.
+-speak Liam 
+Vex and I ran into to our father again for the first time in many years, it was a little frosty.
+-speak Matt 
+Had a new family.
+-speak Liam 
+Have a little half sister.
+-speak Travis 
+Matt, you have a favorite voice?
+And does it hurt to do the gnarly monster voice?
+-speak Matt 
+If you do it for an extended period of time it can be kind of shitty.
+-speak Ashley 
+I don't know how you do this new one.
+-speak Travis 
+Breathing in and out.
+-speak Liam 
+That's inward singing, man.
+-speak Travis 
+It is inward singing.
+-speak Liam 
+And then I'm fucking singing, and then–
+-speak Matt 
+Actually, it's funny, a bunch of my NPCs that I've done since high school have ended up turning into characters I've booked.
+I'll go into an audition and be like, 
+-speak Matt 
+I'll go ahead and do Nutibe Curios, from my Second campaign,
+-speak Matt 
+and I'll end up doing that character.
+Alof in Pillars is a character I NPCed back in high school.
+-speak Liam 
+That's awesome.
+-speak Taliesin 
+They still haven't heard my favorite voice from this campaign yet.
+'Cause we haven't gone back to the city yet.
+-speak Matt 
+Oh, Gilmore?
+-speak Liam 
+Gilmore is a wonderful magician who owns a shop.
+-speak Orion 
+Was that the fancy–
+-speak Liam 
+Yes, in the city of Eman, he's got a big friggin' crush on me, and wants me.
+Wants me and some day you and I will actualize that.
+-speak Matt 
+We'll have to roleplay that.
+-speak Liam 
+Maybe in a game.
+Maybe not.
+-speak Travis 
+What do we think is taking over the hive mind?
+-speak Matt 
+What do you guys think is taking over the hive mind?
+-speak Marisha 
+Well we know it's named–
+-speak Orion 
+Obviously some butthole.
+-speak Ashley 
+I think I might have an idea.
+-speak Travis 
+Yeah, you had a vision that we don't even know about yet, right?
+-speak Ashley 
+Well.
+-speak Travis 
+Taking those mushrooms, having those visions.
+-speak Ashley 
+Taking those mushrooms.
+-speak Liam 
+Someone asked how do game devs find us for acting work?
+We all audition, hundreds of people audition, for every role in Los Angeles, we all just try.
+Today I worked on a superhero game, and the guy who was directing me for voiceover said, 
+-speak Liam 
+Hey, so what are you doing for the rest of the day?
+-speak Liam 
+And I said, well, I'm gonna go to the gym, I'm gonna do this, then I'm gonna go do that, do you know about that D&D show that a couple of us are doing?
+And he's like, 
+-speak Liam 
+Yeah, I heard about that.
+-speak Liam 
+And the guy who had written the game went, 
+-speak Liam 
+Yeah, I've watched every episode.
+(all laugh)
+
+-speak Matt 
+So awesome.
+-speak Taliesin 
+That's so cool.
+-speak Ashley 
+Someone wants to hear Gilmore's voice.
+-speak Taliesin 
+I think we should save that for, wait until they actually meet Gilmore.
+-speak Travis 
+Yeah, we can't give it away.
+-speak Matt 
+Gilmore's a fun one.
+-speak Ashley 
+Gilmore's awesome.
+-speak Matt 
+Gilmore is very Broadway.
+He's very–
+-speak Taliesin 
+Not the gargoyle.
+-speak Matt 
+No, no.
+I could see him being a character in a John Waters film.
+-speak Taliesin 
+Oh my God, yeah.
+-speak Ashley 
+Totally.
+-speak Liam 
+Give him a pencil-thin mustache.
+-speak Matt 
+Yeah.
+-speak Taliesin 
+I'm trying to catch up.
+-speak Travis 
+Greater overall motivations?
+-speak Matt 
+That may or may not be secret, depending on the characters.
+-speak Marisha 
+What is each person's favorite D&D monster?
+-speak Travis 
+A dead one.
+-speak Liam 
+I liked it when Grog got it on with a, what was it, a nymph?
+-speak Travis 
+What?
+-speak Matt 
+Yeah!
+-speak Travis 
+You don't know man, I went through the portal, handled my business like a champ.
+-speak Liam 
+In the air.
+-speak Travis 
+I don't kiss and tell.
+Nobody knows.
+I got what we were supposed to get.
+-speak Liam 
+A nymph could have attacked us, but Grog looked her in the eye, and she liked what she saw.
+Then he disappeared for a little while, and he came back and he was in a really good mood.
+-speak Travis 
+I flashed her the look, man.
+She was mine, what can I say?
+-speak Taliesin 
+I like the little green gelatinous cubes.
+I think they're fun, and then if you make 'em right, you can just make 'em out of jello, and eat them when you're done, that's awesome.
+-speak Matt 
+I don't wanna answer that question necessarily, because I might be using them in the campaign at some point.
+-speak Orion 
+Which one?
+-speak Matt 
+Nothing.
+-speak Ashley 
+So that means we haven't used 'em yet.
+-speak Matt 
+But overall, I just love the tarrasque because it's like the game ender.
+It's the godzilla.
+It's the one DM's move where he's like, 
+-speak Matt 
+I'm done with this campaign, hey guys, you're gonna fight a tarrasque, either you're all gonna die, or you beat it, and you beat the game!
+-speak Matt 
+So the tarrasque is always fun.
+-speak Orion 
+Is it the final boss?
+-speak Liam 
+I've always been fascinated with the mind flayers.
+You're fucking throwing an army of them at us.
+'Cause they're dangerous.
+-speak Matt 
+Yeah, they're terrible.
+-speak Liam 
+And they're so outside of the norm.
+-speak Matt 
+And hey you stealthed up, and pretty much killed one in one round today.
+-speak Orion 
+That was insane.
+When the mud on the face, and the stab in the fucking back of the head.
+-speak Matt 
+You guys black ops'ed that entire barracks.
+-speak Liam 
+I'm proud of the knife.
+-speak Taliesin 
+I know what you're talking about.
+-speak Travis 
+Grog and Scanlan have no bastard children, that we know of.
+Or that you can prove.
+-speak Liam 
+Other streamed D&D games, like Rollplay hosted by itmejp?
+-speak Travis 
+No.
+-speak Liam 
+No.
+Maybe we will, though.
+-speak Orion 
+I won't.
+-speak Liam 
+Everyone play Dungeons & Dragons.
+-speak Ashley 
+My favorite NPC character is a little butler who I think became–
+-speak Travis 
+Yes!
+-speak Ashley 
+He's the cutest little thing you will ever see, and I think now he works at–
+-speak Taliesin 
+He works for us now.
+-speak Matt 
+Yep, you guys hired him, and he's currently helping keep your Keep in good shape.
+-speak Ashley 
+What's his name?
+-speak Orion 
+The old fellow, right?
+-speak Matt 
+I'm trying to remember, I'll have to go look at the list again.
+I have so many NPCs, I have a hard time.
+-speak Ashley 
+He's just the sweetest little thing you ever did see.
+-speak Matt 
+Grog's flatlined intelligence, anything like that happen before?
+That was the first of that type of situation.
+-speak Travis 
+I went unconscious once 'cause I fell, how far did I fall?
+-speak Taliesin 
+Wow, you fell.
+-speak Orion 
+Oh, that was a crazy one too.
+-speak Matt 
+They were there fighting in an underground cavern, and at the very, very top of this giant, like 170-foot ceiling, which they had all kinda floated up to, and put a rope, anchor in.
+-speak Travis 
+I was ready to Toro the bull.
+-speak Matt 
+The first umber hulk you guys ever encountered, ended up pushing Grog out of the hole, bullrushing him.
+Had the rope tied around his waist, but unfortunately Grog weighs about 600 pounds, rope snapped, and he took enough damage to go from full health to unconscious and bleeding out in one round.
+-speak Marisha 
+'Cause he confused you, right?
+And you just hari-karied off the hole?
+-speak Travis 
+I was gonna dodge and be all awesome, and say ole or some shit, but I was just out.
+-speak Marisha 
+That was when I was a spider tiger.
+'Cause I cast Spider Climb on myself, and I was in tiger form, so I was spider climbing all over the place.
+-speak Matt 
+That's also one of my favorite risky rolls, which was after that happened, Tiberius, you pushed the umber hulk onto the ground, or through the hole, it fell.
+-speak Orion 
+I had this amazing spell with Pathfinder called Aquasphere, orb, and you can like, capture large creatures.
+I literally can waterbend a sphere and carry this dude and drop them down, it was amazing, I miss it so much.
+Continue the story.
+-speak Matt 
+So essentially Tiberius decided, 'cause Grog was unconscious, and the creature was down there.
+All of them were stuck 170 feet up, in this little hive essentially.
+Tiberius said fuck it, he jumped out of the hole, swan dove down, and cast Featherfall on himself at the last minute, had to make a concentration check because of the wind rushing past, and having to cast a spell while falling.
+It's a very difficult thing.
+He had about a 40% chance of success, 60% chance of instant death, and he made the roll.
+I love risky moments like that so much, I love 'em.
+-speak Travis 
+It was pretty legit.
+-speak Orion 
+I did it again and held that fucker, it was intense.
+-speak Marisha 
+I'm wondering when we're gonna face a beholder.
+-speak Matt 
+That'll be nasty.
+-speak Marisha 
+That's my favorite D&D monster.
+-speak Orion 
+With all the eyes?
+-speak Marisha 
+They're like a big floating head with a giant eye, and they've got tentacles, with eyes on the end of 'em, and each eyeball does a different ray of effect.
+-speak Travis 
+A beholder?
+-speak Matt 
+Nasty.
+-speak Travis 
+You know what that is too?
+-speak Liam 
+Yeah.
+-speak Marisha 
+They're nasty.
+-speak Ashley 
+Bad news bears.
+-speak Marisha 
+They're super awesome.
+One of these days we're gonna fight one.
+-speak Matt 
+One of these days.
+-speak Liam 
+They're a signature character of Dungeons & Dragons.
+They represent D&D.
+-speak Travis 
+What made the dwarves get bigger today in the battle?
+-speak Matt 
+That's actually an ability of the duergar.
+-speak Liam 
+Viagra.
+-speak Matt 
+Yeah.
+They can summon through sheer force of will, and just the way they've been bred over time, they can increase their form for a short time to increase their damage, and be just a general asshole, so.
+It's an ability the duergar have.
+-speak Travis 
+Long lost son.
+-speak Liam 
+I'm gonna guess that none of us have been to Sweden?
+-speak Matt 
+I have.
+-speak Ashley 
+My dad was from Sweden.
+-speak Matt 
+That's awesome.
+I've been to Gothenberg.
+-speak Taliesin 
+That's not surprising.
+-speak Orion 
+I have not, but I would like to go.
+-speak Marisha 
+Yeah, who wouldn't want to go to Sweden?
+-speak Liam 
+Makes sense.
+Pale and blonde.
+-speak Matt 
+Have you been?
+-speak Ashley 
+Never been.
+-speak Matt 
+It's beautiful, I spent two weeks in Gothenberg, Sweden, on business years ago.
+It was gorgeous.
+Food was amazing.
+Nothing like walking down the street and seeing a giant gothic stone structure with an archway and a gargoyle perched, and you walk in and it's a 7-Eleven.
+It's pretty hilarious.
+All the architecture there is old, but it's been repurposed, it's great.
+-speak Liam 
+If you had to choose would you pick to receive an extra level, or Matt's hair?
+-speak Matt 
+God damn it.
+-speak Liam 
+Matt's hair.
+(all laugh)
+
+-speak Ashley 
+Hair, obviously.
+-speak Marisha 
+Receive an extra level or Matt's hair.
+-speak Travis 
+You can't get hair like this without unicorn blood.
+My God.
+-speak Matt 
+I'm gonna shave my head one of these days.
+-speak Liam 
+Shave his head, he can't DM anymore.
+-speak Matt 
+I'd wither.
+It's like Sampson.
+I would just like become this little raisin, I'd be David Tennant.
+-speak Liam 
+The beholder strikes for the– mawp.
+Mawp.
+-speak Matt 
+Let's see.
+What are the questions we got up there?
+-speak Marisha 
+It is 11:38, by the way.
+-speak Liam 
+What is the most outrageous and unexpected thing to come from a natural 20?
+That was Scanlan.
+-speak Ashley 
+Probably the–
+-speak Liam 
+Scanlan as Burt Reynolds.
+-speak Marisha 
+Oh right.
+-speak Matt 
+We'll take about five more minutes of questions.
+Five or ten more minutes of questions, then we gotta take off.
+-speak Liam 
+How long will you be doing this show?
+30 years.
+-speak Matt 
+Considering we've been playing for two and a half years, and everyone's level nine, we can keep going for quite some time.
+Whether or not we continue past that, means either we do a new campaign, or we go into epic or mythic levels?
+We'll cross that bridge when we get to it.
+I mean, I'd love to keep playing for as long as people wanna play, but also people get busy, life changes, we'll see how it goes.
+I'm in for the long haul as much as everyone else is.
+-speak Liam 
+Matt, multiple people are asking what the music is that we're hearing on the show.
+-speak Matt 
+What you hear in the show is a combination of a gentlemen named Kevin Macleod, who has a website called Incompetech, which he produces really amazing, royalty-free musical tracks.
+I've used them for many web series for many years.
+He's very talented, and I contacted him, and asked him permission to use on the stream.
+He's like, 
+-speak Matt 
+Yeah, anything on Twitch, go for it.
+-speak Matt 
+And the other half are a lot of soundscapes I use from a company called Platemail Games, which make great custom RPG soundscapes, and some tracks that are just creepy, and dwarf cityscapes, and dark forest night.
+It's a great, great resource.
+Those are my two big ones for this Twitch stream.
+-speak Orion 
+And yes, we did roll for our starting stats.
+-speak Matt 
+Yeah it was 4d6, drop the lowest, arrange as desired.
+So it was a powerful campaign.
+-speak Liam 
+What was the most nail-biting moment the group has seen?
+It was Pike's death.
+-speak Marisha 
+Pike dying.
+-speak Matt 
+Definitely.
+Do you prefer being the DM, or do you like mixing it up and being characters?
+I never get a chance to play games really.
+It's kind of one of those, always a DM, never a bride circumstance.
+-speak Liam 
+You wanna play with my kid?
+-speak Matt 
+Yeah.
+I'll be an evil character and murder them all, you're going to regret it immediately, make 'em just cry.
+-speak Liam 
+Listen, that's the game, suck it up!
+-speak Matt 
+Yeah, turn it into Mazes and Monsters.
+-speak Taliesin 
+Is that why you play so much War Machine, is because for once you don't have to be responsible?
+-speak Matt 
+Probably.
+I occasionally, I got to play a game of Diaspora for a while, with Philip Eisner, the guy who wrote Event Horizon.
+So playing a sci-fi kind of horror-based universe with him running, that was great.
+That was very brief.
+-speak Liam 
+Matt, can you give us any teasers of things to come?
+-speak Matt 
+No.
+See as they happen, man, that's part of the fun, the mystery of it all.
+I know what's coming.
+I got stuff planned for years.
+It's gonna be fun.
+-speak Liam 
+Do you have any advice to get into voice acting?
+Learn to act, study acting, go to where the work is, keep acting, in anything, in fucking anything.
+Go to where the work is.
+Act.
+-speak Matt 
+What age did you play your first tabletop RPG game?
+For me it was Second Edition Dungeons & Dragons, and it was freshman year of high school.
+-speak Taliesin 
+GURPS, 13.
+I was, yeah, 13 years old, GURPS.
+-speak Ashley 
+Favorite tabletop games, not D&D?
+-speak Liam 
+Get Hulk Hogan to play.
+-speak Orion 
+That's not D&D?
+-speak Taliesin 
+Mansions of Madness.
+-speak Marisha 
+Mansions of Madness is great.
+-speak Orion 
+Is MTG, Magic the Gathering a tabletop?
+Is that considered tabletop?
+-speak Marisha 
+It's a card building game.
+-speak Orion 
+Magic.
+-speak Marisha 
+War Machine.
+-speak Matt 
+War Machine is really fun.
+-speak Marisha 
+I'm a Cryx player.
+-speak Matt 
+It's awesome.
+-speak Ashley 
+I'm just starting.
+-speak Matt 
+You're the awesome Retribution.
+-speak Orion 
+I'm Circle of Orboros.
+-speak Taliesin 
+We played with Scanlan, of course we do.
+-speak Travis 
+It said do you ever think about sexuality while playing, besides Grog, of course.
+Scanlan does, I'm sure other people have.
+-speak Taliesin 
+It's hard not to think about it with Sam.
+-speak Travis 
+We just pay for it.
+-speak Liam 
+Are we gonna release more background information of your campaign?
+-speak Matt 
+Yes, actually.
+-speak Liam 
+We are?
+-speak Matt 
+Time has been hard, but I'm trudging through.
+What I'm gonna make essentially is a video recap of the previous two and a half years of the campaign.
+I'm gonna narrate it, it's gonna be very simple.
+It's gonna be just information, with the occasional slides of stuff in the background.
+But I'm working on a video, kind of like your guys' intros, that'll be a synopsis of the story up until this stream stared.
+-speak Travis 
+Claymation, that's awesome, man.
+-speak Matt 
+I will destroy you, I will fucking stab you.
+-speak Liam 
+If you want, it's not much, but I have a Vine account that's under the name VoiceofOBrien, and I took a lot of Vine videos from our private game.
+So it's not a ton, but you'll see us acting like shitheads.
+-speak Travis 
+That's seven seconds at a time.
+-speak Marisha 
+Seven seconds at a time, yeah.
+I think I still have the video of you trying to woo the nymph lady.
+-speak Travis 
+Try?
+-speak Taliesin 
+That was a good video.
+-speak Marisha 
+It's basically just you flirting with my boyfriend.
+-speak Taliesin 
+I have some videos of the tarot game, and a couple of us
+-speak Travis 
+Matt is now a nymph.
+-speak Matt 
+Yeah, we sat there, and, hey man, I've had to flirt with quite a few of these people as characters, it's interesting.
+-speak Liam 
+Who's your favorite NPC that you brought to life for us?
+-speak Matt 
+Oh, that's a tough one.
+There's been a lot of good ones.
+I really enjoyed Grimthorn, the dwarf that was–
+-speak Liam 
+Clarota is pretty good.
+-speak Matt 
+Yeah, Clarota is great.
+He was the one eyed dwarf with the shave, that was taking you guys to the fighting ring.
+He was fun.
+I'm enjoying Balgus as well, he's a good one.
+-speak Marisha 
+Ballsack.
+-speak Liam 
+Ballsack.
+-speak Marisha 
+Do we have nicknames for all of our NPCs?
+-speak Matt 
+You know, I really enjoy Arcanist Allura Vysoren.
+-speak Orion 
+So do I!
+-speak Matt 
+She's an awesome, powerful, headstrong elven sorceress, who is part of a, not a secret, but a very powerful circle of magic practitioners around the world, and also a member of the council of Tal'Dorei.
+She's one of the largest allies that this group has had through a lot of the adventure arcs, and I love playing her, she's great.
+-speak Liam 
+Grog, have you even thrown a gnome as an attack.
+-speak Travis 
+The very first time we played, I picked up Sam and chucked him across a room.
+That was full of a trap.
+-speak Marisha 
+Fastball special.
+-speak Travis 
+And it worked.
+It was awesome.
+-speak Matt 
+What character type would I play if I ever got a chance to play?
+I would probably be a bard.
+I wanna make a bard that actually conducts the battle.
+Meaning, sits there and watches the fight, and he's conducting, like music happens when other people attack.
+Cymbals go off, and drum beats, and all of his abilities are tied to music, so he's actually conducting the battle like a symphony.
+That's what I wanna make.
+-speak Marisha 
+That's cool.
+-speak Ashley 
+That's badass.
+-speak Matt 
+One day.
+-speak Liam 
+Would you ever play an evil character?
+My contingency plan, if I get killed, I don't know about evil, but he won't be as nice as Vax.
+-speak Matt 
+Evil characters have to be discussed with the DM.
+I'm iffy on the evil character, unless they have a good reason, and a personality that isn't going to completely derail the campaign.
+Doing an evil campaign, that's fine.
+But if you're building a character that is going to inherently be a troll, and basically diminish everybody else's good time in the story, it becomes a problem.
+-speak Zac 
+It's the internet though, man.
+-speak Matt 
+I know.
+If you make a cool, interesting evil character, that can be evil but still like, like a good example would be in Baldur's Gate, Edwin.
+-speak Zac 
+What if one of your guests, that came on for one night, would they be allowed to be?
+-speak Matt 
+Yeah, they'd be allowed to.
+They may not survive.
+-speak Orion 
+Tiberius might not–
+-speak Marisha 
+Or kill them.
+-speak Liam 
+I don't know about evil, but if I have to come back, I might be a lot more selfish.
+-speak Matt 
+In it cool news, tabletop columnist, offering to DM a game for me.
+I may have to hit you up on that some time.
+'Cause that'd be awesome.
+-speak Taliesin 
+He deserves a break.
+-speak Zac 
+How do you remember all the voices that you've done of the NPC's over the years?
+-speak Matt 
+I make notes and audio files.
+-speak Travis 
+You do?
+-speak Matt 
+I do.
+As a reminder in case I forget.
+-speak Travis 
+Jarvis.
+(all laugh)
+
+-speak Matt 
+I have notes written next to every NPC, like an accent or dialect that I chose for them, a general texture.
+Kind of like what you'd see for breakdowns for a character you're auditioning for.
+I basically make that for each NPC to remind me of what I've done.
+And if it's a particularly weird voice that I don't know if I could replicate in the future, after the session I'll go and do a little audio file of me doing the voice so I can go back to it later.
+-speak Travis 
+You're a freak of nature, man.
+-speak Taliesin 
+Seriously.
+-speak Matt 
+Good question.
+-speak Marisha 
+There's a lot that goes into it.
+I think Matt, just to put it into perspective, for everyone in the chat room, I think Matt probably spends close to eight hours, at least, on each time before we play.
+Or I guess at least we used to.
+-speak Matt 
+For our big session, I'd spend as much time preparing as we did playing.
+I'll put it that way, I spend as much time preparing as we play.
+So for these sessions, I'm spending about three hours a week, preparing, what, three to four hours a week?
+For old sessions that was bigger.
+-speak Liam 
+Someone asked, what was the reaction to discovering you had a magic flying carpet?
+Which you can see if you go to Matt's YouTube channel.
+There's a video that Ashley made of us playing, and you see our reactions to that.
+-speak Marisha 
+Who was it, was it you, or Vex?
+That tried to float down with the carpet, and then we realized it was magic?
+-speak Liam 
+Yeah, underneath.
+-speak Marisha 
+But we tried to just use it like a parachute.
+-speak Matt 
+It was a crumbling tower, it was Allura's tower.
+You guys went into, realized she was missing, because the tower had been attacked.
+You set off essentially a defense system of her arcane tower, which caused it to crumble into a tiny pearl.
+-speak Orion 
+Tiberius jumped out the window and just cast Featherfall.
+-speak Matt 
+Yeah, and just kinda glided away.
+You turned into an eagle and grabbed the gnomes.
+The rest of the party had to try to rapidly escape a crumbling tower that was compacting on to itself.
+-speak Marisha 
+I think it was mainly the twins in the tower.
+-speak Liam 
+Hey, Grog almost died once.
+He fell from a great–
+-speak Matt 
+You fall a lot, but when you fall on to something, that thing is fucked.
+-speak Matt 
+All right, we're winding down here, 'cause we gotta leave here shortly guys.
+Two more questions.
+-speak Liam 
+Three more questions.
+-speak Zac 
+Closing messages before you guys go, too.
+-speak Matt 
+Oh yeah, all right, so we'll do a couple more questions, then we'll go to closing messages.
+Who wants to pick?
+-speak Liam 
+Let's make it a magic three.
+-speak Marisha 
+Let's do a good one.
+-speak Matt 
+Three, three questions, make 'em quick.
+Let's see.
+-speak Marisha 
+Waiting for a good one.
+-speak Matt 
+How much does Grog weigh?
+Grog weighs approximately 600 pound we decided.
+-speak Travis 
+Just under 700.
+-speak Matt 
+So he's kinda rough.
+-speak Travis 
+It's all muscle, bitch.
+-speak Matt 
+Yeah it is.
+Muscle and brains.
+-speak Travis 
+Muscle and wang.
+500 pounds and a hundred-pound wang.
+-speak Matt 
+Any of you consider running a game for fans of the stream?
+Actually, I've run a couple games at conventions for some groups.
+I had a couple of sessions I ran, actually in conjunction with Wizards, they sent stuff out for us.
+-speak Taliesin 
+And for charity.
+-speak Matt 
+Yeah, we've had some charity D&D games out here in L.
+A.
+So we've done them before.
+I'd consider it if there was time available, and a venue that allowed it.
+So if it does happen, we'll definitely announce it here.
+-speak Travis 
+Best item in your inventory?
+-speak Orion 
+That's for a magic item?
+-speak Travis 
+Oh, did we already say that?
+I'm just blanking.
+-speak Orion 
+No.
+-speak Taliesin 
+It's hard to read this quickly.
+-speak Matt 
+You guys have some good questions.
+-speak Travis 
+My brain's turning into applesauce.
+-speak Ashley 
+I know, me too.
+-speak Liam 
+Do you realize how lucky you all are to have such a nice group of friends?
+-speak All 
+Yes.
+-speak Matt 
+Very much so.
+-speak Taliesin 
+The world is cold and unfeeling.
+-speak Liam 
+Let's close it on that.
+I love these guys.
+-speak Matt 
+And I like to think that this is, because there are so many good people out there in the world, and we were lucky enough to find each other through weird circumstances.
+And there are so many good people in the world out there, don't close yourself off to it.
+You'd be surprised how many awesome–
+-speak Travis 
+How long does it usually take the woman in the back to tie her boot?
+-speak Marisha 
+I'm multi-tasking.
+-speak Matt 
+No, that's the question we end it on.
+That's the question.
+-speak Marisha 
+I've just been tightening my laces while I've been kicking it back here.
+-speak Zac 
+I'm gonna squeeze in here really quick.
+So I have some thank you's I wanna call out while you guys are here.
+I figured they'd appreciate me calling them out the most while you guys were on screen.
+'Cause they like you guys for some reason.
+-speak All 
+Aw.
+-speak Zac 
+So these are all people that have sent us stuff off Amazon, to help make the studio better.
+So Danielle Denny.
+-speak Ashley 
+Thanks Danielle!
+-speak Matt 
+Danielle, thank you so much Danielle.
+-speak Zac 
+Bradley Dealman?
+-speak Marisha 
+Dalman.
+-speak Matt 
+Bradley Dalman.
+-speak Liam 
+Do we know what they sent us?
+Can you tell us some of the things they sent?
+-speak Zac 
+I have, I– Well I mean they're like– new microphones for that station and lights.
+-speak Marisha 
+That's amazing.
+-speak Zac 
+Wii controllers.
+-speak Matt 
+Brad, thank you, that's amazing.
+-speak Zac 
+And other stuff for tech we needed that we didn't have.
+Shane and Russell said thanks for all your hard work, and everything you are doing.
+-speak Matt 
+Aw.
+Thank you Shane!
+-speak Zac 
+Ty Odlinger.
+-speak Ashley 
+Ty!
+-speak Zac 
+Timothy B.
+Hudson.
+-speak Ashley 
+Timothy!
+-speak Zac 
+Timothy B.
+Hudson, he went nuts.
+-speak Matt 
+Timothy!
+-speak Taliesin 
+Triple threat.
+-speak Zac 
+Kathel T.
+Stockdale.
+-speak Ashley 
+Cool name, Kathel.
+-speak Zac 
+Yeah, that's rad.
+Luis Archuletta.
+-speak Matt 
+Luis Archeletta!
+-speak Ashley 
+Luis!
+-speak Zac 
+Steve Chua.
+-speak Matt 
+Steve!
+-speak Zac 
+Here's a little something to help you guys out.
+Another one from Chua, here's a little something to help you guys out.
+And I know there's more coming in, this is what we've got so far.
+Thanks everybody.
+-speak Matt 
+That's so cool guys, thank you.
+-speak Zac 
+And they also have asked that a couple of you guys come on Honesty Hour sometime.
+-speak Liam 
+What is that?
+-speak Zac 
+It's a show I do on Monday nights, where it's 100% no-holds-barred.
+I will answer any question that they ask.
+-speak Travis 
+What?
+-speak Orion 
+I would love to do that.
+-speak Travis 
+Sounds like a horrifying idea.
+-speak Zac 
+Okay, they've asked specifically for Ashley, they've asked for Matt, and as for, actually I think everyone has been asked at one point in time.
+So I'll say maybe I'll have you guys once a month.
+-speak Ashley 
+When is Honesty Hour?
+-speak Zac 
+It's usually Monday nights from nine to, whenever the fuck.
+Like it went to 1:30AM the other night.
+-speak Crew 
+Isn't it really an Honesty Time?
+-speak Zac 
+Don't do it!
+It's only for subscribers.
+It's not that bad, because they ask really great questions, a lot of them have been about how have you gotten through certain aspects of depression, or what kind of thing–
+-speak Marisha 
+Oh that's good.
+-speak Zac 
+It's pretty inspirational.
+-speak Liam 
+How many times have you been hit in the nuts in your life?
+-speak Zac 
+I can say twice.
+And would probably explained how it happened, and what I did.
+It's just story time.
+Sometimes the questions get a little inappropriate.
+-speak Matt 
+That's okay.
+-speak Zac 
+That's fine.
+-speak Matt 
+But like for the most part, the audience here's been so awesome, they're all super intelligent with great questions.
+I'd be down, I'd totally be down.
+-speak Ashley 
+Wait, is this Noncompliant?
+-speak Zac 
+Yeah.
+-speak Matt 
+Oh, that's awesome.
+Yeah, I got the Noncompliant tattoo this week, actually.
+-speak Marisha 
+Oh yeah, I saw your picture.
+-speak Ashley 
+That's amazing.
+-speak Zac 
+We have a comic book show on Tuesday.
+-speak Travis 
+(air-horn sound)
+-speak Zac 
+Real talk with Zac.
+But thank you guys so much for doing this.
+The subscribers really wanted to do it, so hopefully you guys enjoyed as well.
+And we will come back next week.
+-speak Travis 
+Yeah!
+-speak Ashley 
+Yay!
+-speak Zac 
+Tomorrow, if you guys are at Wonder Con, are any of you guys gonna be at Wonder Con?
+-speak Taliesin 
+Saturday.
+-speak Marisha 
+I don't know, maybe.
+-speak Orion 
+I'll be there Saturday.
+-speak Matt 
+I'm sadly not gonna be there.
+-speak Zac 
+I will be there tomorrow from 12:30 to one, for a meet and greet, which I'm going to pretend is an autograph signing, and I'm going to bring my own pictures.

@@ -4,11 +4,15 @@ class Scene {
   HashMap<Integer, SceneData> secretScenes = new HashMap<Integer, SceneData>();
   HashMap<Integer, Integer> secretScenesNumbers = new HashMap<Integer, Integer>();
 
+  ArrayList<String> showHideStrings;
+
   int lastScene;
   int lastSecretScene;
 
   String lines[];
   int index;
+
+  int maxIndex = 0;
 
   String scene;
   SceneData data = new SceneData();
@@ -28,14 +32,22 @@ class Scene {
   int secretScenePer = 10;
 
   PImage backgroundImage;
-  
+
   int textX = int(width * 0.08);
   int textY = int(height * 0.12);
   int textWidth = int(width * 0.15);
   int textHeight = int(height * 0.2);
 
 
-  Scene() {
+  boolean scenesReadyToRun = false;
+
+  void Initialise() {
+    showHideStrings = new ArrayList<String>();
+    showHideStrings.add("-show");
+    showHideStrings.add("-hide");
+    showHideStrings.add("-showanother");
+    showHideStrings.add("-refresh");
+
     font = createFont("fonts/maragsa display.otf", 30 * widthScaling);
     backgroundImage = loadImage("images/scene background.png");
     backgroundImage.resize(width, height);
@@ -43,6 +55,7 @@ class Scene {
     lines = loadStrings("episodes/" + folderToRead + "/main.txt");
     TrimLines();
     index = 0;
+    maxIndex = lines.length;
 
     currentScene = 0;
     currentSecretScene = 0;
@@ -59,7 +72,7 @@ class Scene {
 
     while (index < lines.length) {
       String line = lines[index];
-
+      println(line);
       secretScenesNumbers.put(index, currentSecretScene);
 
       if (nextSecretScene == 0) {
@@ -78,6 +91,7 @@ class Scene {
         secretData.showSpeaker = showSpeaker;
         secretData.speaker = speaker;
         secretData.changedArt = new HashMap<String, String>(characterDisplay.changedArt);
+        secretData.battleSaver = new BattleMapSaver(map);
         secretScenes.put(currentSecretScene, secretData);
         currentSecretScene++;
 
@@ -110,7 +124,9 @@ class Scene {
 
         data.showSpeaker = showSpeaker;
         data.speaker = speaker;
-        data.changedArt = new HashMap<String, String>(characterDisplay.changedArt); 
+        data.changedArt = new HashMap<String, String>(characterDisplay.changedArt);
+
+        data.battleSaver = new BattleMapSaver(map);
 
         scenes.put(currentScene, data);
         currentScene++;
@@ -121,30 +137,83 @@ class Scene {
         background.load(args[1]);
         data.background = args[1];
         secretData.background = args[1];
+        if (globalSkipText) {
+          background.SetUnderlyingBackground(args[1]);
+          screenshot = true;
+          updateBackground = true;
+          checkBackground();
+        }
       } else if (args[0].equals("-slowbackground")) {
         background.load(args[1]);
         data.background = args[1];
         secretData.background = args[1];
+        if (globalSkipText) {
+          background.SetUnderlyingBackground(args[1]);
+          screenshot = true;
+          updateBackground = true;
+          checkBackground();
+        }
       } else if (args[0].equals("-music")) {
         data.music = args[1];
         secretData.music = args[1];
       } else if (args[0].equals("-show")) {
-        characterDisplay.Show(args[1], int(args[2]));
+        characterDisplay.Show(args[1], float(args[2]));
+        if (globalSkipText) {
+          String nextLine = lines[index+1];
+          String args2[] = split(nextLine, " ");
+          if (!(showHideStrings.contains(args2[0]))) {
+            characterDisplay.Transition();
+            updateBackground = true;
+            checkBackground();
+          }
+        }
       } else if (args[0].equals("-showanother")) {
-        characterDisplay.ShowAnother(args[1], int(args[2]));
+        characterDisplay.ShowAnother(args[1], float(args[2]));
+        if (globalSkipText) {
+          String nextLine = lines[index+1];
+          String args2[] = split(nextLine, " ");
+          if (!(showHideStrings.contains(args2[0]))) {
+            characterDisplay.Transition();
+            updateBackground = true;
+            checkBackground();
+          }
+        }
       } else if (args[0].equals("-hide")) {
         characterDisplay.Hide(args[1]);
+        if (globalSkipText) {
+          String nextLine = lines[index+1];
+          String args2[] = split(nextLine, " ");
+          if (!(showHideStrings.contains(args2[0]))) {
+            characterDisplay.Transition();
+            updateBackground = true;
+            checkBackground();
+          }
+        }
       } else if (args[0].equals("-refresh")) {
         characterDisplay.Refresh(args[1]);
+        if (globalSkipText) {
+          String nextLine = lines[index+1];
+          String args2[] = split(nextLine, " ");
+          if (!(showHideStrings.contains(args2[0]))) {
+            characterDisplay.Transition();
+            updateBackground = true;
+            checkBackground();
+          }
+        }
       } else if (args[0].equals("-setbattle")) {
-        showBattleMap = true;
-        battle = args[1];
-        battleNumber = 0;
         map.load(args[1]);
+        map.SetBattleMap(args[1], int(args[2]), int(args[3]));
+        data.background = "parchment";
+        secretData.background = "parchment";
+        background.SetUnderlyingBackground("parchment");
       } else if (args[0].equals("-updatebattle")) {
-        battleNumber++;
+        map.UpdateBattle();
+        updateBackground = true;
+        checkBackground();
       } else if (args[0].equals("-endbattle")) {
-        showBattleMap = false;
+        map.EndBattle();
+        updateBackground = true;
+        checkBackground();
       } else if (args[0].equals("-speak")) {
         showSpeaker = true;
         speaker = args[1];
@@ -154,9 +223,42 @@ class Scene {
       } else if (args[0].equals("-changeart")) {
         print("alter");
         characterDisplay.changeArt(args[1], args[2]);
+        characterDisplay.Transition();
+        updateBackground = true;
+        checkBackground();
       } else if (args[0].equals("-setheightscale")) {
         heightScale = float(args[1]);
-      } 
+        updateBackground = true;
+        checkBackground();
+      } else if (args[0].equals("-addtoken")) {
+        map.AddToken(args[1], args[2], args[3], float(args[4]), float(args[5]));
+      } else if (args[0].equals("-addgraphicon")) {
+        map.AddGraphicOn(args[1], args[2], args[3], args[4], args[5], args[6]);
+      } else if (args[0].equals("-removegraphic")) {
+        map.RemoveGraphic(args[1]);
+      } else if (args[0].equals("-removeallgraphics")) {
+        map.RemoveAllGraphics();
+      } else if (args[0].equals("-removetoken")) {
+        map.RemoveToken(args[1]);
+      } else if (args[0].equals("-movetoken")) {
+        String colorBase = args[1];
+        if (args.length == 5) {
+          colorBase = args[4];
+        }
+        map.MoveToken(args[1], float(args[2]), float(args[3]), colorBase);
+      } else if (args[0].equals("-refreshtoken")) {
+        map.RefreshToken(args[1]);
+      } else if (args[0].equals("-addgraphic")) {
+        map.AddGraphic(args[1], args[2], args[3], args[4], args[5], float(args[6]), float(args[7]));
+      } else if (args[0].equals("-setprone")) {
+        map.SetProne(args[1], boolean(args[2]));
+      } else if (args[0].equals("-setshadow")) {
+        map.SetShadow(args[1], boolean(args[2]));
+      } else if (args[0].equals("-pausebattle")) {
+        map.PauseBattle();
+      } else if (args[0].equals("-end")) {
+        break;
+      }
       index++;
     }
 
@@ -165,6 +267,9 @@ class Scene {
     currentScene = -1;
     currentSecretScene = -1;
     characterDisplay.HideAll();
+    map.EndBattle();
+
+    preprocessingFinished = true;
   }
 
   void ChangeScene() {
@@ -174,6 +279,10 @@ class Scene {
   }
 
   void Run() {
+    if (!scenesReadyToRun) {
+      return;
+    }
+
     String sceneText = scenes.get(0).name;
     if (currentScene >= 0) {
       sceneText = scenes.get(currentScene).name;
@@ -203,22 +312,17 @@ class Scene {
 
       dialogueDisplay.dialogueLines = new ArrayList<String>();
       textDisplay.ClearText();
-      input.index = data.index;
 
-      if (data.showSpeaker) {
-        dialogueDisplay.SetSpeaker(data.speaker);
-      } else {
-        dialogueDisplay.SecretSetSpeaker(data.speaker);
-      }
-      if (data.showBattleMap) {
-        background.SetUnderlyingBackground("parchment");
-        map.SetBattleNumber(data.battle, data.battleNumber);
-      } else {
-        map.EndBattle();
-        background.SetUnderlyingBackground(data.background);
-      }
+      dialogueDisplay.oldShowSpeaker = dialogueDisplay.showSpeaker;
+      dialogueDisplay.oldSpeaker = dialogueDisplay.speaker;
+      dialogueDisplay.SecretSetSpeaker(data.speaker);
+
+      background.SetUnderlyingBackground(data.background);
+      data.battleSaver.update(map);
 
       updateBackground = true;
+
+      input.index = data.index;
       parser.Parse();
     }
   }

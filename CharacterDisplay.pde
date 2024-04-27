@@ -9,7 +9,7 @@ class CharacterDisplay {
 
   HashMap<String, CharacterBust> characterBusts = new HashMap<String, CharacterBust>();
   ArrayList<CharacterBust> displayedCharacterBusts = new ArrayList<CharacterBust>();
-  
+
   HashMap<String, String> changedArt = new HashMap<String, String>();
 
   CharacterDisplay() {
@@ -27,19 +27,19 @@ class CharacterDisplay {
       }
     }
   }
-  
-  void changeArt(String character, String artName){
+
+  void changeArt(String character, String artName) {
     characterBusts.get(character).setArt(artName);
     changedArt.put(character, artName);
   }
-  
-  void scaleHeights(float heightScale){
+
+  void scaleHeights(float heightScale) {
     for (CharacterBust bust : characterBusts.values()) {
       bust.setSize(heightScale);
     }
   }
 
-  void Show(String character, int index) {
+  void Show(String character, float index) {
     CharacterBust bust = characterBusts.get(character);
 
     bust.SetPosition(centrePosition + (index * indexWidth));
@@ -52,7 +52,7 @@ class CharacterDisplay {
     displayedCharacterBusts.add(bust);
   }
 
-  void ShowAnother(String character, int index) {
+  void ShowAnother(String character, float index) {
     CharacterBust bust = characterBusts.get(character);
 
     bust.AddAnotherPosition(centrePosition + (index * indexWidth));
@@ -74,6 +74,9 @@ class CharacterDisplay {
   }
 
   void Transition() {
+    if (globalSkipText) {
+      screenshot = true;
+    }
     updateBackground = true;
   }
 }

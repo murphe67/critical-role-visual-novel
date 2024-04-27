@@ -52,6 +52,10 @@ class CharacterBust {
   void SetPositions(ArrayList<Float> positions) {
     xPositions = (ArrayList<Float>)positions.clone();
   }
+  
+  void Greyscale(){
+     image.filter(GRAY); 
+  }
 
   void Display(PGraphics backgroundGraphics) {
     backgroundGraphics.imageMode(CENTER);
